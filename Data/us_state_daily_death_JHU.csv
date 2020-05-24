@@ -1,0 +1,3507 @@
+"","date","state","cum_death","daily_death"
+"Alabama.64",2020-03-25,"Alabama",1,1
+"Alabama.65",2020-03-26,"Alabama",1,0
+"Alabama.66",2020-03-27,"Alabama",4,3
+"Alabama.67",2020-03-28,"Alabama",4,0
+"Alabama.68",2020-03-29,"Alabama",10,6
+"Alabama.69",2020-03-30,"Alabama",10,0
+"Alabama.70",2020-03-31,"Alabama",23,13
+"Alabama.71",2020-04-01,"Alabama",27,4
+"Alabama.72",2020-04-02,"Alabama",32,5
+"Alabama.73",2020-04-03,"Alabama",38,6
+"Alabama.74",2020-04-04,"Alabama",44,6
+"Alabama.75",2020-04-05,"Alabama",45,1
+"Alabama.76",2020-04-06,"Alabama",49,4
+"Alabama.77",2020-04-07,"Alabama",64,15
+"Alabama.78",2020-04-08,"Alabama",66,2
+"Alabama.79",2020-04-09,"Alabama",70,4
+"Alabama.80",2020-04-10,"Alabama",80,10
+"Alabama.81",2020-04-11,"Alabama",92,12
+"Alabama.82",2020-04-12,"Alabama",93,1
+"Alabama.83",2020-04-13,"Alabama",99,6
+"Alabama.84",2020-04-14,"Alabama",114,15
+"Alabama.85",2020-04-15,"Alabama",118,4
+"Alabama.86",2020-04-16,"Alabama",133,15
+"Alabama.87",2020-04-17,"Alabama",148,15
+"Alabama.88",2020-04-18,"Alabama",153,5
+"Alabama.89",2020-04-19,"Alabama",157,4
+"Alabama.90",2020-04-20,"Alabama",163,6
+"Alabama.91",2020-04-21,"Alabama",183,20
+"Alabama.92",2020-04-22,"Alabama",196,13
+"Alabama.93",2020-04-23,"Alabama",202,6
+"Alabama.94",2020-04-24,"Alabama",209,7
+"Alabama.95",2020-04-25,"Alabama",209,0
+"Alabama.96",2020-04-26,"Alabama",219,10
+"Alabama.97",2020-04-27,"Alabama",228,9
+"Alabama.98",2020-04-28,"Alabama",242,14
+"Alabama.99",2020-04-29,"Alabama",256,14
+"Alabama.100",2020-04-30,"Alabama",272,16
+"Alabama.101",2020-05-01,"Alabama",289,17
+"Alabama.102",2020-05-02,"Alabama",288,-1
+"Alabama.103",2020-05-03,"Alabama",290,2
+"Alabama.104",2020-05-04,"Alabama",298,8
+"Alabama.105",2020-05-05,"Alabama",315,17
+"Alabama.106",2020-05-06,"Alabama",343,28
+"Alabama.107",2020-05-07,"Alabama",369,26
+"Alabama.108",2020-05-08,"Alabama",383,14
+"Alabama.109",2020-05-09,"Alabama",390,7
+"Alabama.110",2020-05-10,"Alabama",393,3
+"Alabama.111",2020-05-11,"Alabama",403,10
+"Alabama.112",2020-05-12,"Alabama",435,32
+"Alabama.113",2020-05-13,"Alabama",450,15
+"Alabama.114",2020-05-14,"Alabama",473,23
+"Alabama.115",2020-05-15,"Alabama",483,10
+"Alabama.116",2020-05-16,"Alabama",485,2
+"Alabama.117",2020-05-17,"Alabama",488,3
+"Alabama.118",2020-05-18,"Alabama",489,1
+"Alabama.119",2020-05-19,"Alabama",504,15
+"Alabama.120",2020-05-20,"Alabama",522,18
+"Alabama.121",2020-05-21,"Alabama",529,7
+"Alaska.185",2020-03-25,"Alaska",1,1
+"Alaska.186",2020-03-26,"Alaska",1,0
+"Alaska.187",2020-03-27,"Alaska",1,0
+"Alaska.188",2020-03-28,"Alaska",2,1
+"Alaska.189",2020-03-29,"Alaska",2,0
+"Alaska.190",2020-03-30,"Alaska",3,1
+"Alaska.191",2020-03-31,"Alaska",3,0
+"Alaska.192",2020-04-01,"Alaska",3,0
+"Alaska.193",2020-04-02,"Alaska",3,0
+"Alaska.194",2020-04-03,"Alaska",3,0
+"Alaska.195",2020-04-04,"Alaska",5,2
+"Alaska.196",2020-04-05,"Alaska",6,1
+"Alaska.197",2020-04-06,"Alaska",6,0
+"Alaska.198",2020-04-07,"Alaska",6,0
+"Alaska.199",2020-04-08,"Alaska",7,1
+"Alaska.200",2020-04-09,"Alaska",7,0
+"Alaska.201",2020-04-10,"Alaska",7,0
+"Alaska.202",2020-04-11,"Alaska",8,1
+"Alaska.203",2020-04-12,"Alaska",8,0
+"Alaska.204",2020-04-13,"Alaska",8,0
+"Alaska.205",2020-04-14,"Alaska",9,1
+"Alaska.206",2020-04-15,"Alaska",9,0
+"Alaska.207",2020-04-16,"Alaska",9,0
+"Alaska.208",2020-04-17,"Alaska",9,0
+"Alaska.209",2020-04-18,"Alaska",9,0
+"Alaska.210",2020-04-19,"Alaska",9,0
+"Alaska.211",2020-04-20,"Alaska",9,0
+"Alaska.212",2020-04-21,"Alaska",9,0
+"Alaska.213",2020-04-22,"Alaska",9,0
+"Alaska.214",2020-04-23,"Alaska",9,0
+"Alaska.215",2020-04-24,"Alaska",9,0
+"Alaska.216",2020-04-25,"Alaska",9,0
+"Alaska.217",2020-04-26,"Alaska",9,0
+"Alaska.218",2020-04-27,"Alaska",9,0
+"Alaska.219",2020-04-28,"Alaska",9,0
+"Alaska.220",2020-04-29,"Alaska",9,0
+"Alaska.221",2020-04-30,"Alaska",9,0
+"Alaska.222",2020-05-01,"Alaska",9,0
+"Alaska.223",2020-05-02,"Alaska",9,0
+"Alaska.224",2020-05-03,"Alaska",9,0
+"Alaska.225",2020-05-04,"Alaska",9,0
+"Alaska.226",2020-05-05,"Alaska",9,0
+"Alaska.227",2020-05-06,"Alaska",10,1
+"Alaska.228",2020-05-07,"Alaska",10,0
+"Alaska.229",2020-05-08,"Alaska",10,0
+"Alaska.230",2020-05-09,"Alaska",10,0
+"Alaska.231",2020-05-10,"Alaska",10,0
+"Alaska.232",2020-05-11,"Alaska",10,0
+"Alaska.233",2020-05-12,"Alaska",10,0
+"Alaska.234",2020-05-13,"Alaska",10,0
+"Alaska.235",2020-05-14,"Alaska",10,0
+"Alaska.236",2020-05-15,"Alaska",10,0
+"Alaska.237",2020-05-16,"Alaska",10,0
+"Alaska.238",2020-05-17,"Alaska",10,0
+"Alaska.239",2020-05-18,"Alaska",10,0
+"Alaska.240",2020-05-19,"Alaska",10,0
+"Alaska.241",2020-05-20,"Alaska",10,0
+"Alaska.242",2020-05-21,"Alaska",10,0
+"Arizona.423",2020-03-21,"Arizona",1,1
+"Arizona.424",2020-03-22,"Arizona",2,1
+"Arizona.425",2020-03-23,"Arizona",2,0
+"Arizona.426",2020-03-24,"Arizona",5,3
+"Arizona.427",2020-03-25,"Arizona",6,1
+"Arizona.428",2020-03-26,"Arizona",8,2
+"Arizona.429",2020-03-27,"Arizona",13,5
+"Arizona.430",2020-03-28,"Arizona",15,2
+"Arizona.431",2020-03-29,"Arizona",17,2
+"Arizona.432",2020-03-30,"Arizona",20,3
+"Arizona.433",2020-03-31,"Arizona",25,5
+"Arizona.434",2020-04-01,"Arizona",32,7
+"Arizona.435",2020-04-02,"Arizona",35,3
+"Arizona.436",2020-04-03,"Arizona",44,9
+"Arizona.437",2020-04-04,"Arizona",52,8
+"Arizona.438",2020-04-05,"Arizona",64,12
+"Arizona.439",2020-04-06,"Arizona",65,1
+"Arizona.440",2020-04-07,"Arizona",73,8
+"Arizona.441",2020-04-08,"Arizona",89,16
+"Arizona.442",2020-04-09,"Arizona",98,9
+"Arizona.443",2020-04-10,"Arizona",106,8
+"Arizona.444",2020-04-11,"Arizona",117,11
+"Arizona.445",2020-04-12,"Arizona",125,8
+"Arizona.446",2020-04-13,"Arizona",132,7
+"Arizona.447",2020-04-14,"Arizona",143,11
+"Arizona.448",2020-04-15,"Arizona",155,12
+"Arizona.449",2020-04-16,"Arizona",164,9
+"Arizona.450",2020-04-17,"Arizona",183,19
+"Arizona.451",2020-04-18,"Arizona",180,-3
+"Arizona.452",2020-04-19,"Arizona",184,4
+"Arizona.453",2020-04-20,"Arizona",191,7
+"Arizona.454",2020-04-21,"Arizona",208,17
+"Arizona.455",2020-04-22,"Arizona",231,23
+"Arizona.456",2020-04-23,"Arizona",249,18
+"Arizona.457",2020-04-24,"Arizona",266,17
+"Arizona.458",2020-04-25,"Arizona",273,7
+"Arizona.459",2020-04-26,"Arizona",275,2
+"Arizona.460",2020-04-27,"Arizona",275,0
+"Arizona.461",2020-04-28,"Arizona",275,0
+"Arizona.462",2020-04-29,"Arizona",308,33
+"Arizona.463",2020-04-30,"Arizona",320,12
+"Arizona.464",2020-05-01,"Arizona",330,10
+"Arizona.465",2020-05-02,"Arizona",330,0
+"Arizona.466",2020-05-03,"Arizona",362,32
+"Arizona.467",2020-05-04,"Arizona",362,0
+"Arizona.468",2020-05-05,"Arizona",395,33
+"Arizona.469",2020-05-06,"Arizona",426,31
+"Arizona.470",2020-05-07,"Arizona",450,24
+"Arizona.471",2020-05-08,"Arizona",517,67
+"Arizona.472",2020-05-09,"Arizona",532,15
+"Arizona.473",2020-05-10,"Arizona",536,4
+"Arizona.474",2020-05-11,"Arizona",542,6
+"Arizona.475",2020-05-12,"Arizona",562,20
+"Arizona.476",2020-05-13,"Arizona",595,33
+"Arizona.477",2020-05-14,"Arizona",624,29
+"Arizona.478",2020-05-15,"Arizona",651,27
+"Arizona.479",2020-05-16,"Arizona",679,28
+"Arizona.480",2020-05-17,"Arizona",680,1
+"Arizona.481",2020-05-18,"Arizona",687,7
+"Arizona.482",2020-05-19,"Arizona",705,18
+"Arizona.483",2020-05-20,"Arizona",747,42
+"Arizona.484",2020-05-21,"Arizona",764,17
+"Arkansas.547",2020-03-24,"Arkansas",2,2
+"Arkansas.548",2020-03-25,"Arkansas",2,0
+"Arkansas.549",2020-03-26,"Arkansas",2,0
+"Arkansas.550",2020-03-27,"Arkansas",3,1
+"Arkansas.551",2020-03-28,"Arkansas",5,2
+"Arkansas.552",2020-03-29,"Arkansas",6,1
+"Arkansas.553",2020-03-30,"Arkansas",7,1
+"Arkansas.554",2020-03-31,"Arkansas",8,1
+"Arkansas.555",2020-04-01,"Arkansas",10,2
+"Arkansas.556",2020-04-02,"Arkansas",12,2
+"Arkansas.557",2020-04-03,"Arkansas",12,0
+"Arkansas.558",2020-04-04,"Arkansas",14,2
+"Arkansas.559",2020-04-05,"Arkansas",16,2
+"Arkansas.560",2020-04-06,"Arkansas",16,0
+"Arkansas.561",2020-04-07,"Arkansas",18,2
+"Arkansas.562",2020-04-08,"Arkansas",18,0
+"Arkansas.563",2020-04-09,"Arkansas",21,3
+"Arkansas.564",2020-04-10,"Arkansas",21,0
+"Arkansas.565",2020-04-11,"Arkansas",25,4
+"Arkansas.566",2020-04-12,"Arkansas",27,2
+"Arkansas.567",2020-04-13,"Arkansas",29,2
+"Arkansas.568",2020-04-14,"Arkansas",32,3
+"Arkansas.569",2020-04-15,"Arkansas",33,1
+"Arkansas.570",2020-04-16,"Arkansas",37,4
+"Arkansas.571",2020-04-17,"Arkansas",37,0
+"Arkansas.572",2020-04-18,"Arkansas",38,1
+"Arkansas.573",2020-04-19,"Arkansas",39,1
+"Arkansas.574",2020-04-20,"Arkansas",41,2
+"Arkansas.575",2020-04-21,"Arkansas",42,1
+"Arkansas.576",2020-04-22,"Arkansas",42,0
+"Arkansas.577",2020-04-23,"Arkansas",45,3
+"Arkansas.578",2020-04-24,"Arkansas",47,2
+"Arkansas.579",2020-04-25,"Arkansas",48,1
+"Arkansas.580",2020-04-26,"Arkansas",51,3
+"Arkansas.581",2020-04-27,"Arkansas",51,0
+"Arkansas.582",2020-04-28,"Arkansas",57,6
+"Arkansas.583",2020-04-29,"Arkansas",57,0
+"Arkansas.584",2020-04-30,"Arkansas",61,4
+"Arkansas.585",2020-05-01,"Arkansas",64,3
+"Arkansas.586",2020-05-02,"Arkansas",72,8
+"Arkansas.587",2020-05-03,"Arkansas",76,4
+"Arkansas.588",2020-05-04,"Arkansas",80,4
+"Arkansas.589",2020-05-05,"Arkansas",83,3
+"Arkansas.590",2020-05-06,"Arkansas",87,4
+"Arkansas.591",2020-05-07,"Arkansas",87,0
+"Arkansas.592",2020-05-08,"Arkansas",88,1
+"Arkansas.593",2020-05-09,"Arkansas",88,0
+"Arkansas.594",2020-05-10,"Arkansas",91,3
+"Arkansas.595",2020-05-11,"Arkansas",94,3
+"Arkansas.596",2020-05-12,"Arkansas",95,1
+"Arkansas.597",2020-05-13,"Arkansas",97,2
+"Arkansas.598",2020-05-14,"Arkansas",98,1
+"Arkansas.599",2020-05-15,"Arkansas",98,0
+"Arkansas.600",2020-05-16,"Arkansas",98,0
+"Arkansas.601",2020-05-17,"Arkansas",98,0
+"Arkansas.602",2020-05-18,"Arkansas",100,2
+"Arkansas.603",2020-05-19,"Arkansas",102,2
+"Arkansas.604",2020-05-20,"Arkansas",107,5
+"Arkansas.605",2020-05-21,"Arkansas",110,3
+"California.648",2020-03-04,"California",1,1
+"California.649",2020-03-05,"California",1,0
+"California.650",2020-03-06,"California",1,0
+"California.651",2020-03-07,"California",1,0
+"California.652",2020-03-08,"California",1,0
+"California.653",2020-03-09,"California",1,0
+"California.654",2020-03-10,"California",2,1
+"California.655",2020-03-11,"California",4,2
+"California.656",2020-03-12,"California",4,0
+"California.657",2020-03-13,"California",4,0
+"California.658",2020-03-14,"California",3,-1
+"California.659",2020-03-15,"California",5,2
+"California.660",2020-03-16,"California",7,2
+"California.661",2020-03-17,"California",12,5
+"California.662",2020-03-18,"California",16,4
+"California.663",2020-03-19,"California",18,2
+"California.664",2020-03-20,"California",24,6
+"California.665",2020-03-21,"California",25,1
+"California.666",2020-03-22,"California",30,5
+"California.667",2020-03-23,"California",39,9
+"California.668",2020-03-24,"California",50,11
+"California.669",2020-03-25,"California",65,15
+"California.670",2020-03-26,"California",81,16
+"California.671",2020-03-27,"California",94,13
+"California.672",2020-03-28,"California",110,16
+"California.673",2020-03-29,"California",124,14
+"California.674",2020-03-30,"California",146,22
+"California.675",2020-03-31,"California",173,27
+"California.676",2020-04-01,"California",199,26
+"California.677",2020-04-02,"California",238,39
+"California.678",2020-04-03,"California",265,27
+"California.679",2020-04-04,"California",289,24
+"California.680",2020-04-05,"California",348,59
+"California.681",2020-04-06,"California",380,32
+"California.682",2020-04-07,"California",432,52
+"California.683",2020-04-08,"California",495,63
+"California.684",2020-04-09,"California",544,49
+"California.685",2020-04-10,"California",583,39
+"California.686",2020-04-11,"California",604,21
+"California.687",2020-04-12,"California",640,36
+"California.688",2020-04-13,"California",714,74
+"California.689",2020-04-14,"California",767,53
+"California.690",2020-04-15,"California",860,93
+"California.691",2020-04-16,"California",956,96
+"California.692",2020-04-17,"California",1037,81
+"California.693",2020-04-18,"California",1140,103
+"California.694",2020-04-19,"California",1177,37
+"California.695",2020-04-20,"California",1225,48
+"California.696",2020-04-21,"California",1282,57
+"California.697",2020-04-22,"California",1421,139
+"California.698",2020-04-23,"California",1533,112
+"California.699",2020-04-24,"California",1621,88
+"California.700",2020-04-25,"California",1689,68
+"California.701",2020-04-26,"California",1725,36
+"California.702",2020-04-27,"California",1779,54
+"California.703",2020-04-28,"California",1864,85
+"California.704",2020-04-29,"California",1946,82
+"California.705",2020-04-30,"California",2031,85
+"California.706",2020-05-01,"California",2126,95
+"California.707",2020-05-02,"California",2180,54
+"California.708",2020-05-03,"California",2216,36
+"California.709",2020-05-04,"California",2278,62
+"California.710",2020-05-05,"California",2381,103
+"California.711",2020-05-06,"California",2464,83
+"California.712",2020-05-07,"California",2535,71
+"California.713",2020-05-08,"California",2613,78
+"California.714",2020-05-09,"California",2687,74
+"California.715",2020-05-10,"California",2716,29
+"California.716",2020-05-11,"California",2779,63
+"California.717",2020-05-12,"California",2879,100
+"California.718",2020-05-13,"California",2957,78
+"California.719",2020-05-14,"California",3052,95
+"California.720",2020-05-15,"California",3136,84
+"California.721",2020-05-16,"California",3208,72
+"California.722",2020-05-17,"California",3240,32
+"California.723",2020-05-18,"California",3279,39
+"California.724",2020-05-19,"California",3403,124
+"California.725",2020-05-20,"California",3497,94
+"California.726",2020-05-21,"California",3583,86
+"Colorado.777",2020-03-12,"Colorado",1,1
+"Colorado.778",2020-03-13,"Colorado",2,1
+"Colorado.779",2020-03-14,"Colorado",2,0
+"Colorado.780",2020-03-15,"Colorado",2,0
+"Colorado.781",2020-03-16,"Colorado",2,0
+"Colorado.782",2020-03-17,"Colorado",3,1
+"Colorado.783",2020-03-18,"Colorado",3,0
+"Colorado.784",2020-03-19,"Colorado",5,2
+"Colorado.785",2020-03-20,"Colorado",5,0
+"Colorado.786",2020-03-21,"Colorado",6,1
+"Colorado.787",2020-03-22,"Colorado",7,1
+"Colorado.788",2020-03-23,"Colorado",7,0
+"Colorado.789",2020-03-24,"Colorado",11,4
+"Colorado.790",2020-03-25,"Colorado",20,9
+"Colorado.791",2020-03-26,"Colorado",19,-1
+"Colorado.792",2020-03-27,"Colorado",31,12
+"Colorado.793",2020-03-28,"Colorado",44,13
+"Colorado.794",2020-03-29,"Colorado",47,3
+"Colorado.795",2020-03-30,"Colorado",51,4
+"Colorado.796",2020-03-31,"Colorado",69,18
+"Colorado.797",2020-04-01,"Colorado",79,10
+"Colorado.798",2020-04-02,"Colorado",97,18
+"Colorado.799",2020-04-03,"Colorado",111,14
+"Colorado.800",2020-04-04,"Colorado",126,15
+"Colorado.801",2020-04-05,"Colorado",140,14
+"Colorado.802",2020-04-06,"Colorado",150,10
+"Colorado.803",2020-04-07,"Colorado",179,29
+"Colorado.804",2020-04-08,"Colorado",193,14
+"Colorado.805",2020-04-09,"Colorado",226,33
+"Colorado.806",2020-04-10,"Colorado",250,24
+"Colorado.807",2020-04-11,"Colorado",274,24
+"Colorado.808",2020-04-12,"Colorado",289,15
+"Colorado.809",2020-04-13,"Colorado",306,17
+"Colorado.810",2020-04-14,"Colorado",327,21
+"Colorado.811",2020-04-15,"Colorado",354,27
+"Colorado.812",2020-04-16,"Colorado",372,18
+"Colorado.813",2020-04-17,"Colorado",389,17
+"Colorado.814",2020-04-18,"Colorado",411,22
+"Colorado.815",2020-04-19,"Colorado",420,9
+"Colorado.816",2020-04-20,"Colorado",447,27
+"Colorado.817",2020-04-21,"Colorado",483,36
+"Colorado.818",2020-04-22,"Colorado",506,23
+"Colorado.819",2020-04-23,"Colorado",552,46
+"Colorado.820",2020-04-24,"Colorado",674,122
+"Colorado.821",2020-04-25,"Colorado",684,10
+"Colorado.822",2020-04-26,"Colorado",688,4
+"Colorado.823",2020-04-27,"Colorado",706,18
+"Colorado.824",2020-04-28,"Colorado",736,30
+"Colorado.825",2020-04-29,"Colorado",766,30
+"Colorado.826",2020-04-30,"Colorado",777,11
+"Colorado.827",2020-05-01,"Colorado",821,44
+"Colorado.828",2020-05-02,"Colorado",832,11
+"Colorado.829",2020-05-03,"Colorado",842,10
+"Colorado.830",2020-05-04,"Colorado",851,9
+"Colorado.831",2020-05-05,"Colorado",903,52
+"Colorado.832",2020-05-06,"Colorado",919,16
+"Colorado.833",2020-05-07,"Colorado",944,25
+"Colorado.834",2020-05-08,"Colorado",960,16
+"Colorado.835",2020-05-09,"Colorado",967,7
+"Colorado.836",2020-05-10,"Colorado",971,4
+"Colorado.837",2020-05-11,"Colorado",987,16
+"Colorado.838",2020-05-12,"Colorado",1010,23
+"Colorado.839",2020-05-13,"Colorado",1062,52
+"Colorado.840",2020-05-14,"Colorado",1086,24
+"Colorado.841",2020-05-15,"Colorado",1150,64
+"Colorado.842",2020-05-16,"Colorado",1192,42
+"Colorado.843",2020-05-17,"Colorado",1215,23
+"Colorado.844",2020-05-18,"Colorado",1224,9
+"Colorado.845",2020-05-19,"Colorado",1257,33
+"Colorado.846",2020-05-20,"Colorado",1299,42
+"Colorado.847",2020-05-21,"Colorado",1310,11
+"Connecticut.904",2020-03-18,"Connecticut",1,1
+"Connecticut.905",2020-03-19,"Connecticut",3,2
+"Connecticut.906",2020-03-20,"Connecticut",4,1
+"Connecticut.907",2020-03-21,"Connecticut",4,0
+"Connecticut.908",2020-03-22,"Connecticut",8,4
+"Connecticut.909",2020-03-23,"Connecticut",10,2
+"Connecticut.910",2020-03-24,"Connecticut",12,2
+"Connecticut.911",2020-03-25,"Connecticut",19,7
+"Connecticut.912",2020-03-26,"Connecticut",21,2
+"Connecticut.913",2020-03-27,"Connecticut",27,6
+"Connecticut.914",2020-03-28,"Connecticut",33,6
+"Connecticut.915",2020-03-29,"Connecticut",34,1
+"Connecticut.916",2020-03-30,"Connecticut",36,2
+"Connecticut.917",2020-03-31,"Connecticut",69,33
+"Connecticut.918",2020-04-01,"Connecticut",85,16
+"Connecticut.919",2020-04-02,"Connecticut",112,27
+"Connecticut.920",2020-04-03,"Connecticut",131,19
+"Connecticut.921",2020-04-04,"Connecticut",165,34
+"Connecticut.922",2020-04-05,"Connecticut",189,24
+"Connecticut.923",2020-04-06,"Connecticut",206,17
+"Connecticut.924",2020-04-07,"Connecticut",277,71
+"Connecticut.925",2020-04-08,"Connecticut",326,49
+"Connecticut.926",2020-04-09,"Connecticut",380,54
+"Connecticut.927",2020-04-10,"Connecticut",448,68
+"Connecticut.928",2020-04-11,"Connecticut",494,46
+"Connecticut.929",2020-04-12,"Connecticut",554,60
+"Connecticut.930",2020-04-13,"Connecticut",602,48
+"Connecticut.931",2020-04-14,"Connecticut",671,69
+"Connecticut.932",2020-04-15,"Connecticut",868,197
+"Connecticut.933",2020-04-16,"Connecticut",971,103
+"Connecticut.934",2020-04-17,"Connecticut",1036,65
+"Connecticut.935",2020-04-18,"Connecticut",1086,50
+"Connecticut.936",2020-04-19,"Connecticut",1127,41
+"Connecticut.937",2020-04-20,"Connecticut",1331,204
+"Connecticut.938",2020-04-21,"Connecticut",1423,92
+"Connecticut.939",2020-04-22,"Connecticut",1544,121
+"Connecticut.940",2020-04-23,"Connecticut",1639,95
+"Connecticut.941",2020-04-24,"Connecticut",1767,128
+"Connecticut.942",2020-04-25,"Connecticut",1865,98
+"Connecticut.943",2020-04-26,"Connecticut",1924,59
+"Connecticut.944",2020-04-27,"Connecticut",2012,88
+"Connecticut.945",2020-04-28,"Connecticut",2087,75
+"Connecticut.946",2020-04-29,"Connecticut",2169,82
+"Connecticut.947",2020-04-30,"Connecticut",2257,88
+"Connecticut.948",2020-05-01,"Connecticut",2339,82
+"Connecticut.949",2020-05-02,"Connecticut",2436,97
+"Connecticut.950",2020-05-03,"Connecticut",2436,0
+"Connecticut.951",2020-05-04,"Connecticut",2556,120
+"Connecticut.952",2020-05-05,"Connecticut",2633,77
+"Connecticut.953",2020-05-06,"Connecticut",2718,85
+"Connecticut.954",2020-05-07,"Connecticut",2797,79
+"Connecticut.955",2020-05-08,"Connecticut",2874,77
+"Connecticut.956",2020-05-09,"Connecticut",2932,58
+"Connecticut.957",2020-05-10,"Connecticut",2967,35
+"Connecticut.958",2020-05-11,"Connecticut",3008,41
+"Connecticut.959",2020-05-12,"Connecticut",3041,33
+"Connecticut.960",2020-05-13,"Connecticut",3125,84
+"Connecticut.961",2020-05-14,"Connecticut",3219,94
+"Connecticut.962",2020-05-15,"Connecticut",3285,66
+"Connecticut.963",2020-05-16,"Connecticut",3339,54
+"Connecticut.964",2020-05-17,"Connecticut",3408,69
+"Connecticut.965",2020-05-18,"Connecticut",3450,42
+"Connecticut.966",2020-05-19,"Connecticut",3472,22
+"Connecticut.967",2020-05-20,"Connecticut",3529,57
+"Connecticut.968",2020-05-21,"Connecticut",3583,54
+"Delaware.1033",2020-03-26,"Delaware",1,1
+"Delaware.1034",2020-03-27,"Delaware",2,1
+"Delaware.1035",2020-03-28,"Delaware",5,3
+"Delaware.1036",2020-03-29,"Delaware",6,1
+"Delaware.1037",2020-03-30,"Delaware",6,0
+"Delaware.1038",2020-03-31,"Delaware",10,4
+"Delaware.1039",2020-04-01,"Delaware",11,1
+"Delaware.1040",2020-04-02,"Delaware",12,1
+"Delaware.1041",2020-04-03,"Delaware",14,2
+"Delaware.1042",2020-04-04,"Delaware",14,0
+"Delaware.1043",2020-04-05,"Delaware",14,0
+"Delaware.1044",2020-04-06,"Delaware",15,1
+"Delaware.1045",2020-04-07,"Delaware",16,1
+"Delaware.1046",2020-04-08,"Delaware",19,3
+"Delaware.1047",2020-04-09,"Delaware",23,4
+"Delaware.1048",2020-04-10,"Delaware",32,9
+"Delaware.1049",2020-04-11,"Delaware",33,1
+"Delaware.1050",2020-04-12,"Delaware",35,2
+"Delaware.1051",2020-04-13,"Delaware",41,6
+"Delaware.1052",2020-04-14,"Delaware",43,2
+"Delaware.1053",2020-04-15,"Delaware",46,3
+"Delaware.1054",2020-04-16,"Delaware",55,9
+"Delaware.1055",2020-04-17,"Delaware",61,6
+"Delaware.1056",2020-04-18,"Delaware",67,6
+"Delaware.1057",2020-04-19,"Delaware",67,0
+"Delaware.1058",2020-04-20,"Delaware",72,5
+"Delaware.1059",2020-04-21,"Delaware",82,10
+"Delaware.1060",2020-04-22,"Delaware",89,7
+"Delaware.1061",2020-04-23,"Delaware",92,3
+"Delaware.1062",2020-04-24,"Delaware",100,8
+"Delaware.1063",2020-04-25,"Delaware",112,12
+"Delaware.1064",2020-04-26,"Delaware",120,8
+"Delaware.1065",2020-04-27,"Delaware",125,5
+"Delaware.1066",2020-04-28,"Delaware",137,12
+"Delaware.1067",2020-04-29,"Delaware",144,7
+"Delaware.1068",2020-04-30,"Delaware",152,8
+"Delaware.1069",2020-05-01,"Delaware",159,7
+"Delaware.1070",2020-05-02,"Delaware",168,9
+"Delaware.1071",2020-05-03,"Delaware",177,9
+"Delaware.1072",2020-05-04,"Delaware",182,5
+"Delaware.1073",2020-05-05,"Delaware",187,5
+"Delaware.1074",2020-05-06,"Delaware",193,6
+"Delaware.1075",2020-05-07,"Delaware",202,9
+"Delaware.1076",2020-05-08,"Delaware",213,11
+"Delaware.1077",2020-05-09,"Delaware",221,8
+"Delaware.1078",2020-05-10,"Delaware",221,0
+"Delaware.1079",2020-05-11,"Delaware",225,4
+"Delaware.1080",2020-05-12,"Delaware",237,12
+"Delaware.1081",2020-05-13,"Delaware",247,10
+"Delaware.1082",2020-05-14,"Delaware",260,13
+"Delaware.1083",2020-05-15,"Delaware",271,11
+"Delaware.1084",2020-05-16,"Delaware",286,15
+"Delaware.1085",2020-05-17,"Delaware",290,4
+"Delaware.1086",2020-05-18,"Delaware",297,7
+"Delaware.1087",2020-05-19,"Delaware",304,7
+"Delaware.1088",2020-05-20,"Delaware",310,6
+"Delaware.1089",2020-05-21,"Delaware",317,7
+"District of Columbia.1269",2020-03-20,"District of Columbia",1,1
+"District of Columbia.1271",2020-03-22,"District of Columbia",2,2
+"District of Columbia.1272",2020-03-23,"District of Columbia",2,0
+"District of Columbia.1273",2020-03-24,"District of Columbia",2,0
+"District of Columbia.1274",2020-03-25,"District of Columbia",2,0
+"District of Columbia.1275",2020-03-26,"District of Columbia",3,1
+"District of Columbia.1276",2020-03-27,"District of Columbia",3,0
+"District of Columbia.1277",2020-03-28,"District of Columbia",4,1
+"District of Columbia.1278",2020-03-29,"District of Columbia",5,1
+"District of Columbia.1279",2020-03-30,"District of Columbia",9,4
+"District of Columbia.1280",2020-03-31,"District of Columbia",9,0
+"District of Columbia.1281",2020-04-01,"District of Columbia",9,0
+"District of Columbia.1282",2020-04-02,"District of Columbia",12,3
+"District of Columbia.1283",2020-04-03,"District of Columbia",15,3
+"District of Columbia.1284",2020-04-04,"District of Columbia",21,6
+"District of Columbia.1285",2020-04-05,"District of Columbia",22,1
+"District of Columbia.1286",2020-04-06,"District of Columbia",24,2
+"District of Columbia.1287",2020-04-07,"District of Columbia",22,-2
+"District of Columbia.1288",2020-04-08,"District of Columbia",27,5
+"District of Columbia.1289",2020-04-09,"District of Columbia",32,5
+"District of Columbia.1290",2020-04-10,"District of Columbia",38,6
+"District of Columbia.1291",2020-04-11,"District of Columbia",47,9
+"District of Columbia.1292",2020-04-12,"District of Columbia",50,3
+"District of Columbia.1293",2020-04-13,"District of Columbia",52,2
+"District of Columbia.1294",2020-04-14,"District of Columbia",67,15
+"District of Columbia.1295",2020-04-15,"District of Columbia",72,5
+"District of Columbia.1296",2020-04-16,"District of Columbia",81,9
+"District of Columbia.1297",2020-04-17,"District of Columbia",86,5
+"District of Columbia.1298",2020-04-18,"District of Columbia",91,5
+"District of Columbia.1299",2020-04-19,"District of Columbia",96,5
+"District of Columbia.1300",2020-04-20,"District of Columbia",105,9
+"District of Columbia.1301",2020-04-21,"District of Columbia",112,7
+"District of Columbia.1302",2020-04-22,"District of Columbia",127,15
+"District of Columbia.1303",2020-04-23,"District of Columbia",139,12
+"District of Columbia.1304",2020-04-24,"District of Columbia",153,14
+"District of Columbia.1305",2020-04-25,"District of Columbia",165,12
+"District of Columbia.1306",2020-04-26,"District of Columbia",178,13
+"District of Columbia.1307",2020-04-27,"District of Columbia",185,7
+"District of Columbia.1308",2020-04-28,"District of Columbia",190,5
+"District of Columbia.1309",2020-04-29,"District of Columbia",205,15
+"District of Columbia.1310",2020-04-30,"District of Columbia",224,19
+"District of Columbia.1311",2020-05-01,"District of Columbia",231,7
+"District of Columbia.1312",2020-05-02,"District of Columbia",240,9
+"District of Columbia.1313",2020-05-03,"District of Columbia",251,11
+"District of Columbia.1314",2020-05-04,"District of Columbia",258,7
+"District of Columbia.1315",2020-05-05,"District of Columbia",264,6
+"District of Columbia.1316",2020-05-06,"District of Columbia",277,13
+"District of Columbia.1317",2020-05-07,"District of Columbia",285,8
+"District of Columbia.1318",2020-05-08,"District of Columbia",304,19
+"District of Columbia.1319",2020-05-09,"District of Columbia",311,7
+"District of Columbia.1320",2020-05-10,"District of Columbia",323,12
+"District of Columbia.1321",2020-05-11,"District of Columbia",328,5
+"District of Columbia.1322",2020-05-12,"District of Columbia",336,8
+"District of Columbia.1323",2020-05-13,"District of Columbia",350,14
+"District of Columbia.1324",2020-05-14,"District of Columbia",358,8
+"District of Columbia.1325",2020-05-15,"District of Columbia",368,10
+"District of Columbia.1326",2020-05-16,"District of Columbia",375,7
+"District of Columbia.1327",2020-05-17,"District of Columbia",383,8
+"District of Columbia.1328",2020-05-18,"District of Columbia",392,9
+"District of Columbia.1329",2020-05-19,"District of Columbia",400,8
+"District of Columbia.1330",2020-05-20,"District of Columbia",407,7
+"District of Columbia.1331",2020-05-21,"District of Columbia",412,5
+"Florida.1378",2020-03-08,"Florida",2,2
+"Florida.1379",2020-03-09,"Florida",2,0
+"Florida.1380",2020-03-10,"Florida",2,0
+"Florida.1381",2020-03-11,"Florida",2,0
+"Florida.1382",2020-03-12,"Florida",2,0
+"Florida.1383",2020-03-13,"Florida",2,0
+"Florida.1384",2020-03-14,"Florida",2,0
+"Florida.1385",2020-03-15,"Florida",3,1
+"Florida.1386",2020-03-16,"Florida",3,0
+"Florida.1387",2020-03-17,"Florida",5,2
+"Florida.1388",2020-03-18,"Florida",7,2
+"Florida.1389",2020-03-19,"Florida",9,2
+"Florida.1390",2020-03-20,"Florida",11,2
+"Florida.1391",2020-03-21,"Florida",13,2
+"Florida.1392",2020-03-22,"Florida",13,0
+"Florida.1393",2020-03-23,"Florida",18,5
+"Florida.1394",2020-03-24,"Florida",18,0
+"Florida.1395",2020-03-25,"Florida",23,5
+"Florida.1396",2020-03-26,"Florida",29,6
+"Florida.1397",2020-03-27,"Florida",35,6
+"Florida.1398",2020-03-28,"Florida",54,19
+"Florida.1399",2020-03-29,"Florida",56,2
+"Florida.1400",2020-03-30,"Florida",63,7
+"Florida.1401",2020-03-31,"Florida",85,22
+"Florida.1402",2020-04-01,"Florida",87,2
+"Florida.1403",2020-04-02,"Florida",164,77
+"Florida.1404",2020-04-03,"Florida",170,6
+"Florida.1405",2020-04-04,"Florida",195,25
+"Florida.1406",2020-04-05,"Florida",221,26
+"Florida.1407",2020-04-06,"Florida",236,15
+"Florida.1408",2020-04-07,"Florida",283,47
+"Florida.1409",2020-04-08,"Florida",309,26
+"Florida.1410",2020-04-09,"Florida",354,45
+"Florida.1411",2020-04-10,"Florida",390,36
+"Florida.1412",2020-04-11,"Florida",438,48
+"Florida.1413",2020-04-12,"Florida",461,23
+"Florida.1414",2020-04-13,"Florida",499,38
+"Florida.1415",2020-04-14,"Florida",571,72
+"Florida.1416",2020-04-15,"Florida",596,25
+"Florida.1417",2020-04-16,"Florida",668,72
+"Florida.1418",2020-04-17,"Florida",725,57
+"Florida.1419",2020-04-18,"Florida",748,23
+"Florida.1420",2020-04-19,"Florida",774,26
+"Florida.1421",2020-04-20,"Florida",822,48
+"Florida.1422",2020-04-21,"Florida",867,45
+"Florida.1423",2020-04-22,"Florida",893,26
+"Florida.1424",2020-04-23,"Florida",987,94
+"Florida.1425",2020-04-24,"Florida",1046,59
+"Florida.1426",2020-04-25,"Florida",1055,9
+"Florida.1427",2020-04-26,"Florida",1075,20
+"Florida.1428",2020-04-27,"Florida",1088,13
+"Florida.1429",2020-04-28,"Florida",1171,83
+"Florida.1430",2020-04-29,"Florida",1218,47
+"Florida.1431",2020-04-30,"Florida",1268,50
+"Florida.1432",2020-05-01,"Florida",1314,46
+"Florida.1433",2020-05-02,"Florida",1364,50
+"Florida.1434",2020-05-03,"Florida",1379,15
+"Florida.1435",2020-05-04,"Florida",1399,20
+"Florida.1436",2020-05-05,"Florida",1471,72
+"Florida.1437",2020-05-06,"Florida",1539,68
+"Florida.1438",2020-05-07,"Florida",1600,61
+"Florida.1439",2020-05-08,"Florida",1669,69
+"Florida.1440",2020-05-09,"Florida",1715,46
+"Florida.1441",2020-05-10,"Florida",1721,6
+"Florida.1442",2020-05-11,"Florida",1735,14
+"Florida.1443",2020-05-12,"Florida",1779,44
+"Florida.1444",2020-05-13,"Florida",1827,48
+"Florida.1445",2020-05-14,"Florida",1875,48
+"Florida.1446",2020-05-15,"Florida",1917,42
+"Florida.1447",2020-05-16,"Florida",1964,47
+"Florida.1448",2020-05-17,"Florida",1973,9
+"Florida.1449",2020-05-18,"Florida",1997,24
+"Florida.1450",2020-05-19,"Florida",2052,55
+"Florida.1451",2020-05-20,"Florida",2096,44
+"Florida.1452",2020-05-21,"Florida",2144,48
+"Georgia.1503",2020-03-12,"Georgia",1,1
+"Georgia.1504",2020-03-13,"Georgia",1,0
+"Georgia.1505",2020-03-14,"Georgia",1,0
+"Georgia.1506",2020-03-15,"Georgia",1,0
+"Georgia.1507",2020-03-16,"Georgia",1,0
+"Georgia.1508",2020-03-17,"Georgia",1,0
+"Georgia.1509",2020-03-18,"Georgia",3,2
+"Georgia.1510",2020-03-19,"Georgia",10,7
+"Georgia.1511",2020-03-20,"Georgia",14,4
+"Georgia.1512",2020-03-21,"Georgia",20,6
+"Georgia.1513",2020-03-22,"Georgia",25,5
+"Georgia.1514",2020-03-23,"Georgia",25,0
+"Georgia.1515",2020-03-24,"Georgia",32,7
+"Georgia.1516",2020-03-25,"Georgia",40,8
+"Georgia.1517",2020-03-26,"Georgia",48,8
+"Georgia.1518",2020-03-27,"Georgia",64,16
+"Georgia.1519",2020-03-28,"Georgia",69,5
+"Georgia.1520",2020-03-29,"Georgia",80,11
+"Georgia.1521",2020-03-30,"Georgia",87,7
+"Georgia.1522",2020-03-31,"Georgia",111,24
+"Georgia.1523",2020-04-01,"Georgia",139,28
+"Georgia.1524",2020-04-02,"Georgia",163,24
+"Georgia.1525",2020-04-03,"Georgia",184,21
+"Georgia.1526",2020-04-04,"Georgia",201,17
+"Georgia.1527",2020-04-05,"Georgia",211,10
+"Georgia.1528",2020-04-06,"Georgia",229,18
+"Georgia.1529",2020-04-07,"Georgia",329,100
+"Georgia.1530",2020-04-08,"Georgia",362,33
+"Georgia.1531",2020-04-09,"Georgia",379,17
+"Georgia.1532",2020-04-10,"Georgia",416,37
+"Georgia.1533",2020-04-11,"Georgia",429,13
+"Georgia.1534",2020-04-12,"Georgia",433,4
+"Georgia.1535",2020-04-13,"Georgia",465,32
+"Georgia.1536",2020-04-14,"Georgia",525,60
+"Georgia.1537",2020-04-15,"Georgia",552,27
+"Georgia.1538",2020-04-16,"Georgia",587,35
+"Georgia.1539",2020-04-17,"Georgia",650,63
+"Georgia.1540",2020-04-18,"Georgia",673,23
+"Georgia.1541",2020-04-19,"Georgia",687,14
+"Georgia.1542",2020-04-20,"Georgia",775,88
+"Georgia.1543",2020-04-21,"Georgia",798,23
+"Georgia.1544",2020-04-22,"Georgia",848,50
+"Georgia.1545",2020-04-23,"Georgia",881,33
+"Georgia.1546",2020-04-24,"Georgia",899,18
+"Georgia.1547",2020-04-25,"Georgia",907,8
+"Georgia.1548",2020-04-26,"Georgia",916,9
+"Georgia.1549",2020-04-27,"Georgia",995,79
+"Georgia.1550",2020-04-28,"Georgia",1036,41
+"Georgia.1551",2020-04-29,"Georgia",1101,65
+"Georgia.1552",2020-04-30,"Georgia",1132,31
+"Georgia.1553",2020-05-01,"Georgia",1169,37
+"Georgia.1554",2020-05-02,"Georgia",1177,8
+"Georgia.1555",2020-05-03,"Georgia",1184,7
+"Georgia.1556",2020-05-04,"Georgia",1246,62
+"Georgia.1557",2020-05-05,"Georgia",1299,53
+"Georgia.1558",2020-05-06,"Georgia",1327,28
+"Georgia.1559",2020-05-07,"Georgia",1355,28
+"Georgia.1560",2020-05-08,"Georgia",1400,45
+"Georgia.1561",2020-05-09,"Georgia",1403,3
+"Georgia.1562",2020-05-10,"Georgia",1406,3
+"Georgia.1563",2020-05-11,"Georgia",1444,38
+"Georgia.1564",2020-05-12,"Georgia",1498,54
+"Georgia.1565",2020-05-13,"Georgia",1517,19
+"Georgia.1566",2020-05-14,"Georgia",1545,28
+"Georgia.1567",2020-05-15,"Georgia",1588,43
+"Georgia.1568",2020-05-16,"Georgia",1598,10
+"Georgia.1569",2020-05-17,"Georgia",1610,12
+"Georgia.1570",2020-05-18,"Georgia",1649,39
+"Georgia.1571",2020-05-19,"Georgia",1675,26
+"Georgia.1572",2020-05-20,"Georgia",1697,22
+"Georgia.1573",2020-05-21,"Georgia",1775,78
+"Grand Princess.1631",2020-03-19,"Grand Princess",1,1
+"Grand Princess.1632",2020-03-20,"Grand Princess",1,0
+"Grand Princess.1633",2020-03-21,"Grand Princess",1,0
+"Grand Princess.1634",2020-03-22,"Grand Princess",1,0
+"Grand Princess.1635",2020-03-23,"Grand Princess",1,0
+"Grand Princess.1636",2020-03-24,"Grand Princess",1,0
+"Grand Princess.1637",2020-03-25,"Grand Princess",1,0
+"Grand Princess.1638",2020-03-26,"Grand Princess",1,0
+"Grand Princess.1639",2020-03-27,"Grand Princess",3,2
+"Grand Princess.1640",2020-03-28,"Grand Princess",3,0
+"Grand Princess.1641",2020-03-29,"Grand Princess",3,0
+"Grand Princess.1642",2020-03-30,"Grand Princess",3,0
+"Grand Princess.1643",2020-03-31,"Grand Princess",3,0
+"Grand Princess.1644",2020-04-01,"Grand Princess",3,0
+"Grand Princess.1645",2020-04-02,"Grand Princess",3,0
+"Grand Princess.1646",2020-04-03,"Grand Princess",3,0
+"Grand Princess.1647",2020-04-04,"Grand Princess",3,0
+"Grand Princess.1648",2020-04-05,"Grand Princess",3,0
+"Grand Princess.1649",2020-04-06,"Grand Princess",3,0
+"Grand Princess.1650",2020-04-07,"Grand Princess",3,0
+"Grand Princess.1651",2020-04-08,"Grand Princess",3,0
+"Grand Princess.1652",2020-04-09,"Grand Princess",3,0
+"Grand Princess.1653",2020-04-10,"Grand Princess",3,0
+"Grand Princess.1654",2020-04-11,"Grand Princess",3,0
+"Grand Princess.1666",2020-04-23,"Grand Princess",3,3
+"Grand Princess.1667",2020-04-24,"Grand Princess",3,0
+"Grand Princess.1668",2020-04-25,"Grand Princess",3,0
+"Grand Princess.1669",2020-04-26,"Grand Princess",3,0
+"Grand Princess.1670",2020-04-27,"Grand Princess",3,0
+"Grand Princess.1671",2020-04-28,"Grand Princess",3,0
+"Grand Princess.1672",2020-04-29,"Grand Princess",3,0
+"Grand Princess.1673",2020-04-30,"Grand Princess",3,0
+"Grand Princess.1674",2020-05-01,"Grand Princess",3,0
+"Grand Princess.1675",2020-05-02,"Grand Princess",3,0
+"Grand Princess.1676",2020-05-03,"Grand Princess",3,0
+"Grand Princess.1677",2020-05-04,"Grand Princess",3,0
+"Grand Princess.1678",2020-05-05,"Grand Princess",3,0
+"Grand Princess.1679",2020-05-06,"Grand Princess",3,0
+"Grand Princess.1680",2020-05-07,"Grand Princess",3,0
+"Grand Princess.1681",2020-05-08,"Grand Princess",3,0
+"Grand Princess.1682",2020-05-09,"Grand Princess",3,0
+"Grand Princess.1683",2020-05-10,"Grand Princess",3,0
+"Grand Princess.1684",2020-05-11,"Grand Princess",3,0
+"Grand Princess.1685",2020-05-12,"Grand Princess",3,0
+"Grand Princess.1686",2020-05-13,"Grand Princess",3,0
+"Grand Princess.1687",2020-05-14,"Grand Princess",3,0
+"Grand Princess.1688",2020-05-15,"Grand Princess",3,0
+"Grand Princess.1689",2020-05-16,"Grand Princess",3,0
+"Grand Princess.1690",2020-05-17,"Grand Princess",3,0
+"Grand Princess.1691",2020-05-18,"Grand Princess",3,0
+"Grand Princess.1692",2020-05-19,"Grand Princess",3,0
+"Grand Princess.1693",2020-05-20,"Grand Princess",3,0
+"Grand Princess.1694",2020-05-21,"Grand Princess",3,0
+"Guam.1755",2020-03-22,"Guam",1,1
+"Guam.1756",2020-03-23,"Guam",1,0
+"Guam.1757",2020-03-24,"Guam",1,0
+"Guam.1758",2020-03-25,"Guam",1,0
+"Guam.1759",2020-03-26,"Guam",1,0
+"Guam.1760",2020-03-27,"Guam",1,0
+"Guam.1761",2020-03-28,"Guam",1,0
+"Guam.1762",2020-03-29,"Guam",1,0
+"Guam.1763",2020-03-30,"Guam",1,0
+"Guam.1764",2020-03-31,"Guam",2,1
+"Guam.1765",2020-04-01,"Guam",3,1
+"Guam.1766",2020-04-02,"Guam",3,0
+"Guam.1767",2020-04-03,"Guam",4,1
+"Guam.1768",2020-04-04,"Guam",4,0
+"Guam.1769",2020-04-05,"Guam",4,0
+"Guam.1770",2020-04-06,"Guam",4,0
+"Guam.1771",2020-04-07,"Guam",4,0
+"Guam.1772",2020-04-08,"Guam",4,0
+"Guam.1773",2020-04-09,"Guam",4,0
+"Guam.1774",2020-04-10,"Guam",4,0
+"Guam.1775",2020-04-11,"Guam",5,1
+"Guam.1776",2020-04-12,"Guam",5,0
+"Guam.1777",2020-04-13,"Guam",5,0
+"Guam.1778",2020-04-14,"Guam",5,0
+"Guam.1779",2020-04-15,"Guam",5,0
+"Guam.1780",2020-04-16,"Guam",5,0
+"Guam.1781",2020-04-17,"Guam",5,0
+"Guam.1782",2020-04-18,"Guam",5,0
+"Guam.1783",2020-04-19,"Guam",5,0
+"Guam.1784",2020-04-20,"Guam",5,0
+"Guam.1785",2020-04-21,"Guam",5,0
+"Guam.1786",2020-04-22,"Guam",5,0
+"Guam.1787",2020-04-23,"Guam",5,0
+"Guam.1788",2020-04-24,"Guam",5,0
+"Guam.1789",2020-04-25,"Guam",5,0
+"Guam.1790",2020-04-26,"Guam",5,0
+"Guam.1791",2020-04-27,"Guam",5,0
+"Guam.1792",2020-04-28,"Guam",5,0
+"Guam.1793",2020-04-29,"Guam",5,0
+"Guam.1794",2020-04-30,"Guam",5,0
+"Guam.1795",2020-05-01,"Guam",5,0
+"Guam.1796",2020-05-02,"Guam",5,0
+"Guam.1797",2020-05-03,"Guam",5,0
+"Guam.1798",2020-05-04,"Guam",5,0
+"Guam.1799",2020-05-05,"Guam",5,0
+"Guam.1800",2020-05-06,"Guam",5,0
+"Guam.1801",2020-05-07,"Guam",5,0
+"Guam.1802",2020-05-08,"Guam",5,0
+"Guam.1803",2020-05-09,"Guam",5,0
+"Guam.1804",2020-05-10,"Guam",5,0
+"Guam.1805",2020-05-11,"Guam",5,0
+"Guam.1806",2020-05-12,"Guam",5,0
+"Guam.1807",2020-05-13,"Guam",5,0
+"Guam.1808",2020-05-14,"Guam",5,0
+"Guam.1809",2020-05-15,"Guam",5,0
+"Guam.1810",2020-05-16,"Guam",5,0
+"Guam.1811",2020-05-17,"Guam",5,0
+"Guam.1812",2020-05-18,"Guam",5,0
+"Guam.1813",2020-05-19,"Guam",5,0
+"Guam.1814",2020-05-20,"Guam",5,0
+"Guam.1815",2020-05-21,"Guam",5,0
+"Hawaii.1878",2020-03-24,"Hawaii",1,1
+"Hawaii.1886",2020-04-01,"Hawaii",1,1
+"Hawaii.1887",2020-04-02,"Hawaii",1,0
+"Hawaii.1888",2020-04-03,"Hawaii",3,2
+"Hawaii.1889",2020-04-04,"Hawaii",3,0
+"Hawaii.1890",2020-04-05,"Hawaii",4,1
+"Hawaii.1891",2020-04-06,"Hawaii",5,1
+"Hawaii.1892",2020-04-07,"Hawaii",5,0
+"Hawaii.1893",2020-04-08,"Hawaii",5,0
+"Hawaii.1894",2020-04-09,"Hawaii",6,1
+"Hawaii.1895",2020-04-10,"Hawaii",6,0
+"Hawaii.1896",2020-04-11,"Hawaii",8,2
+"Hawaii.1897",2020-04-12,"Hawaii",9,1
+"Hawaii.1898",2020-04-13,"Hawaii",9,0
+"Hawaii.1899",2020-04-14,"Hawaii",9,0
+"Hawaii.1900",2020-04-15,"Hawaii",9,0
+"Hawaii.1901",2020-04-16,"Hawaii",9,0
+"Hawaii.1902",2020-04-17,"Hawaii",9,0
+"Hawaii.1903",2020-04-18,"Hawaii",9,0
+"Hawaii.1904",2020-04-19,"Hawaii",10,1
+"Hawaii.1905",2020-04-20,"Hawaii",10,0
+"Hawaii.1906",2020-04-21,"Hawaii",10,0
+"Hawaii.1907",2020-04-22,"Hawaii",12,2
+"Hawaii.1908",2020-04-23,"Hawaii",12,0
+"Hawaii.1909",2020-04-24,"Hawaii",13,1
+"Hawaii.1910",2020-04-25,"Hawaii",13,0
+"Hawaii.1911",2020-04-26,"Hawaii",14,1
+"Hawaii.1912",2020-04-27,"Hawaii",16,2
+"Hawaii.1913",2020-04-28,"Hawaii",16,0
+"Hawaii.1914",2020-04-29,"Hawaii",16,0
+"Hawaii.1915",2020-04-30,"Hawaii",16,0
+"Hawaii.1916",2020-05-01,"Hawaii",16,0
+"Hawaii.1917",2020-05-02,"Hawaii",16,0
+"Hawaii.1918",2020-05-03,"Hawaii",17,1
+"Hawaii.1919",2020-05-04,"Hawaii",17,0
+"Hawaii.1920",2020-05-05,"Hawaii",17,0
+"Hawaii.1921",2020-05-06,"Hawaii",17,0
+"Hawaii.1922",2020-05-07,"Hawaii",17,0
+"Hawaii.1923",2020-05-08,"Hawaii",17,0
+"Hawaii.1924",2020-05-09,"Hawaii",17,0
+"Hawaii.1925",2020-05-10,"Hawaii",17,0
+"Hawaii.1926",2020-05-11,"Hawaii",17,0
+"Hawaii.1927",2020-05-12,"Hawaii",17,0
+"Hawaii.1928",2020-05-13,"Hawaii",17,0
+"Hawaii.1929",2020-05-14,"Hawaii",17,0
+"Hawaii.1930",2020-05-15,"Hawaii",17,0
+"Hawaii.1931",2020-05-16,"Hawaii",17,0
+"Hawaii.1932",2020-05-17,"Hawaii",17,0
+"Hawaii.1933",2020-05-18,"Hawaii",17,0
+"Hawaii.1934",2020-05-19,"Hawaii",17,0
+"Hawaii.1935",2020-05-20,"Hawaii",17,0
+"Hawaii.1936",2020-05-21,"Hawaii",17,0
+"Idaho.2001",2020-03-26,"Idaho",3,3
+"Idaho.2002",2020-03-27,"Idaho",3,0
+"Idaho.2003",2020-03-28,"Idaho",4,1
+"Idaho.2004",2020-03-29,"Idaho",5,1
+"Idaho.2005",2020-03-30,"Idaho",6,1
+"Idaho.2006",2020-03-31,"Idaho",8,2
+"Idaho.2007",2020-04-01,"Idaho",9,1
+"Idaho.2008",2020-04-02,"Idaho",9,0
+"Idaho.2009",2020-04-03,"Idaho",9,0
+"Idaho.2010",2020-04-04,"Idaho",10,1
+"Idaho.2011",2020-04-05,"Idaho",10,0
+"Idaho.2012",2020-04-06,"Idaho",10,0
+"Idaho.2013",2020-04-07,"Idaho",13,3
+"Idaho.2014",2020-04-08,"Idaho",15,2
+"Idaho.2015",2020-04-09,"Idaho",18,3
+"Idaho.2016",2020-04-10,"Idaho",24,6
+"Idaho.2017",2020-04-11,"Idaho",25,1
+"Idaho.2018",2020-04-12,"Idaho",27,2
+"Idaho.2019",2020-04-13,"Idaho",27,0
+"Idaho.2020",2020-04-14,"Idaho",33,6
+"Idaho.2021",2020-04-15,"Idaho",39,6
+"Idaho.2022",2020-04-16,"Idaho",41,2
+"Idaho.2023",2020-04-17,"Idaho",41,0
+"Idaho.2024",2020-04-18,"Idaho",43,2
+"Idaho.2025",2020-04-19,"Idaho",44,1
+"Idaho.2026",2020-04-20,"Idaho",45,1
+"Idaho.2027",2020-04-21,"Idaho",48,3
+"Idaho.2028",2020-04-22,"Idaho",51,3
+"Idaho.2029",2020-04-23,"Idaho",54,3
+"Idaho.2030",2020-04-24,"Idaho",54,0
+"Idaho.2031",2020-04-25,"Idaho",56,2
+"Idaho.2032",2020-04-26,"Idaho",56,0
+"Idaho.2033",2020-04-27,"Idaho",56,0
+"Idaho.2034",2020-04-28,"Idaho",60,4
+"Idaho.2035",2020-04-29,"Idaho",60,0
+"Idaho.2036",2020-04-30,"Idaho",60,0
+"Idaho.2037",2020-05-01,"Idaho",63,3
+"Idaho.2038",2020-05-02,"Idaho",64,1
+"Idaho.2039",2020-05-03,"Idaho",64,0
+"Idaho.2040",2020-05-04,"Idaho",64,0
+"Idaho.2041",2020-05-05,"Idaho",65,1
+"Idaho.2042",2020-05-06,"Idaho",66,1
+"Idaho.2043",2020-05-07,"Idaho",67,1
+"Idaho.2044",2020-05-08,"Idaho",67,0
+"Idaho.2045",2020-05-09,"Idaho",67,0
+"Idaho.2046",2020-05-10,"Idaho",67,0
+"Idaho.2047",2020-05-11,"Idaho",70,3
+"Idaho.2048",2020-05-12,"Idaho",69,-1
+"Idaho.2049",2020-05-13,"Idaho",69,0
+"Idaho.2050",2020-05-14,"Idaho",72,3
+"Idaho.2051",2020-05-15,"Idaho",72,0
+"Idaho.2052",2020-05-16,"Idaho",73,1
+"Idaho.2053",2020-05-17,"Idaho",73,0
+"Idaho.2054",2020-05-18,"Idaho",74,1
+"Idaho.2055",2020-05-19,"Idaho",74,0
+"Idaho.2056",2020-05-20,"Idaho",77,3
+"Idaho.2057",2020-05-21,"Idaho",77,0
+"Illinois.2113",2020-03-17,"Illinois",1,1
+"Illinois.2114",2020-03-18,"Illinois",1,0
+"Illinois.2115",2020-03-19,"Illinois",4,3
+"Illinois.2116",2020-03-20,"Illinois",5,1
+"Illinois.2117",2020-03-21,"Illinois",6,1
+"Illinois.2118",2020-03-22,"Illinois",9,3
+"Illinois.2119",2020-03-23,"Illinois",12,3
+"Illinois.2120",2020-03-24,"Illinois",16,4
+"Illinois.2121",2020-03-25,"Illinois",19,3
+"Illinois.2122",2020-03-26,"Illinois",26,7
+"Illinois.2123",2020-03-27,"Illinois",34,8
+"Illinois.2124",2020-03-28,"Illinois",47,13
+"Illinois.2125",2020-03-29,"Illinois",66,19
+"Illinois.2126",2020-03-30,"Illinois",73,7
+"Illinois.2127",2020-03-31,"Illinois",99,26
+"Illinois.2128",2020-04-01,"Illinois",141,42
+"Illinois.2129",2020-04-02,"Illinois",163,22
+"Illinois.2130",2020-04-03,"Illinois",210,47
+"Illinois.2131",2020-04-04,"Illinois",244,34
+"Illinois.2132",2020-04-05,"Illinois",274,30
+"Illinois.2133",2020-04-06,"Illinois",307,33
+"Illinois.2134",2020-04-07,"Illinois",380,73
+"Illinois.2135",2020-04-08,"Illinois",462,82
+"Illinois.2136",2020-04-09,"Illinois",528,66
+"Illinois.2137",2020-04-10,"Illinois",597,69
+"Illinois.2138",2020-04-11,"Illinois",677,80
+"Illinois.2139",2020-04-12,"Illinois",720,43
+"Illinois.2140",2020-04-13,"Illinois",798,78
+"Illinois.2141",2020-04-14,"Illinois",868,70
+"Illinois.2142",2020-04-15,"Illinois",949,81
+"Illinois.2143",2020-04-16,"Illinois",1072,123
+"Illinois.2144",2020-04-17,"Illinois",1132,60
+"Illinois.2145",2020-04-18,"Illinois",1259,127
+"Illinois.2146",2020-04-19,"Illinois",1290,31
+"Illinois.2147",2020-04-20,"Illinois",1349,59
+"Illinois.2148",2020-04-21,"Illinois",1468,119
+"Illinois.2149",2020-04-22,"Illinois",1565,97
+"Illinois.2150",2020-04-23,"Illinois",1688,123
+"Illinois.2151",2020-04-24,"Illinois",1795,107
+"Illinois.2152",2020-04-25,"Illinois",1875,80
+"Illinois.2153",2020-04-26,"Illinois",1933,58
+"Illinois.2154",2020-04-27,"Illinois",1983,50
+"Illinois.2155",2020-04-28,"Illinois",2125,142
+"Illinois.2156",2020-04-29,"Illinois",2215,90
+"Illinois.2157",2020-04-30,"Illinois",2355,140
+"Illinois.2158",2020-05-01,"Illinois",2457,102
+"Illinois.2159",2020-05-02,"Illinois",2559,102
+"Illinois.2160",2020-05-03,"Illinois",2618,59
+"Illinois.2161",2020-05-04,"Illinois",2659,41
+"Illinois.2162",2020-05-05,"Illinois",2834,175
+"Illinois.2163",2020-05-06,"Illinois",2974,140
+"Illinois.2164",2020-05-07,"Illinois",3111,137
+"Illinois.2165",2020-05-08,"Illinois",3241,130
+"Illinois.2166",2020-05-09,"Illinois",3349,108
+"Illinois.2167",2020-05-10,"Illinois",3406,57
+"Illinois.2168",2020-05-11,"Illinois",3459,53
+"Illinois.2169",2020-05-12,"Illinois",3601,142
+"Illinois.2170",2020-05-13,"Illinois",3792,191
+"Illinois.2171",2020-05-14,"Illinois",3928,136
+"Illinois.2172",2020-05-15,"Illinois",4059,131
+"Illinois.2173",2020-05-16,"Illinois",4129,70
+"Illinois.2174",2020-05-17,"Illinois",4177,48
+"Illinois.2175",2020-05-18,"Illinois",4234,57
+"Illinois.2176",2020-05-19,"Illinois",4379,145
+"Illinois.2177",2020-05-20,"Illinois",4525,146
+"Illinois.2178",2020-05-21,"Illinois",4607,82
+"Indiana.2233",2020-03-16,"Indiana",1,1
+"Indiana.2234",2020-03-17,"Indiana",2,1
+"Indiana.2235",2020-03-18,"Indiana",2,0
+"Indiana.2236",2020-03-19,"Indiana",2,0
+"Indiana.2237",2020-03-20,"Indiana",3,1
+"Indiana.2238",2020-03-21,"Indiana",4,1
+"Indiana.2239",2020-03-22,"Indiana",6,2
+"Indiana.2240",2020-03-23,"Indiana",7,1
+"Indiana.2241",2020-03-24,"Indiana",12,5
+"Indiana.2242",2020-03-25,"Indiana",14,2
+"Indiana.2243",2020-03-26,"Indiana",17,3
+"Indiana.2244",2020-03-27,"Indiana",25,8
+"Indiana.2245",2020-03-28,"Indiana",31,6
+"Indiana.2246",2020-03-29,"Indiana",32,1
+"Indiana.2247",2020-03-30,"Indiana",35,3
+"Indiana.2248",2020-03-31,"Indiana",49,14
+"Indiana.2249",2020-04-01,"Indiana",65,16
+"Indiana.2250",2020-04-02,"Indiana",78,13
+"Indiana.2251",2020-04-03,"Indiana",102,24
+"Indiana.2252",2020-04-04,"Indiana",116,14
+"Indiana.2253",2020-04-05,"Indiana",127,11
+"Indiana.2254",2020-04-06,"Indiana",143,16
+"Indiana.2255",2020-04-07,"Indiana",173,30
+"Indiana.2256",2020-04-08,"Indiana",203,30
+"Indiana.2257",2020-04-09,"Indiana",245,42
+"Indiana.2258",2020-04-10,"Indiana",300,55
+"Indiana.2259",2020-04-11,"Indiana",330,30
+"Indiana.2260",2020-04-12,"Indiana",343,13
+"Indiana.2261",2020-04-13,"Indiana",350,7
+"Indiana.2262",2020-04-14,"Indiana",387,37
+"Indiana.2263",2020-04-15,"Indiana",436,49
+"Indiana.2264",2020-04-16,"Indiana",477,41
+"Indiana.2265",2020-04-17,"Indiana",522,45
+"Indiana.2266",2020-04-18,"Indiana",545,23
+"Indiana.2267",2020-04-19,"Indiana",562,17
+"Indiana.2268",2020-04-20,"Indiana",577,15
+"Indiana.2269",2020-04-21,"Indiana",635,58
+"Indiana.2270",2020-04-22,"Indiana",666,31
+"Indiana.2271",2020-04-23,"Indiana",706,40
+"Indiana.2272",2020-04-24,"Indiana",741,35
+"Indiana.2273",2020-04-25,"Indiana",786,45
+"Indiana.2274",2020-04-26,"Indiana",813,27
+"Indiana.2275",2020-04-27,"Indiana",844,31
+"Indiana.2276",2020-04-28,"Indiana",901,57
+"Indiana.2277",2020-04-29,"Indiana",964,63
+"Indiana.2278",2020-04-30,"Indiana",1114,150
+"Indiana.2279",2020-05-01,"Indiana",1175,61
+"Indiana.2280",2020-05-02,"Indiana",1115,-60
+"Indiana.2281",2020-05-03,"Indiana",1132,17
+"Indiana.2282",2020-05-04,"Indiana",1151,19
+"Indiana.2283",2020-05-05,"Indiana",1211,60
+"Indiana.2284",2020-05-06,"Indiana",1377,166
+"Indiana.2285",2020-05-07,"Indiana",1414,37
+"Indiana.2286",2020-05-08,"Indiana",1447,33
+"Indiana.2287",2020-05-09,"Indiana",1490,43
+"Indiana.2288",2020-05-10,"Indiana",1508,18
+"Indiana.2289",2020-05-11,"Indiana",1540,32
+"Indiana.2290",2020-05-12,"Indiana",1578,38
+"Indiana.2291",2020-05-13,"Indiana",1619,41
+"Indiana.2292",2020-05-14,"Indiana",1646,27
+"Indiana.2293",2020-05-15,"Indiana",1691,45
+"Indiana.2294",2020-05-16,"Indiana",1741,50
+"Indiana.2295",2020-05-17,"Indiana",1751,10
+"Indiana.2296",2020-05-18,"Indiana",1765,14
+"Indiana.2297",2020-05-19,"Indiana",1824,59
+"Indiana.2298",2020-05-20,"Indiana",1864,40
+"Indiana.2299",2020-05-21,"Indiana",1913,49
+"Iowa.2363",2020-03-25,"Iowa",1,1
+"Iowa.2364",2020-03-26,"Iowa",1,0
+"Iowa.2365",2020-03-27,"Iowa",3,2
+"Iowa.2366",2020-03-28,"Iowa",3,0
+"Iowa.2367",2020-03-29,"Iowa",4,1
+"Iowa.2368",2020-03-30,"Iowa",6,2
+"Iowa.2369",2020-03-31,"Iowa",7,1
+"Iowa.2370",2020-04-01,"Iowa",9,2
+"Iowa.2371",2020-04-02,"Iowa",11,2
+"Iowa.2372",2020-04-03,"Iowa",11,0
+"Iowa.2373",2020-04-04,"Iowa",14,3
+"Iowa.2374",2020-04-05,"Iowa",18,4
+"Iowa.2375",2020-04-06,"Iowa",25,7
+"Iowa.2376",2020-04-07,"Iowa",25,0
+"Iowa.2377",2020-04-08,"Iowa",27,2
+"Iowa.2378",2020-04-09,"Iowa",29,2
+"Iowa.2379",2020-04-10,"Iowa",31,2
+"Iowa.2380",2020-04-11,"Iowa",34,3
+"Iowa.2381",2020-04-12,"Iowa",41,7
+"Iowa.2382",2020-04-13,"Iowa",41,0
+"Iowa.2383",2020-04-14,"Iowa",49,8
+"Iowa.2384",2020-04-15,"Iowa",53,4
+"Iowa.2385",2020-04-16,"Iowa",60,7
+"Iowa.2386",2020-04-17,"Iowa",64,4
+"Iowa.2387",2020-04-18,"Iowa",74,10
+"Iowa.2388",2020-04-19,"Iowa",75,1
+"Iowa.2389",2020-04-20,"Iowa",79,4
+"Iowa.2390",2020-04-21,"Iowa",83,4
+"Iowa.2391",2020-04-22,"Iowa",90,7
+"Iowa.2392",2020-04-23,"Iowa",96,6
+"Iowa.2393",2020-04-24,"Iowa",107,11
+"Iowa.2394",2020-04-25,"Iowa",112,5
+"Iowa.2395",2020-04-26,"Iowa",118,6
+"Iowa.2396",2020-04-27,"Iowa",127,9
+"Iowa.2397",2020-04-28,"Iowa",136,9
+"Iowa.2398",2020-04-29,"Iowa",148,12
+"Iowa.2399",2020-04-30,"Iowa",162,14
+"Iowa.2400",2020-05-01,"Iowa",170,8
+"Iowa.2401",2020-05-02,"Iowa",175,5
+"Iowa.2402",2020-05-03,"Iowa",184,9
+"Iowa.2403",2020-05-04,"Iowa",188,4
+"Iowa.2404",2020-05-05,"Iowa",207,19
+"Iowa.2405",2020-05-06,"Iowa",219,12
+"Iowa.2406",2020-05-07,"Iowa",231,12
+"Iowa.2407",2020-05-08,"Iowa",243,12
+"Iowa.2408",2020-05-09,"Iowa",252,9
+"Iowa.2409",2020-05-10,"Iowa",265,13
+"Iowa.2410",2020-05-11,"Iowa",271,6
+"Iowa.2411",2020-05-12,"Iowa",289,18
+"Iowa.2412",2020-05-13,"Iowa",306,17
+"Iowa.2413",2020-05-14,"Iowa",318,12
+"Iowa.2414",2020-05-15,"Iowa",336,18
+"Iowa.2415",2020-05-16,"Iowa",346,10
+"Iowa.2416",2020-05-17,"Iowa",351,5
+"Iowa.2417",2020-05-18,"Iowa",355,4
+"Iowa.2418",2020-05-19,"Iowa",367,12
+"Iowa.2419",2020-05-20,"Iowa",393,26
+"Iowa.2420",2020-05-21,"Iowa",410,17
+"Kansas.2472",2020-03-13,"Kansas",1,1
+"Kansas.2473",2020-03-14,"Kansas",1,0
+"Kansas.2474",2020-03-15,"Kansas",1,0
+"Kansas.2475",2020-03-16,"Kansas",1,0
+"Kansas.2476",2020-03-17,"Kansas",1,0
+"Kansas.2477",2020-03-18,"Kansas",1,0
+"Kansas.2478",2020-03-19,"Kansas",1,0
+"Kansas.2479",2020-03-20,"Kansas",1,0
+"Kansas.2480",2020-03-21,"Kansas",2,1
+"Kansas.2481",2020-03-22,"Kansas",2,0
+"Kansas.2482",2020-03-23,"Kansas",2,0
+"Kansas.2483",2020-03-24,"Kansas",2,0
+"Kansas.2484",2020-03-25,"Kansas",3,1
+"Kansas.2485",2020-03-26,"Kansas",3,0
+"Kansas.2486",2020-03-27,"Kansas",4,1
+"Kansas.2487",2020-03-28,"Kansas",4,0
+"Kansas.2488",2020-03-29,"Kansas",7,3
+"Kansas.2489",2020-03-30,"Kansas",8,1
+"Kansas.2490",2020-03-31,"Kansas",9,1
+"Kansas.2491",2020-04-01,"Kansas",10,1
+"Kansas.2492",2020-04-02,"Kansas",12,2
+"Kansas.2493",2020-04-03,"Kansas",18,6
+"Kansas.2494",2020-04-04,"Kansas",21,3
+"Kansas.2495",2020-04-05,"Kansas",22,1
+"Kansas.2496",2020-04-06,"Kansas",25,3
+"Kansas.2497",2020-04-07,"Kansas",29,4
+"Kansas.2498",2020-04-08,"Kansas",34,5
+"Kansas.2499",2020-04-09,"Kansas",42,8
+"Kansas.2500",2020-04-10,"Kansas",42,0
+"Kansas.2501",2020-04-11,"Kansas",55,13
+"Kansas.2502",2020-04-12,"Kansas",56,1
+"Kansas.2503",2020-04-13,"Kansas",62,6
+"Kansas.2504",2020-04-14,"Kansas",69,7
+"Kansas.2505",2020-04-15,"Kansas",71,2
+"Kansas.2506",2020-04-16,"Kansas",80,9
+"Kansas.2507",2020-04-17,"Kansas",82,2
+"Kansas.2508",2020-04-18,"Kansas",85,3
+"Kansas.2509",2020-04-19,"Kansas",93,8
+"Kansas.2510",2020-04-20,"Kansas",102,9
+"Kansas.2511",2020-04-21,"Kansas",109,7
+"Kansas.2512",2020-04-22,"Kansas",112,3
+"Kansas.2513",2020-04-23,"Kansas",113,1
+"Kansas.2514",2020-04-24,"Kansas",118,5
+"Kansas.2515",2020-04-25,"Kansas",120,2
+"Kansas.2516",2020-04-26,"Kansas",121,1
+"Kansas.2517",2020-04-27,"Kansas",126,5
+"Kansas.2518",2020-04-28,"Kansas",127,1
+"Kansas.2519",2020-04-29,"Kansas",134,7
+"Kansas.2520",2020-04-30,"Kansas",134,0
+"Kansas.2521",2020-05-01,"Kansas",140,6
+"Kansas.2522",2020-05-02,"Kansas",142,2
+"Kansas.2523",2020-05-03,"Kansas",144,2
+"Kansas.2524",2020-05-04,"Kansas",156,12
+"Kansas.2525",2020-05-05,"Kansas",161,5
+"Kansas.2526",2020-05-06,"Kansas",164,3
+"Kansas.2527",2020-05-07,"Kansas",165,1
+"Kansas.2528",2020-05-08,"Kansas",168,3
+"Kansas.2529",2020-05-09,"Kansas",174,6
+"Kansas.2530",2020-05-10,"Kansas",174,0
+"Kansas.2531",2020-05-11,"Kansas",180,6
+"Kansas.2532",2020-05-12,"Kansas",184,4
+"Kansas.2533",2020-05-13,"Kansas",188,4
+"Kansas.2534",2020-05-14,"Kansas",189,1
+"Kansas.2535",2020-05-15,"Kansas",193,4
+"Kansas.2536",2020-05-16,"Kansas",195,2
+"Kansas.2537",2020-05-17,"Kansas",195,0
+"Kansas.2538",2020-05-18,"Kansas",198,3
+"Kansas.2539",2020-05-19,"Kansas",199,1
+"Kansas.2540",2020-05-20,"Kansas",202,3
+"Kansas.2541",2020-05-21,"Kansas",204,2
+"Kentucky.2596",2020-03-16,"Kentucky",1,1
+"Kentucky.2597",2020-03-17,"Kentucky",1,0
+"Kentucky.2598",2020-03-18,"Kentucky",1,0
+"Kentucky.2599",2020-03-19,"Kentucky",2,1
+"Kentucky.2600",2020-03-20,"Kentucky",2,0
+"Kentucky.2601",2020-03-21,"Kentucky",3,1
+"Kentucky.2602",2020-03-22,"Kentucky",3,0
+"Kentucky.2603",2020-03-23,"Kentucky",4,1
+"Kentucky.2604",2020-03-24,"Kentucky",4,0
+"Kentucky.2605",2020-03-25,"Kentucky",5,1
+"Kentucky.2606",2020-03-26,"Kentucky",5,0
+"Kentucky.2607",2020-03-27,"Kentucky",7,2
+"Kentucky.2608",2020-03-28,"Kentucky",9,2
+"Kentucky.2609",2020-03-29,"Kentucky",9,0
+"Kentucky.2610",2020-03-30,"Kentucky",11,2
+"Kentucky.2611",2020-03-31,"Kentucky",11,0
+"Kentucky.2612",2020-04-01,"Kentucky",18,7
+"Kentucky.2613",2020-04-02,"Kentucky",31,13
+"Kentucky.2614",2020-04-03,"Kentucky",34,3
+"Kentucky.2615",2020-04-04,"Kentucky",40,6
+"Kentucky.2616",2020-04-05,"Kentucky",45,5
+"Kentucky.2617",2020-04-06,"Kentucky",45,0
+"Kentucky.2618",2020-04-07,"Kentucky",65,20
+"Kentucky.2619",2020-04-08,"Kentucky",65,0
+"Kentucky.2620",2020-04-09,"Kentucky",73,8
+"Kentucky.2621",2020-04-10,"Kentucky",90,17
+"Kentucky.2622",2020-04-11,"Kentucky",90,0
+"Kentucky.2623",2020-04-12,"Kentucky",97,7
+"Kentucky.2624",2020-04-13,"Kentucky",113,16
+"Kentucky.2625",2020-04-14,"Kentucky",106,-7
+"Kentucky.2626",2020-04-15,"Kentucky",115,9
+"Kentucky.2627",2020-04-16,"Kentucky",129,14
+"Kentucky.2628",2020-04-17,"Kentucky",137,8
+"Kentucky.2629",2020-04-18,"Kentucky",144,7
+"Kentucky.2630",2020-04-19,"Kentucky",146,2
+"Kentucky.2631",2020-04-20,"Kentucky",154,8
+"Kentucky.2632",2020-04-21,"Kentucky",171,17
+"Kentucky.2633",2020-04-22,"Kentucky",185,14
+"Kentucky.2634",2020-04-23,"Kentucky",191,6
+"Kentucky.2635",2020-04-24,"Kentucky",200,9
+"Kentucky.2636",2020-04-25,"Kentucky",205,5
+"Kentucky.2637",2020-04-26,"Kentucky",208,3
+"Kentucky.2638",2020-04-27,"Kentucky",213,5
+"Kentucky.2639",2020-04-28,"Kentucky",225,12
+"Kentucky.2640",2020-04-29,"Kentucky",234,9
+"Kentucky.2641",2020-04-30,"Kentucky",240,6
+"Kentucky.2642",2020-05-01,"Kentucky",246,6
+"Kentucky.2643",2020-05-02,"Kentucky",248,2
+"Kentucky.2644",2020-05-03,"Kentucky",253,5
+"Kentucky.2645",2020-05-04,"Kentucky",261,8
+"Kentucky.2646",2020-05-05,"Kentucky",275,14
+"Kentucky.2647",2020-05-06,"Kentucky",283,8
+"Kentucky.2648",2020-05-07,"Kentucky",294,11
+"Kentucky.2649",2020-05-08,"Kentucky",298,4
+"Kentucky.2650",2020-05-09,"Kentucky",304,6
+"Kentucky.2651",2020-05-10,"Kentucky",304,0
+"Kentucky.2652",2020-05-11,"Kentucky",311,7
+"Kentucky.2653",2020-05-12,"Kentucky",321,10
+"Kentucky.2654",2020-05-13,"Kentucky",321,0
+"Kentucky.2655",2020-05-14,"Kentucky",328,7
+"Kentucky.2656",2020-05-15,"Kentucky",332,4
+"Kentucky.2657",2020-05-16,"Kentucky",334,2
+"Kentucky.2658",2020-05-17,"Kentucky",334,0
+"Kentucky.2659",2020-05-18,"Kentucky",346,12
+"Kentucky.2660",2020-05-19,"Kentucky",366,20
+"Kentucky.2661",2020-05-20,"Kentucky",376,10
+"Kentucky.2662",2020-05-21,"Kentucky",386,10
+"Louisiana.2715",2020-03-14,"Louisiana",1,1
+"Louisiana.2716",2020-03-15,"Louisiana",2,1
+"Louisiana.2717",2020-03-16,"Louisiana",3,1
+"Louisiana.2718",2020-03-17,"Louisiana",4,1
+"Louisiana.2719",2020-03-18,"Louisiana",6,2
+"Louisiana.2720",2020-03-19,"Louisiana",10,4
+"Louisiana.2721",2020-03-20,"Louisiana",14,4
+"Louisiana.2722",2020-03-21,"Louisiana",20,6
+"Louisiana.2723",2020-03-22,"Louisiana",20,0
+"Louisiana.2724",2020-03-23,"Louisiana",35,15
+"Louisiana.2725",2020-03-24,"Louisiana",46,11
+"Louisiana.2726",2020-03-25,"Louisiana",65,19
+"Louisiana.2727",2020-03-26,"Louisiana",83,18
+"Louisiana.2728",2020-03-27,"Louisiana",119,36
+"Louisiana.2729",2020-03-28,"Louisiana",137,18
+"Louisiana.2730",2020-03-29,"Louisiana",151,14
+"Louisiana.2731",2020-03-30,"Louisiana",185,34
+"Louisiana.2732",2020-03-31,"Louisiana",239,54
+"Louisiana.2733",2020-04-01,"Louisiana",273,34
+"Louisiana.2734",2020-04-02,"Louisiana",310,37
+"Louisiana.2735",2020-04-03,"Louisiana",370,60
+"Louisiana.2736",2020-04-04,"Louisiana",409,39
+"Louisiana.2737",2020-04-05,"Louisiana",477,68
+"Louisiana.2738",2020-04-06,"Louisiana",512,35
+"Louisiana.2739",2020-04-07,"Louisiana",582,70
+"Louisiana.2740",2020-04-08,"Louisiana",652,70
+"Louisiana.2741",2020-04-09,"Louisiana",702,50
+"Louisiana.2742",2020-04-10,"Louisiana",755,53
+"Louisiana.2743",2020-04-11,"Louisiana",806,51
+"Louisiana.2744",2020-04-12,"Louisiana",840,34
+"Louisiana.2745",2020-04-13,"Louisiana",884,44
+"Louisiana.2746",2020-04-14,"Louisiana",1013,129
+"Louisiana.2747",2020-04-15,"Louisiana",1103,90
+"Louisiana.2748",2020-04-16,"Louisiana",1156,53
+"Louisiana.2749",2020-04-17,"Louisiana",1213,57
+"Louisiana.2750",2020-04-18,"Louisiana",1267,54
+"Louisiana.2751",2020-04-19,"Louisiana",1296,29
+"Louisiana.2752",2020-04-20,"Louisiana",1328,32
+"Louisiana.2753",2020-04-21,"Louisiana",1405,77
+"Louisiana.2754",2020-04-22,"Louisiana",1473,68
+"Louisiana.2755",2020-04-23,"Louisiana",1599,126
+"Louisiana.2756",2020-04-24,"Louisiana",1660,61
+"Louisiana.2757",2020-04-25,"Louisiana",1707,47
+"Louisiana.2758",2020-04-26,"Louisiana",1729,22
+"Louisiana.2759",2020-04-27,"Louisiana",1740,11
+"Louisiana.2760",2020-04-28,"Louisiana",1801,61
+"Louisiana.2761",2020-04-29,"Louisiana",1845,44
+"Louisiana.2762",2020-04-30,"Louisiana",1905,60
+"Louisiana.2763",2020-05-01,"Louisiana",1970,65
+"Louisiana.2764",2020-05-02,"Louisiana",1993,23
+"Louisiana.2765",2020-05-03,"Louisiana",2012,19
+"Louisiana.2766",2020-05-04,"Louisiana",2064,52
+"Louisiana.2767",2020-05-05,"Louisiana",2115,51
+"Louisiana.2768",2020-05-06,"Louisiana",2167,52
+"Louisiana.2769",2020-05-07,"Louisiana",2208,41
+"Louisiana.2770",2020-05-08,"Louisiana",2227,19
+"Louisiana.2771",2020-05-09,"Louisiana",2267,40
+"Louisiana.2772",2020-05-10,"Louisiana",2286,19
+"Louisiana.2773",2020-05-11,"Louisiana",2308,22
+"Louisiana.2774",2020-05-12,"Louisiana",2347,39
+"Louisiana.2775",2020-05-13,"Louisiana",2381,34
+"Louisiana.2776",2020-05-14,"Louisiana",2417,36
+"Louisiana.2777",2020-05-15,"Louisiana",2448,31
+"Louisiana.2778",2020-05-16,"Louisiana",2479,31
+"Louisiana.2779",2020-05-17,"Louisiana",2491,12
+"Louisiana.2780",2020-05-18,"Louisiana",2563,72
+"Louisiana.2781",2020-05-19,"Louisiana",2581,18
+"Louisiana.2782",2020-05-20,"Louisiana",2608,27
+"Louisiana.2783",2020-05-21,"Louisiana",2629,21
+"Maine.2849",2020-03-27,"Maine",1,1
+"Maine.2850",2020-03-28,"Maine",1,0
+"Maine.2851",2020-03-29,"Maine",3,2
+"Maine.2852",2020-03-30,"Maine",3,0
+"Maine.2853",2020-03-31,"Maine",5,2
+"Maine.2854",2020-04-01,"Maine",5,0
+"Maine.2855",2020-04-02,"Maine",7,2
+"Maine.2856",2020-04-03,"Maine",9,2
+"Maine.2857",2020-04-04,"Maine",10,1
+"Maine.2858",2020-04-05,"Maine",10,0
+"Maine.2859",2020-04-06,"Maine",10,0
+"Maine.2860",2020-04-07,"Maine",12,2
+"Maine.2861",2020-04-08,"Maine",14,2
+"Maine.2862",2020-04-09,"Maine",16,2
+"Maine.2863",2020-04-10,"Maine",17,1
+"Maine.2864",2020-04-11,"Maine",19,2
+"Maine.2865",2020-04-12,"Maine",19,0
+"Maine.2866",2020-04-13,"Maine",19,0
+"Maine.2867",2020-04-14,"Maine",20,1
+"Maine.2868",2020-04-15,"Maine",24,4
+"Maine.2869",2020-04-16,"Maine",27,3
+"Maine.2870",2020-04-17,"Maine",29,2
+"Maine.2871",2020-04-18,"Maine",32,3
+"Maine.2872",2020-04-19,"Maine",34,2
+"Maine.2873",2020-04-20,"Maine",35,1
+"Maine.2874",2020-04-21,"Maine",36,1
+"Maine.2875",2020-04-22,"Maine",39,3
+"Maine.2876",2020-04-23,"Maine",44,5
+"Maine.2877",2020-04-24,"Maine",47,3
+"Maine.2878",2020-04-25,"Maine",47,0
+"Maine.2879",2020-04-26,"Maine",50,3
+"Maine.2880",2020-04-27,"Maine",51,1
+"Maine.2881",2020-04-28,"Maine",51,0
+"Maine.2882",2020-04-29,"Maine",52,1
+"Maine.2883",2020-04-30,"Maine",53,1
+"Maine.2884",2020-05-01,"Maine",55,2
+"Maine.2885",2020-05-02,"Maine",56,1
+"Maine.2886",2020-05-03,"Maine",57,1
+"Maine.2887",2020-05-04,"Maine",57,0
+"Maine.2888",2020-05-05,"Maine",61,4
+"Maine.2889",2020-05-06,"Maine",62,1
+"Maine.2890",2020-05-07,"Maine",62,0
+"Maine.2891",2020-05-08,"Maine",63,1
+"Maine.2892",2020-05-09,"Maine",64,1
+"Maine.2893",2020-05-10,"Maine",64,0
+"Maine.2894",2020-05-11,"Maine",65,1
+"Maine.2895",2020-05-12,"Maine",65,0
+"Maine.2896",2020-05-13,"Maine",66,1
+"Maine.2897",2020-05-14,"Maine",69,3
+"Maine.2898",2020-05-15,"Maine",69,0
+"Maine.2899",2020-05-16,"Maine",70,1
+"Maine.2900",2020-05-17,"Maine",70,0
+"Maine.2901",2020-05-18,"Maine",71,1
+"Maine.2902",2020-05-19,"Maine",73,2
+"Maine.2903",2020-05-20,"Maine",73,0
+"Maine.2904",2020-05-21,"Maine",73,0
+"Maryland.2962",2020-03-19,"Maryland",1,1
+"Maryland.2963",2020-03-20,"Maryland",2,1
+"Maryland.2964",2020-03-21,"Maryland",2,0
+"Maryland.2965",2020-03-22,"Maryland",3,1
+"Maryland.2966",2020-03-23,"Maryland",3,0
+"Maryland.2967",2020-03-24,"Maryland",4,1
+"Maryland.2968",2020-03-25,"Maryland",4,0
+"Maryland.2969",2020-03-26,"Maryland",4,0
+"Maryland.2970",2020-03-27,"Maryland",5,1
+"Maryland.2971",2020-03-28,"Maryland",5,0
+"Maryland.2972",2020-03-29,"Maryland",10,5
+"Maryland.2973",2020-03-30,"Maryland",15,5
+"Maryland.2974",2020-03-31,"Maryland",18,3
+"Maryland.2975",2020-04-01,"Maryland",31,13
+"Maryland.2976",2020-04-02,"Maryland",36,5
+"Maryland.2977",2020-04-03,"Maryland",43,7
+"Maryland.2978",2020-04-04,"Maryland",54,11
+"Maryland.2979",2020-04-05,"Maryland",67,13
+"Maryland.2980",2020-04-06,"Maryland",91,24
+"Maryland.2981",2020-04-07,"Maryland",103,12
+"Maryland.2982",2020-04-08,"Maryland",124,21
+"Maryland.2983",2020-04-09,"Maryland",138,14
+"Maryland.2984",2020-04-10,"Maryland",171,33
+"Maryland.2985",2020-04-11,"Maryland",206,35
+"Maryland.2986",2020-04-12,"Maryland",236,30
+"Maryland.2987",2020-04-13,"Maryland",262,26
+"Maryland.2988",2020-04-14,"Maryland",302,40
+"Maryland.2989",2020-04-15,"Maryland",311,9
+"Maryland.2990",2020-04-16,"Maryland",319,8
+"Maryland.2991",2020-04-17,"Maryland",334,15
+"Maryland.2992",2020-04-18,"Maryland",421,87
+"Maryland.2993",2020-04-19,"Maryland",461,40
+"Maryland.2994",2020-04-20,"Maryland",582,121
+"Maryland.2995",2020-04-21,"Maryland",652,70
+"Maryland.2996",2020-04-22,"Maryland",698,46
+"Maryland.2997",2020-04-23,"Maryland",748,50
+"Maryland.2998",2020-04-24,"Maryland",798,50
+"Maryland.2999",2020-04-25,"Maryland",875,77
+"Maryland.3000",2020-04-26,"Maryland",910,35
+"Maryland.3001",2020-04-27,"Maryland",945,35
+"Maryland.3002",2020-04-28,"Maryland",1016,71
+"Maryland.3003",2020-04-29,"Maryland",1078,62
+"Maryland.3004",2020-04-30,"Maryland",1140,62
+"Maryland.3005",2020-05-01,"Maryland",1080,-60
+"Maryland.3006",2020-05-02,"Maryland",1251,171
+"Maryland.3007",2020-05-03,"Maryland",1281,30
+"Maryland.3008",2020-05-04,"Maryland",1317,36
+"Maryland.3009",2020-05-05,"Maryland",1390,73
+"Maryland.3010",2020-05-06,"Maryland",1437,47
+"Maryland.3011",2020-05-07,"Maryland",1503,66
+"Maryland.3012",2020-05-08,"Maryland",1560,57
+"Maryland.3013",2020-05-09,"Maryland",1614,54
+"Maryland.3014",2020-05-10,"Maryland",1644,30
+"Maryland.3015",2020-05-11,"Maryland",1683,39
+"Maryland.3016",2020-05-12,"Maryland",1756,73
+"Maryland.3017",2020-05-13,"Maryland",1809,53
+"Maryland.3018",2020-05-14,"Maryland",1866,57
+"Maryland.3019",2020-05-15,"Maryland",1911,45
+"Maryland.3020",2020-05-16,"Maryland",1957,46
+"Maryland.3021",2020-05-17,"Maryland",1992,35
+"Maryland.3022",2020-05-18,"Maryland",2023,31
+"Maryland.3023",2020-05-19,"Maryland",2081,58
+"Maryland.3024",2020-05-20,"Maryland",2123,42
+"Maryland.3025",2020-05-21,"Maryland",2159,36
+"Massachusetts.3084",2020-03-20,"Massachusetts",1,1
+"Massachusetts.3085",2020-03-21,"Massachusetts",1,0
+"Massachusetts.3086",2020-03-22,"Massachusetts",5,4
+"Massachusetts.3087",2020-03-23,"Massachusetts",9,4
+"Massachusetts.3088",2020-03-24,"Massachusetts",11,2
+"Massachusetts.3089",2020-03-25,"Massachusetts",15,4
+"Massachusetts.3090",2020-03-26,"Massachusetts",25,10
+"Massachusetts.3091",2020-03-27,"Massachusetts",35,10
+"Massachusetts.3092",2020-03-28,"Massachusetts",44,9
+"Massachusetts.3093",2020-03-29,"Massachusetts",48,4
+"Massachusetts.3094",2020-03-30,"Massachusetts",56,8
+"Massachusetts.3095",2020-03-31,"Massachusetts",89,33
+"Massachusetts.3096",2020-04-01,"Massachusetts",122,33
+"Massachusetts.3097",2020-04-02,"Massachusetts",154,32
+"Massachusetts.3098",2020-04-03,"Massachusetts",192,38
+"Massachusetts.3099",2020-04-04,"Massachusetts",216,24
+"Massachusetts.3100",2020-04-05,"Massachusetts",231,15
+"Massachusetts.3101",2020-04-06,"Massachusetts",260,29
+"Massachusetts.3102",2020-04-07,"Massachusetts",356,96
+"Massachusetts.3103",2020-04-08,"Massachusetts",433,77
+"Massachusetts.3104",2020-04-09,"Massachusetts",503,70
+"Massachusetts.3105",2020-04-10,"Massachusetts",599,96
+"Massachusetts.3106",2020-04-11,"Massachusetts",686,87
+"Massachusetts.3107",2020-04-12,"Massachusetts",756,70
+"Massachusetts.3108",2020-04-13,"Massachusetts",844,88
+"Massachusetts.3109",2020-04-14,"Massachusetts",844,0
+"Massachusetts.3110",2020-04-15,"Massachusetts",1108,264
+"Massachusetts.3111",2020-04-16,"Massachusetts",1108,0
+"Massachusetts.3112",2020-04-17,"Massachusetts",1245,137
+"Massachusetts.3113",2020-04-18,"Massachusetts",1404,159
+"Massachusetts.3114",2020-04-19,"Massachusetts",1706,302
+"Massachusetts.3115",2020-04-20,"Massachusetts",1706,0
+"Massachusetts.3116",2020-04-21,"Massachusetts",1961,255
+"Massachusetts.3117",2020-04-22,"Massachusetts",2182,221
+"Massachusetts.3118",2020-04-23,"Massachusetts",2360,178
+"Massachusetts.3119",2020-04-24,"Massachusetts",2556,196
+"Massachusetts.3120",2020-04-25,"Massachusetts",2730,174
+"Massachusetts.3121",2020-04-26,"Massachusetts",2899,169
+"Massachusetts.3122",2020-04-27,"Massachusetts",3003,104
+"Massachusetts.3123",2020-04-28,"Massachusetts",3153,150
+"Massachusetts.3124",2020-04-29,"Massachusetts",3405,252
+"Massachusetts.3125",2020-04-30,"Massachusetts",3562,157
+"Massachusetts.3126",2020-05-01,"Massachusetts",3716,154
+"Massachusetts.3127",2020-05-02,"Massachusetts",3846,130
+"Massachusetts.3128",2020-05-03,"Massachusetts",4004,158
+"Massachusetts.3129",2020-05-04,"Massachusetts",4090,86
+"Massachusetts.3130",2020-05-05,"Massachusetts",4212,122
+"Massachusetts.3131",2020-05-06,"Massachusetts",4420,208
+"Massachusetts.3132",2020-05-07,"Massachusetts",4552,132
+"Massachusetts.3133",2020-05-08,"Massachusetts",4702,150
+"Massachusetts.3134",2020-05-09,"Massachusetts",4840,138
+"Massachusetts.3135",2020-05-10,"Massachusetts",4979,139
+"Massachusetts.3136",2020-05-11,"Massachusetts",5108,129
+"Massachusetts.3137",2020-05-12,"Massachusetts",5141,33
+"Massachusetts.3138",2020-05-13,"Massachusetts",5315,174
+"Massachusetts.3139",2020-05-14,"Massachusetts",5482,167
+"Massachusetts.3140",2020-05-15,"Massachusetts",5592,110
+"Massachusetts.3141",2020-05-16,"Massachusetts",5705,113
+"Massachusetts.3142",2020-05-17,"Massachusetts",5797,92
+"Massachusetts.3143",2020-05-18,"Massachusetts",5862,65
+"Massachusetts.3144",2020-05-19,"Massachusetts",5938,76
+"Massachusetts.3145",2020-05-20,"Massachusetts",6066,128
+"Massachusetts.3146",2020-05-21,"Massachusetts",6148,82
+"Michigan.3203",2020-03-18,"Michigan",1,1
+"Michigan.3204",2020-03-19,"Michigan",1,0
+"Michigan.3205",2020-03-20,"Michigan",1,0
+"Michigan.3206",2020-03-21,"Michigan",3,2
+"Michigan.3207",2020-03-22,"Michigan",9,6
+"Michigan.3208",2020-03-23,"Michigan",15,6
+"Michigan.3209",2020-03-24,"Michigan",24,9
+"Michigan.3210",2020-03-25,"Michigan",43,19
+"Michigan.3211",2020-03-26,"Michigan",61,18
+"Michigan.3212",2020-03-27,"Michigan",92,31
+"Michigan.3213",2020-03-28,"Michigan",111,19
+"Michigan.3214",2020-03-29,"Michigan",132,21
+"Michigan.3215",2020-03-30,"Michigan",184,52
+"Michigan.3216",2020-03-31,"Michigan",259,75
+"Michigan.3217",2020-04-01,"Michigan",335,76
+"Michigan.3218",2020-04-02,"Michigan",417,82
+"Michigan.3219",2020-04-03,"Michigan",479,62
+"Michigan.3220",2020-04-04,"Michigan",540,61
+"Michigan.3221",2020-04-05,"Michigan",617,77
+"Michigan.3222",2020-04-06,"Michigan",727,110
+"Michigan.3223",2020-04-07,"Michigan",845,118
+"Michigan.3224",2020-04-08,"Michigan",959,114
+"Michigan.3225",2020-04-09,"Michigan",1076,117
+"Michigan.3226",2020-04-10,"Michigan",1276,200
+"Michigan.3227",2020-04-11,"Michigan",1384,108
+"Michigan.3228",2020-04-12,"Michigan",1479,95
+"Michigan.3229",2020-04-13,"Michigan",1602,123
+"Michigan.3230",2020-04-14,"Michigan",1768,166
+"Michigan.3231",2020-04-15,"Michigan",1921,153
+"Michigan.3232",2020-04-16,"Michigan",1996,75
+"Michigan.3233",2020-04-17,"Michigan",2227,231
+"Michigan.3234",2020-04-18,"Michigan",2308,81
+"Michigan.3235",2020-04-19,"Michigan",2391,83
+"Michigan.3236",2020-04-20,"Michigan",2468,77
+"Michigan.3237",2020-04-21,"Michigan",2575,107
+"Michigan.3238",2020-04-22,"Michigan",2813,238
+"Michigan.3239",2020-04-23,"Michigan",2977,164
+"Michigan.3240",2020-04-24,"Michigan",3085,108
+"Michigan.3241",2020-04-25,"Michigan",3155,70
+"Michigan.3242",2020-04-26,"Michigan",3315,160
+"Michigan.3243",2020-04-27,"Michigan",3407,92
+"Michigan.3244",2020-04-28,"Michigan",3568,161
+"Michigan.3245",2020-04-29,"Michigan",3670,102
+"Michigan.3246",2020-04-30,"Michigan",3789,119
+"Michigan.3247",2020-05-01,"Michigan",3866,77
+"Michigan.3248",2020-05-02,"Michigan",4021,155
+"Michigan.3249",2020-05-03,"Michigan",4053,32
+"Michigan.3250",2020-05-04,"Michigan",4139,86
+"Michigan.3251",2020-05-05,"Michigan",4183,44
+"Michigan.3252",2020-05-06,"Michigan",4256,73
+"Michigan.3253",2020-05-07,"Michigan",4345,89
+"Michigan.3254",2020-05-08,"Michigan",4399,54
+"Michigan.3255",2020-05-09,"Michigan",4530,131
+"Michigan.3256",2020-05-10,"Michigan",4555,25
+"Michigan.3257",2020-05-11,"Michigan",4584,29
+"Michigan.3258",2020-05-12,"Michigan",4674,90
+"Michigan.3259",2020-05-13,"Michigan",4714,40
+"Michigan.3260",2020-05-14,"Michigan",4787,73
+"Michigan.3261",2020-05-15,"Michigan",4825,38
+"Michigan.3262",2020-05-16,"Michigan",4881,56
+"Michigan.3263",2020-05-17,"Michigan",4891,10
+"Michigan.3264",2020-05-18,"Michigan",4915,24
+"Michigan.3265",2020-05-19,"Michigan",5017,102
+"Michigan.3266",2020-05-20,"Michigan",5060,43
+"Michigan.3267",2020-05-21,"Michigan",5129,69
+"Minnesota.3327",2020-03-21,"Minnesota",1,1
+"Minnesota.3328",2020-03-22,"Minnesota",1,0
+"Minnesota.3329",2020-03-23,"Minnesota",1,0
+"Minnesota.3330",2020-03-24,"Minnesota",1,0
+"Minnesota.3331",2020-03-25,"Minnesota",1,0
+"Minnesota.3332",2020-03-26,"Minnesota",2,1
+"Minnesota.3333",2020-03-27,"Minnesota",4,2
+"Minnesota.3334",2020-03-28,"Minnesota",5,1
+"Minnesota.3335",2020-03-29,"Minnesota",9,4
+"Minnesota.3336",2020-03-30,"Minnesota",10,1
+"Minnesota.3337",2020-03-31,"Minnesota",12,2
+"Minnesota.3338",2020-04-01,"Minnesota",17,5
+"Minnesota.3339",2020-04-02,"Minnesota",18,1
+"Minnesota.3340",2020-04-03,"Minnesota",22,4
+"Minnesota.3341",2020-04-04,"Minnesota",24,2
+"Minnesota.3342",2020-04-05,"Minnesota",29,5
+"Minnesota.3343",2020-04-06,"Minnesota",30,1
+"Minnesota.3344",2020-04-07,"Minnesota",34,4
+"Minnesota.3345",2020-04-08,"Minnesota",39,5
+"Minnesota.3346",2020-04-09,"Minnesota",50,11
+"Minnesota.3347",2020-04-10,"Minnesota",57,7
+"Minnesota.3348",2020-04-11,"Minnesota",64,7
+"Minnesota.3349",2020-04-12,"Minnesota",70,6
+"Minnesota.3350",2020-04-13,"Minnesota",70,0
+"Minnesota.3351",2020-04-14,"Minnesota",79,9
+"Minnesota.3352",2020-04-15,"Minnesota",87,8
+"Minnesota.3353",2020-04-16,"Minnesota",87,0
+"Minnesota.3354",2020-04-17,"Minnesota",111,24
+"Minnesota.3355",2020-04-18,"Minnesota",121,10
+"Minnesota.3356",2020-04-19,"Minnesota",134,13
+"Minnesota.3357",2020-04-20,"Minnesota",143,9
+"Minnesota.3358",2020-04-21,"Minnesota",160,17
+"Minnesota.3359",2020-04-22,"Minnesota",179,19
+"Minnesota.3360",2020-04-23,"Minnesota",200,21
+"Minnesota.3361",2020-04-24,"Minnesota",221,21
+"Minnesota.3362",2020-04-25,"Minnesota",244,23
+"Minnesota.3363",2020-04-26,"Minnesota",272,28
+"Minnesota.3364",2020-04-27,"Minnesota",286,14
+"Minnesota.3365",2020-04-28,"Minnesota",301,15
+"Minnesota.3366",2020-04-29,"Minnesota",319,18
+"Minnesota.3367",2020-04-30,"Minnesota",343,24
+"Minnesota.3368",2020-05-01,"Minnesota",370,27
+"Minnesota.3369",2020-05-02,"Minnesota",394,24
+"Minnesota.3370",2020-05-03,"Minnesota",418,24
+"Minnesota.3371",2020-05-04,"Minnesota",427,9
+"Minnesota.3372",2020-05-05,"Minnesota",455,28
+"Minnesota.3373",2020-05-06,"Minnesota",485,30
+"Minnesota.3374",2020-05-07,"Minnesota",508,23
+"Minnesota.3375",2020-05-08,"Minnesota",534,26
+"Minnesota.3376",2020-05-09,"Minnesota",558,24
+"Minnesota.3377",2020-05-10,"Minnesota",578,20
+"Minnesota.3378",2020-05-11,"Minnesota",591,13
+"Minnesota.3379",2020-05-12,"Minnesota",614,23
+"Minnesota.3380",2020-05-13,"Minnesota",638,24
+"Minnesota.3381",2020-05-14,"Minnesota",672,34
+"Minnesota.3382",2020-05-15,"Minnesota",692,20
+"Minnesota.3383",2020-05-16,"Minnesota",709,17
+"Minnesota.3384",2020-05-17,"Minnesota",731,22
+"Minnesota.3385",2020-05-18,"Minnesota",740,9
+"Minnesota.3386",2020-05-19,"Minnesota",757,17
+"Minnesota.3387",2020-05-20,"Minnesota",786,29
+"Minnesota.3388",2020-05-21,"Minnesota",818,32
+"Mississippi.3446",2020-03-19,"Mississippi",1,1
+"Mississippi.3447",2020-03-20,"Mississippi",1,0
+"Mississippi.3448",2020-03-21,"Mississippi",1,0
+"Mississippi.3449",2020-03-22,"Mississippi",1,0
+"Mississippi.3450",2020-03-23,"Mississippi",1,0
+"Mississippi.3451",2020-03-24,"Mississippi",1,0
+"Mississippi.3452",2020-03-25,"Mississippi",3,2
+"Mississippi.3453",2020-03-26,"Mississippi",6,3
+"Mississippi.3454",2020-03-27,"Mississippi",8,2
+"Mississippi.3455",2020-03-28,"Mississippi",13,5
+"Mississippi.3456",2020-03-29,"Mississippi",14,1
+"Mississippi.3457",2020-03-30,"Mississippi",16,2
+"Mississippi.3458",2020-03-31,"Mississippi",20,4
+"Mississippi.3459",2020-04-01,"Mississippi",22,2
+"Mississippi.3460",2020-04-02,"Mississippi",26,4
+"Mississippi.3461",2020-04-03,"Mississippi",29,3
+"Mississippi.3462",2020-04-04,"Mississippi",35,6
+"Mississippi.3463",2020-04-05,"Mississippi",43,8
+"Mississippi.3464",2020-04-06,"Mississippi",51,8
+"Mississippi.3465",2020-04-07,"Mississippi",60,9
+"Mississippi.3466",2020-04-08,"Mississippi",67,7
+"Mississippi.3467",2020-04-09,"Mississippi",76,9
+"Mississippi.3468",2020-04-10,"Mississippi",82,6
+"Mississippi.3469",2020-04-11,"Mississippi",93,11
+"Mississippi.3470",2020-04-12,"Mississippi",96,3
+"Mississippi.3471",2020-04-13,"Mississippi",98,2
+"Mississippi.3472",2020-04-14,"Mississippi",111,13
+"Mississippi.3473",2020-04-15,"Mississippi",122,11
+"Mississippi.3474",2020-04-16,"Mississippi",129,7
+"Mississippi.3475",2020-04-17,"Mississippi",140,11
+"Mississippi.3476",2020-04-18,"Mississippi",152,12
+"Mississippi.3477",2020-04-19,"Mississippi",159,7
+"Mississippi.3478",2020-04-20,"Mississippi",169,10
+"Mississippi.3479",2020-04-21,"Mississippi",183,14
+"Mississippi.3480",2020-04-22,"Mississippi",193,10
+"Mississippi.3481",2020-04-23,"Mississippi",201,8
+"Mississippi.3482",2020-04-24,"Mississippi",209,8
+"Mississippi.3483",2020-04-25,"Mississippi",221,12
+"Mississippi.3484",2020-04-26,"Mississippi",227,6
+"Mississippi.3485",2020-04-27,"Mississippi",229,2
+"Mississippi.3486",2020-04-28,"Mississippi",239,10
+"Mississippi.3487",2020-04-29,"Mississippi",250,11
+"Mississippi.3488",2020-04-30,"Mississippi",261,11
+"Mississippi.3489",2020-05-01,"Mississippi",281,20
+"Mississippi.3490",2020-05-02,"Mississippi",291,10
+"Mississippi.3491",2020-05-03,"Mississippi",303,12
+"Mississippi.3492",2020-05-04,"Mississippi",310,7
+"Mississippi.3493",2020-05-05,"Mississippi",342,32
+"Mississippi.3494",2020-05-06,"Mississippi",374,32
+"Mississippi.3495",2020-05-07,"Mississippi",396,22
+"Mississippi.3496",2020-05-08,"Mississippi",409,13
+"Mississippi.3497",2020-05-09,"Mississippi",421,12
+"Mississippi.3498",2020-05-10,"Mississippi",430,9
+"Mississippi.3499",2020-05-11,"Mississippi",435,5
+"Mississippi.3500",2020-05-12,"Mississippi",457,22
+"Mississippi.3501",2020-05-13,"Mississippi",465,8
+"Mississippi.3502",2020-05-14,"Mississippi",480,15
+"Mississippi.3503",2020-05-15,"Mississippi",493,13
+"Mississippi.3504",2020-05-16,"Mississippi",510,17
+"Mississippi.3505",2020-05-17,"Mississippi",521,11
+"Mississippi.3506",2020-05-18,"Mississippi",527,6
+"Mississippi.3507",2020-05-19,"Mississippi",554,27
+"Mississippi.3508",2020-05-20,"Mississippi",570,16
+"Mississippi.3509",2020-05-21,"Mississippi",580,10
+"Missouri.3566",2020-03-18,"Missouri",1,1
+"Missouri.3567",2020-03-19,"Missouri",1,0
+"Missouri.3568",2020-03-20,"Missouri",3,2
+"Missouri.3569",2020-03-21,"Missouri",3,0
+"Missouri.3570",2020-03-22,"Missouri",3,0
+"Missouri.3571",2020-03-23,"Missouri",4,1
+"Missouri.3572",2020-03-24,"Missouri",7,3
+"Missouri.3573",2020-03-25,"Missouri",8,1
+"Missouri.3574",2020-03-26,"Missouri",9,1
+"Missouri.3575",2020-03-27,"Missouri",9,0
+"Missouri.3576",2020-03-28,"Missouri",10,1
+"Missouri.3577",2020-03-29,"Missouri",13,3
+"Missouri.3578",2020-03-30,"Missouri",13,0
+"Missouri.3579",2020-03-31,"Missouri",15,2
+"Missouri.3580",2020-04-01,"Missouri",18,3
+"Missouri.3581",2020-04-02,"Missouri",22,4
+"Missouri.3582",2020-04-03,"Missouri",25,3
+"Missouri.3583",2020-04-04,"Missouri",33,8
+"Missouri.3584",2020-04-05,"Missouri",44,11
+"Missouri.3585",2020-04-06,"Missouri",47,3
+"Missouri.3586",2020-04-07,"Missouri",65,18
+"Missouri.3587",2020-04-08,"Missouri",86,21
+"Missouri.3588",2020-04-09,"Missouri",93,7
+"Missouri.3589",2020-04-10,"Missouri",99,6
+"Missouri.3590",2020-04-11,"Missouri",116,17
+"Missouri.3591",2020-04-12,"Missouri",118,2
+"Missouri.3592",2020-04-13,"Missouri",123,5
+"Missouri.3593",2020-04-14,"Missouri",149,26
+"Missouri.3594",2020-04-15,"Missouri",153,4
+"Missouri.3595",2020-04-16,"Missouri",169,16
+"Missouri.3596",2020-04-17,"Missouri",184,15
+"Missouri.3597",2020-04-18,"Missouri",197,13
+"Missouri.3598",2020-04-19,"Missouri",199,2
+"Missouri.3599",2020-04-20,"Missouri",200,1
+"Missouri.3600",2020-04-21,"Missouri",224,24
+"Missouri.3601",2020-04-22,"Missouri",238,14
+"Missouri.3602",2020-04-23,"Missouri",252,14
+"Missouri.3603",2020-04-24,"Missouri",272,20
+"Missouri.3604",2020-04-25,"Missouri",281,9
+"Missouri.3605",2020-04-26,"Missouri",283,2
+"Missouri.3606",2020-04-27,"Missouri",303,20
+"Missouri.3607",2020-04-28,"Missouri",330,27
+"Missouri.3608",2020-04-29,"Missouri",338,8
+"Missouri.3609",2020-04-30,"Missouri",350,12
+"Missouri.3610",2020-05-01,"Missouri",360,10
+"Missouri.3611",2020-05-02,"Missouri",376,16
+"Missouri.3612",2020-05-03,"Missouri",381,5
+"Missouri.3613",2020-05-04,"Missouri",386,5
+"Missouri.3614",2020-05-05,"Missouri",409,23
+"Missouri.3615",2020-05-06,"Missouri",428,19
+"Missouri.3616",2020-05-07,"Missouri",449,21
+"Missouri.3617",2020-05-08,"Missouri",483,34
+"Missouri.3618",2020-05-09,"Missouri",494,11
+"Missouri.3619",2020-05-10,"Missouri",503,9
+"Missouri.3620",2020-05-11,"Missouri",514,11
+"Missouri.3621",2020-05-12,"Missouri",529,15
+"Missouri.3622",2020-05-13,"Missouri",551,22
+"Missouri.3623",2020-05-14,"Missouri",566,15
+"Missouri.3624",2020-05-15,"Missouri",581,15
+"Missouri.3625",2020-05-16,"Missouri",594,13
+"Missouri.3626",2020-05-17,"Missouri",600,6
+"Missouri.3627",2020-05-18,"Missouri",611,11
+"Missouri.3628",2020-05-19,"Missouri",631,20
+"Missouri.3629",2020-05-20,"Missouri",640,9
+"Missouri.3630",2020-05-21,"Missouri",668,28
+"Montana.3696",2020-03-27,"Montana",1,1
+"Montana.3697",2020-03-28,"Montana",1,0
+"Montana.3698",2020-03-29,"Montana",1,0
+"Montana.3699",2020-03-30,"Montana",5,4
+"Montana.3700",2020-03-31,"Montana",5,0
+"Montana.3701",2020-04-01,"Montana",6,1
+"Montana.3702",2020-04-02,"Montana",6,0
+"Montana.3703",2020-04-03,"Montana",5,-1
+"Montana.3704",2020-04-04,"Montana",6,1
+"Montana.3705",2020-04-05,"Montana",6,0
+"Montana.3706",2020-04-06,"Montana",6,0
+"Montana.3707",2020-04-07,"Montana",6,0
+"Montana.3708",2020-04-08,"Montana",6,0
+"Montana.3709",2020-04-09,"Montana",6,0
+"Montana.3710",2020-04-10,"Montana",6,0
+"Montana.3711",2020-04-11,"Montana",6,0
+"Montana.3712",2020-04-12,"Montana",6,0
+"Montana.3713",2020-04-13,"Montana",7,1
+"Montana.3714",2020-04-14,"Montana",7,0
+"Montana.3715",2020-04-15,"Montana",7,0
+"Montana.3716",2020-04-16,"Montana",7,0
+"Montana.3717",2020-04-17,"Montana",8,1
+"Montana.3718",2020-04-18,"Montana",10,2
+"Montana.3719",2020-04-19,"Montana",10,0
+"Montana.3720",2020-04-20,"Montana",10,0
+"Montana.3721",2020-04-21,"Montana",12,2
+"Montana.3722",2020-04-22,"Montana",14,2
+"Montana.3723",2020-04-23,"Montana",14,0
+"Montana.3724",2020-04-24,"Montana",14,0
+"Montana.3725",2020-04-25,"Montana",14,0
+"Montana.3726",2020-04-26,"Montana",14,0
+"Montana.3727",2020-04-27,"Montana",14,0
+"Montana.3728",2020-04-28,"Montana",15,1
+"Montana.3729",2020-04-29,"Montana",16,1
+"Montana.3730",2020-04-30,"Montana",16,0
+"Montana.3731",2020-05-01,"Montana",16,0
+"Montana.3732",2020-05-02,"Montana",16,0
+"Montana.3733",2020-05-03,"Montana",16,0
+"Montana.3734",2020-05-04,"Montana",16,0
+"Montana.3735",2020-05-05,"Montana",16,0
+"Montana.3736",2020-05-06,"Montana",16,0
+"Montana.3737",2020-05-07,"Montana",16,0
+"Montana.3738",2020-05-08,"Montana",16,0
+"Montana.3739",2020-05-09,"Montana",16,0
+"Montana.3740",2020-05-10,"Montana",16,0
+"Montana.3741",2020-05-11,"Montana",16,0
+"Montana.3742",2020-05-12,"Montana",16,0
+"Montana.3743",2020-05-13,"Montana",16,0
+"Montana.3744",2020-05-14,"Montana",16,0
+"Montana.3745",2020-05-15,"Montana",16,0
+"Montana.3746",2020-05-16,"Montana",16,0
+"Montana.3747",2020-05-17,"Montana",16,0
+"Montana.3748",2020-05-18,"Montana",16,0
+"Montana.3749",2020-05-19,"Montana",16,0
+"Montana.3750",2020-05-20,"Montana",16,0
+"Montana.3751",2020-05-21,"Montana",16,0
+"Nebraska.3818",2020-03-28,"Nebraska",2,2
+"Nebraska.3819",2020-03-29,"Nebraska",2,0
+"Nebraska.3820",2020-03-30,"Nebraska",2,0
+"Nebraska.3821",2020-03-31,"Nebraska",3,1
+"Nebraska.3822",2020-04-01,"Nebraska",4,1
+"Nebraska.3823",2020-04-02,"Nebraska",5,1
+"Nebraska.3824",2020-04-03,"Nebraska",6,1
+"Nebraska.3825",2020-04-04,"Nebraska",6,0
+"Nebraska.3826",2020-04-05,"Nebraska",8,2
+"Nebraska.3827",2020-04-06,"Nebraska",9,1
+"Nebraska.3828",2020-04-07,"Nebraska",10,1
+"Nebraska.3829",2020-04-08,"Nebraska",12,2
+"Nebraska.3830",2020-04-09,"Nebraska",14,2
+"Nebraska.3831",2020-04-10,"Nebraska",15,1
+"Nebraska.3832",2020-04-11,"Nebraska",17,2
+"Nebraska.3833",2020-04-12,"Nebraska",17,0
+"Nebraska.3834",2020-04-13,"Nebraska",17,0
+"Nebraska.3835",2020-04-14,"Nebraska",20,3
+"Nebraska.3836",2020-04-15,"Nebraska",20,0
+"Nebraska.3837",2020-04-16,"Nebraska",21,1
+"Nebraska.3838",2020-04-17,"Nebraska",24,3
+"Nebraska.3839",2020-04-18,"Nebraska",24,0
+"Nebraska.3840",2020-04-19,"Nebraska",28,4
+"Nebraska.3841",2020-04-20,"Nebraska",33,5
+"Nebraska.3842",2020-04-21,"Nebraska",33,0
+"Nebraska.3843",2020-04-22,"Nebraska",38,5
+"Nebraska.3844",2020-04-23,"Nebraska",47,9
+"Nebraska.3845",2020-04-24,"Nebraska",50,3
+"Nebraska.3846",2020-04-25,"Nebraska",50,0
+"Nebraska.3847",2020-04-26,"Nebraska",56,6
+"Nebraska.3848",2020-04-27,"Nebraska",56,0
+"Nebraska.3849",2020-04-28,"Nebraska",56,0
+"Nebraska.3850",2020-04-29,"Nebraska",56,0
+"Nebraska.3851",2020-04-30,"Nebraska",70,14
+"Nebraska.3852",2020-05-01,"Nebraska",73,3
+"Nebraska.3853",2020-05-02,"Nebraska",73,0
+"Nebraska.3854",2020-05-03,"Nebraska",78,5
+"Nebraska.3855",2020-05-04,"Nebraska",78,0
+"Nebraska.3856",2020-05-05,"Nebraska",78,0
+"Nebraska.3857",2020-05-06,"Nebraska",78,0
+"Nebraska.3858",2020-05-07,"Nebraska",91,13
+"Nebraska.3859",2020-05-08,"Nebraska",90,-1
+"Nebraska.3860",2020-05-09,"Nebraska",90,0
+"Nebraska.3861",2020-05-10,"Nebraska",90,0
+"Nebraska.3862",2020-05-11,"Nebraska",98,8
+"Nebraska.3863",2020-05-12,"Nebraska",100,2
+"Nebraska.3864",2020-05-13,"Nebraska",103,3
+"Nebraska.3865",2020-05-14,"Nebraska",103,0
+"Nebraska.3866",2020-05-15,"Nebraska",113,10
+"Nebraska.3867",2020-05-16,"Nebraska",123,10
+"Nebraska.3868",2020-05-17,"Nebraska",123,0
+"Nebraska.3869",2020-05-18,"Nebraska",123,0
+"Nebraska.3870",2020-05-19,"Nebraska",123,0
+"Nebraska.3871",2020-05-20,"Nebraska",138,15
+"Nebraska.3872",2020-05-21,"Nebraska",138,0
+"Nevada.3927",2020-03-16,"Nevada",1,1
+"Nevada.3928",2020-03-17,"Nevada",1,0
+"Nevada.3929",2020-03-18,"Nevada",1,0
+"Nevada.3930",2020-03-19,"Nevada",1,0
+"Nevada.3931",2020-03-20,"Nevada",2,1
+"Nevada.3932",2020-03-21,"Nevada",2,0
+"Nevada.3933",2020-03-22,"Nevada",2,0
+"Nevada.3934",2020-03-23,"Nevada",4,2
+"Nevada.3935",2020-03-24,"Nevada",4,0
+"Nevada.3936",2020-03-25,"Nevada",6,2
+"Nevada.3937",2020-03-26,"Nevada",10,4
+"Nevada.3938",2020-03-27,"Nevada",10,0
+"Nevada.3939",2020-03-28,"Nevada",10,0
+"Nevada.3940",2020-03-29,"Nevada",15,5
+"Nevada.3941",2020-03-30,"Nevada",15,0
+"Nevada.3942",2020-03-31,"Nevada",26,11
+"Nevada.3943",2020-04-01,"Nevada",31,5
+"Nevada.3944",2020-04-02,"Nevada",38,7
+"Nevada.3945",2020-04-03,"Nevada",43,5
+"Nevada.3946",2020-04-04,"Nevada",46,3
+"Nevada.3947",2020-04-05,"Nevada",46,0
+"Nevada.3948",2020-04-06,"Nevada",46,0
+"Nevada.3949",2020-04-07,"Nevada",72,26
+"Nevada.3950",2020-04-08,"Nevada",72,0
+"Nevada.3951",2020-04-09,"Nevada",81,9
+"Nevada.3952",2020-04-10,"Nevada",90,9
+"Nevada.3953",2020-04-11,"Nevada",102,12
+"Nevada.3954",2020-04-12,"Nevada",112,10
+"Nevada.3955",2020-04-13,"Nevada",114,2
+"Nevada.3956",2020-04-14,"Nevada",126,12
+"Nevada.3957",2020-04-15,"Nevada",131,5
+"Nevada.3958",2020-04-16,"Nevada",137,6
+"Nevada.3959",2020-04-17,"Nevada",142,5
+"Nevada.3960",2020-04-18,"Nevada",151,9
+"Nevada.3961",2020-04-19,"Nevada",158,7
+"Nevada.3962",2020-04-20,"Nevada",159,1
+"Nevada.3963",2020-04-21,"Nevada",163,4
+"Nevada.3964",2020-04-22,"Nevada",172,9
+"Nevada.3965",2020-04-23,"Nevada",195,23
+"Nevada.3966",2020-04-24,"Nevada",197,2
+"Nevada.3967",2020-04-25,"Nevada",205,8
+"Nevada.3968",2020-04-26,"Nevada",206,1
+"Nevada.3969",2020-04-27,"Nevada",206,0
+"Nevada.3970",2020-04-28,"Nevada",219,13
+"Nevada.3971",2020-04-29,"Nevada",230,11
+"Nevada.3972",2020-04-30,"Nevada",243,13
+"Nevada.3973",2020-05-01,"Nevada",246,3
+"Nevada.3974",2020-05-02,"Nevada",255,9
+"Nevada.3975",2020-05-03,"Nevada",258,3
+"Nevada.3976",2020-05-04,"Nevada",265,7
+"Nevada.3977",2020-05-05,"Nevada",270,5
+"Nevada.3978",2020-05-06,"Nevada",289,19
+"Nevada.3979",2020-05-07,"Nevada",297,8
+"Nevada.3980",2020-05-08,"Nevada",294,-3
+"Nevada.3981",2020-05-09,"Nevada",313,19
+"Nevada.3982",2020-05-10,"Nevada",310,-3
+"Nevada.3983",2020-05-11,"Nevada",312,2
+"Nevada.3984",2020-05-12,"Nevada",321,9
+"Nevada.3985",2020-05-13,"Nevada",331,10
+"Nevada.3986",2020-05-14,"Nevada",333,2
+"Nevada.3987",2020-05-15,"Nevada",343,10
+"Nevada.3988",2020-05-16,"Nevada",347,4
+"Nevada.3989",2020-05-17,"Nevada",350,3
+"Nevada.3990",2020-05-18,"Nevada",358,8
+"Nevada.3991",2020-05-19,"Nevada",358,0
+"Nevada.3992",2020-05-20,"Nevada",377,19
+"Nevada.3993",2020-05-21,"Nevada",383,6
+"New Hampshire.4055",2020-03-23,"New Hampshire",1,1
+"New Hampshire.4056",2020-03-24,"New Hampshire",1,0
+"New Hampshire.4057",2020-03-25,"New Hampshire",1,0
+"New Hampshire.4058",2020-03-26,"New Hampshire",1,0
+"New Hampshire.4059",2020-03-27,"New Hampshire",1,0
+"New Hampshire.4060",2020-03-28,"New Hampshire",2,1
+"New Hampshire.4061",2020-03-29,"New Hampshire",2,0
+"New Hampshire.4062",2020-03-30,"New Hampshire",3,1
+"New Hampshire.4063",2020-03-31,"New Hampshire",3,0
+"New Hampshire.4064",2020-04-01,"New Hampshire",3,0
+"New Hampshire.4065",2020-04-02,"New Hampshire",3,0
+"New Hampshire.4066",2020-04-03,"New Hampshire",5,2
+"New Hampshire.4067",2020-04-04,"New Hampshire",7,2
+"New Hampshire.4068",2020-04-05,"New Hampshire",9,2
+"New Hampshire.4069",2020-04-06,"New Hampshire",9,0
+"New Hampshire.4070",2020-04-07,"New Hampshire",9,0
+"New Hampshire.4071",2020-04-08,"New Hampshire",13,4
+"New Hampshire.4072",2020-04-09,"New Hampshire",21,8
+"New Hampshire.4073",2020-04-10,"New Hampshire",21,0
+"New Hampshire.4074",2020-04-11,"New Hampshire",22,1
+"New Hampshire.4075",2020-04-12,"New Hampshire",23,1
+"New Hampshire.4076",2020-04-13,"New Hampshire",23,0
+"New Hampshire.4077",2020-04-14,"New Hampshire",25,2
+"New Hampshire.4078",2020-04-15,"New Hampshire",32,7
+"New Hampshire.4079",2020-04-16,"New Hampshire",32,0
+"New Hampshire.4080",2020-04-17,"New Hampshire",37,5
+"New Hampshire.4081",2020-04-18,"New Hampshire",38,1
+"New Hampshire.4082",2020-04-19,"New Hampshire",38,0
+"New Hampshire.4083",2020-04-20,"New Hampshire",42,4
+"New Hampshire.4084",2020-04-21,"New Hampshire",42,0
+"New Hampshire.4085",2020-04-22,"New Hampshire",48,6
+"New Hampshire.4086",2020-04-23,"New Hampshire",51,3
+"New Hampshire.4087",2020-04-24,"New Hampshire",53,2
+"New Hampshire.4088",2020-04-25,"New Hampshire",53,0
+"New Hampshire.4089",2020-04-26,"New Hampshire",60,7
+"New Hampshire.4090",2020-04-27,"New Hampshire",60,0
+"New Hampshire.4091",2020-04-28,"New Hampshire",60,0
+"New Hampshire.4092",2020-04-29,"New Hampshire",60,0
+"New Hampshire.4093",2020-04-30,"New Hampshire",72,12
+"New Hampshire.4094",2020-05-01,"New Hampshire",81,9
+"New Hampshire.4095",2020-05-02,"New Hampshire",84,3
+"New Hampshire.4096",2020-05-03,"New Hampshire",86,2
+"New Hampshire.4097",2020-05-04,"New Hampshire",86,0
+"New Hampshire.4098",2020-05-05,"New Hampshire",92,6
+"New Hampshire.4099",2020-05-06,"New Hampshire",92,0
+"New Hampshire.4100",2020-05-07,"New Hampshire",114,22
+"New Hampshire.4101",2020-05-08,"New Hampshire",121,7
+"New Hampshire.4102",2020-05-09,"New Hampshire",131,10
+"New Hampshire.4103",2020-05-10,"New Hampshire",133,2
+"New Hampshire.4104",2020-05-11,"New Hampshire",133,0
+"New Hampshire.4105",2020-05-12,"New Hampshire",142,9
+"New Hampshire.4106",2020-05-13,"New Hampshire",150,8
+"New Hampshire.4107",2020-05-14,"New Hampshire",151,1
+"New Hampshire.4108",2020-05-15,"New Hampshire",151,0
+"New Hampshire.4109",2020-05-16,"New Hampshire",171,20
+"New Hampshire.4110",2020-05-17,"New Hampshire",172,1
+"New Hampshire.4111",2020-05-18,"New Hampshire",172,0
+"New Hampshire.4112",2020-05-19,"New Hampshire",172,0
+"New Hampshire.4113",2020-05-20,"New Hampshire",190,18
+"New Hampshire.4114",2020-05-21,"New Hampshire",199,9
+"New Jersey.4163",2020-03-10,"New Jersey",1,1
+"New Jersey.4164",2020-03-11,"New Jersey",1,0
+"New Jersey.4165",2020-03-12,"New Jersey",1,0
+"New Jersey.4166",2020-03-13,"New Jersey",1,0
+"New Jersey.4167",2020-03-14,"New Jersey",1,0
+"New Jersey.4168",2020-03-15,"New Jersey",2,1
+"New Jersey.4169",2020-03-16,"New Jersey",2,0
+"New Jersey.4170",2020-03-17,"New Jersey",3,1
+"New Jersey.4171",2020-03-18,"New Jersey",5,2
+"New Jersey.4172",2020-03-19,"New Jersey",9,4
+"New Jersey.4173",2020-03-20,"New Jersey",11,2
+"New Jersey.4174",2020-03-21,"New Jersey",16,5
+"New Jersey.4175",2020-03-22,"New Jersey",20,4
+"New Jersey.4176",2020-03-23,"New Jersey",27,7
+"New Jersey.4177",2020-03-24,"New Jersey",44,17
+"New Jersey.4178",2020-03-25,"New Jersey",62,18
+"New Jersey.4179",2020-03-26,"New Jersey",81,19
+"New Jersey.4180",2020-03-27,"New Jersey",108,27
+"New Jersey.4181",2020-03-28,"New Jersey",140,32
+"New Jersey.4182",2020-03-29,"New Jersey",161,21
+"New Jersey.4183",2020-03-30,"New Jersey",198,37
+"New Jersey.4184",2020-03-31,"New Jersey",267,69
+"New Jersey.4185",2020-04-01,"New Jersey",355,88
+"New Jersey.4186",2020-04-02,"New Jersey",537,182
+"New Jersey.4187",2020-04-03,"New Jersey",646,109
+"New Jersey.4188",2020-04-04,"New Jersey",846,200
+"New Jersey.4189",2020-04-05,"New Jersey",917,71
+"New Jersey.4190",2020-04-06,"New Jersey",1003,86
+"New Jersey.4191",2020-04-07,"New Jersey",1232,229
+"New Jersey.4192",2020-04-08,"New Jersey",1504,272
+"New Jersey.4193",2020-04-09,"New Jersey",1709,205
+"New Jersey.4194",2020-04-10,"New Jersey",1932,223
+"New Jersey.4195",2020-04-11,"New Jersey",2183,251
+"New Jersey.4196",2020-04-12,"New Jersey",2350,167
+"New Jersey.4197",2020-04-13,"New Jersey",2443,93
+"New Jersey.4198",2020-04-14,"New Jersey",2805,362
+"New Jersey.4199",2020-04-15,"New Jersey",3156,351
+"New Jersey.4200",2020-04-16,"New Jersey",3518,362
+"New Jersey.4201",2020-04-17,"New Jersey",3840,322
+"New Jersey.4202",2020-04-18,"New Jersey",4070,230
+"New Jersey.4203",2020-04-19,"New Jersey",4362,292
+"New Jersey.4204",2020-04-20,"New Jersey",4496,134
+"New Jersey.4205",2020-04-21,"New Jersey",4753,257
+"New Jersey.4206",2020-04-22,"New Jersey",5150,397
+"New Jersey.4207",2020-04-23,"New Jersey",5426,276
+"New Jersey.4208",2020-04-24,"New Jersey",5683,257
+"New Jersey.4209",2020-04-25,"New Jersey",5914,231
+"New Jersey.4210",2020-04-26,"New Jersey",5938,24
+"New Jersey.4211",2020-04-27,"New Jersey",6044,106
+"New Jersey.4212",2020-04-28,"New Jersey",6442,398
+"New Jersey.4213",2020-04-29,"New Jersey",6771,329
+"New Jersey.4214",2020-04-30,"New Jersey",7228,457
+"New Jersey.4215",2020-05-01,"New Jersey",7538,310
+"New Jersey.4216",2020-05-02,"New Jersey",7742,204
+"New Jersey.4217",2020-05-03,"New Jersey",7871,129
+"New Jersey.4218",2020-05-04,"New Jersey",7910,39
+"New Jersey.4219",2020-05-05,"New Jersey",8244,334
+"New Jersey.4220",2020-05-06,"New Jersey",8549,305
+"New Jersey.4221",2020-05-07,"New Jersey",8807,258
+"New Jersey.4222",2020-05-08,"New Jersey",8960,153
+"New Jersey.4223",2020-05-09,"New Jersey",9116,156
+"New Jersey.4224",2020-05-10,"New Jersey",9256,140
+"New Jersey.4225",2020-05-11,"New Jersey",9340,84
+"New Jersey.4226",2020-05-12,"New Jersey",9531,191
+"New Jersey.4227",2020-05-13,"New Jersey",9714,183
+"New Jersey.4228",2020-05-14,"New Jersey",9946,232
+"New Jersey.4229",2020-05-15,"New Jersey",10148,202
+"New Jersey.4230",2020-05-16,"New Jersey",10261,113
+"New Jersey.4231",2020-05-17,"New Jersey",10363,102
+"New Jersey.4232",2020-05-18,"New Jersey",10439,76
+"New Jersey.4233",2020-05-19,"New Jersey",10587,148
+"New Jersey.4234",2020-05-20,"New Jersey",10749,162
+"New Jersey.4235",2020-05-21,"New Jersey",10846,97
+"New Mexico.4299",2020-03-25,"New Mexico",1,1
+"New Mexico.4300",2020-03-26,"New Mexico",1,0
+"New Mexico.4301",2020-03-27,"New Mexico",1,0
+"New Mexico.4302",2020-03-28,"New Mexico",1,0
+"New Mexico.4303",2020-03-29,"New Mexico",2,1
+"New Mexico.4304",2020-03-30,"New Mexico",2,0
+"New Mexico.4305",2020-03-31,"New Mexico",4,2
+"New Mexico.4306",2020-04-01,"New Mexico",5,1
+"New Mexico.4307",2020-04-02,"New Mexico",6,1
+"New Mexico.4308",2020-04-03,"New Mexico",10,4
+"New Mexico.4309",2020-04-04,"New Mexico",11,1
+"New Mexico.4310",2020-04-05,"New Mexico",12,1
+"New Mexico.4311",2020-04-06,"New Mexico",12,0
+"New Mexico.4312",2020-04-07,"New Mexico",13,1
+"New Mexico.4313",2020-04-08,"New Mexico",13,0
+"New Mexico.4314",2020-04-09,"New Mexico",16,3
+"New Mexico.4315",2020-04-10,"New Mexico",17,1
+"New Mexico.4316",2020-04-11,"New Mexico",19,2
+"New Mexico.4317",2020-04-12,"New Mexico",26,7
+"New Mexico.4318",2020-04-13,"New Mexico",26,0
+"New Mexico.4319",2020-04-14,"New Mexico",31,5
+"New Mexico.4320",2020-04-15,"New Mexico",36,5
+"New Mexico.4321",2020-04-16,"New Mexico",36,0
+"New Mexico.4322",2020-04-17,"New Mexico",44,8
+"New Mexico.4323",2020-04-18,"New Mexico",53,9
+"New Mexico.4324",2020-04-19,"New Mexico",55,2
+"New Mexico.4325",2020-04-20,"New Mexico",58,3
+"New Mexico.4326",2020-04-21,"New Mexico",58,0
+"New Mexico.4327",2020-04-22,"New Mexico",71,13
+"New Mexico.4328",2020-04-23,"New Mexico",78,7
+"New Mexico.4329",2020-04-24,"New Mexico",84,6
+"New Mexico.4330",2020-04-25,"New Mexico",93,9
+"New Mexico.4331",2020-04-26,"New Mexico",99,6
+"New Mexico.4332",2020-04-27,"New Mexico",99,0
+"New Mexico.4333",2020-04-28,"New Mexico",105,6
+"New Mexico.4334",2020-04-29,"New Mexico",112,7
+"New Mexico.4335",2020-04-30,"New Mexico",123,11
+"New Mexico.4336",2020-05-01,"New Mexico",131,8
+"New Mexico.4337",2020-05-02,"New Mexico",138,7
+"New Mexico.4338",2020-05-03,"New Mexico",151,13
+"New Mexico.4339",2020-05-04,"New Mexico",156,5
+"New Mexico.4340",2020-05-05,"New Mexico",162,6
+"New Mexico.4341",2020-05-06,"New Mexico",169,7
+"New Mexico.4342",2020-05-07,"New Mexico",172,3
+"New Mexico.4343",2020-05-08,"New Mexico",181,9
+"New Mexico.4344",2020-05-09,"New Mexico",191,10
+"New Mexico.4345",2020-05-10,"New Mexico",200,9
+"New Mexico.4346",2020-05-11,"New Mexico",208,8
+"New Mexico.4347",2020-05-12,"New Mexico",219,11
+"New Mexico.4348",2020-05-13,"New Mexico",231,12
+"New Mexico.4349",2020-05-14,"New Mexico",242,11
+"New Mexico.4350",2020-05-15,"New Mexico",253,11
+"New Mexico.4351",2020-05-16,"New Mexico",259,6
+"New Mexico.4352",2020-05-17,"New Mexico",265,6
+"New Mexico.4353",2020-05-18,"New Mexico",270,5
+"New Mexico.4354",2020-05-19,"New Mexico",276,6
+"New Mexico.4355",2020-05-20,"New Mexico",283,7
+"New Mexico.4356",2020-05-21,"New Mexico",294,11
+"New York.4407",2020-03-12,"New York",1,1
+"New York.4408",2020-03-13,"New York",2,1
+"New York.4409",2020-03-14,"New York",6,4
+"New York.4410",2020-03-15,"New York",12,6
+"New York.4411",2020-03-16,"New York",24,12
+"New York.4412",2020-03-17,"New York",38,14
+"New York.4413",2020-03-18,"New York",63,25
+"New York.4414",2020-03-19,"New York",96,33
+"New York.4415",2020-03-20,"New York",151,55
+"New York.4416",2020-03-21,"New York",195,44
+"New York.4417",2020-03-22,"New York",286,91
+"New York.4418",2020-03-23,"New York",387,101
+"New York.4419",2020-03-24,"New York",512,125
+"New York.4420",2020-03-25,"New York",659,147
+"New York.4421",2020-03-26,"New York",902,243
+"New York.4422",2020-03-27,"New York",1211,309
+"New York.4423",2020-03-28,"New York",1588,377
+"New York.4424",2020-03-29,"New York",2016,428
+"New York.4425",2020-03-30,"New York",2556,540
+"New York.4426",2020-03-31,"New York",3207,651
+"New York.4427",2020-04-01,"New York",3917,710
+"New York.4428",2020-04-02,"New York",4730,813
+"New York.4429",2020-04-03,"New York",5418,688
+"New York.4430",2020-04-04,"New York",5991,573
+"New York.4431",2020-04-05,"New York",6785,794
+"New York.4432",2020-04-06,"New York",7809,1024
+"New York.4433",2020-04-07,"New York",8886,1077
+"New York.4434",2020-04-08,"New York",9834,948
+"New York.4435",2020-04-09,"New York",10778,944
+"New York.4436",2020-04-10,"New York",11605,827
+"New York.4437",2020-04-11,"New York",12498,893
+"New York.4438",2020-04-12,"New York",13442,944
+"New York.4439",2020-04-13,"New York",14390,948
+"New York.4440",2020-04-14,"New York",15261,871
+"New York.4441",2020-04-15,"New York",16013,752
+"New York.4442",2020-04-16,"New York",16729,716
+"New York.4443",2020-04-17,"New York",17755,1026
+"New York.4444",2020-04-18,"New York",18760,1005
+"New York.4445",2020-04-19,"New York",18582,-178
+"New York.4446",2020-04-20,"New York",19176,594
+"New York.4447",2020-04-21,"New York",19746,570
+"New York.4448",2020-04-22,"New York",20203,457
+"New York.4449",2020-04-23,"New York",20743,540
+"New York.4450",2020-04-24,"New York",20955,212
+"New York.4451",2020-04-25,"New York",22009,1054
+"New York.4452",2020-04-26,"New York",22269,260
+"New York.4453",2020-04-27,"New York",22668,399
+"New York.4454",2020-04-28,"New York",22912,244
+"New York.4455",2020-04-29,"New York",23477,565
+"New York.4456",2020-04-30,"New York",23587,110
+"New York.4457",2020-05-01,"New York",24039,452
+"New York.4458",2020-05-02,"New York",24198,159
+"New York.4459",2020-05-03,"New York",24708,510
+"New York.4460",2020-05-04,"New York",24999,291
+"New York.4461",2020-05-05,"New York",25124,125
+"New York.4462",2020-05-06,"New York",25623,499
+"New York.4463",2020-05-07,"New York",26144,521
+"New York.4464",2020-05-08,"New York",26243,99
+"New York.4465",2020-05-09,"New York",26612,369
+"New York.4466",2020-05-10,"New York",26641,29
+"New York.4467",2020-05-11,"New York",26988,347
+"New York.4468",2020-05-12,"New York",27284,296
+"New York.4469",2020-05-13,"New York",27477,193
+"New York.4470",2020-05-14,"New York",27641,164
+"New York.4471",2020-05-15,"New York",27878,237
+"New York.4472",2020-05-16,"New York",28049,171
+"New York.4473",2020-05-17,"New York",28232,183
+"New York.4474",2020-05-18,"New York",28339,107
+"New York.4475",2020-05-19,"New York",28558,219
+"New York.4476",2020-05-20,"New York",28636,78
+"New York.4477",2020-05-21,"New York",28743,107
+"North Carolina.4541",2020-03-25,"North Carolina",2,2
+"North Carolina.4542",2020-03-26,"North Carolina",3,1
+"North Carolina.4543",2020-03-27,"North Carolina",4,1
+"North Carolina.4544",2020-03-28,"North Carolina",5,1
+"North Carolina.4545",2020-03-29,"North Carolina",7,2
+"North Carolina.4546",2020-03-30,"North Carolina",7,0
+"North Carolina.4547",2020-03-31,"North Carolina",12,5
+"North Carolina.4548",2020-04-01,"North Carolina",14,2
+"North Carolina.4549",2020-04-02,"North Carolina",21,7
+"North Carolina.4550",2020-04-03,"North Carolina",27,6
+"North Carolina.4551",2020-04-04,"North Carolina",34,7
+"North Carolina.4552",2020-04-05,"North Carolina",38,4
+"North Carolina.4553",2020-04-06,"North Carolina",45,7
+"North Carolina.4554",2020-04-07,"North Carolina",53,8
+"North Carolina.4555",2020-04-08,"North Carolina",66,13
+"North Carolina.4556",2020-04-09,"North Carolina",76,10
+"North Carolina.4557",2020-04-10,"North Carolina",83,7
+"North Carolina.4558",2020-04-11,"North Carolina",89,6
+"North Carolina.4559",2020-04-12,"North Carolina",89,0
+"North Carolina.4560",2020-04-13,"North Carolina",94,5
+"North Carolina.4561",2020-04-14,"North Carolina",112,18
+"North Carolina.4562",2020-04-15,"North Carolina",130,18
+"North Carolina.4563",2020-04-16,"North Carolina",150,20
+"North Carolina.4564",2020-04-17,"North Carolina",177,27
+"North Carolina.4565",2020-04-18,"North Carolina",187,10
+"North Carolina.4566",2020-04-19,"North Carolina",200,13
+"North Carolina.4567",2020-04-20,"North Carolina",218,18
+"North Carolina.4568",2020-04-21,"North Carolina",245,27
+"North Carolina.4569",2020-04-22,"North Carolina",265,20
+"North Carolina.4570",2020-04-23,"North Carolina",281,16
+"North Carolina.4571",2020-04-24,"North Carolina",294,13
+"North Carolina.4572",2020-04-25,"North Carolina",305,11
+"North Carolina.4573",2020-04-26,"North Carolina",324,19
+"North Carolina.4574",2020-04-27,"North Carolina",340,16
+"North Carolina.4575",2020-04-28,"North Carolina",363,23
+"North Carolina.4576",2020-04-29,"North Carolina",382,19
+"North Carolina.4577",2020-04-30,"North Carolina",406,24
+"North Carolina.4578",2020-05-01,"North Carolina",419,13
+"North Carolina.4579",2020-05-02,"North Carolina",431,12
+"North Carolina.4580",2020-05-03,"North Carolina",434,3
+"North Carolina.4581",2020-05-04,"North Carolina",442,8
+"North Carolina.4582",2020-05-05,"North Carolina",472,30
+"North Carolina.4583",2020-05-06,"North Carolina",492,20
+"North Carolina.4584",2020-05-07,"North Carolina",513,21
+"North Carolina.4585",2020-05-08,"North Carolina",530,17
+"North Carolina.4586",2020-05-09,"North Carolina",551,21
+"North Carolina.4587",2020-05-10,"North Carolina",564,13
+"North Carolina.4588",2020-05-11,"North Carolina",575,11
+"North Carolina.4589",2020-05-12,"North Carolina",600,25
+"North Carolina.4590",2020-05-13,"North Carolina",625,25
+"North Carolina.4591",2020-05-14,"North Carolina",641,16
+"North Carolina.4592",2020-05-15,"North Carolina",667,26
+"North Carolina.4593",2020-05-16,"North Carolina",676,9
+"North Carolina.4594",2020-05-17,"North Carolina",686,10
+"North Carolina.4595",2020-05-18,"North Carolina",693,7
+"North Carolina.4596",2020-05-19,"North Carolina",693,0
+"North Carolina.4597",2020-05-20,"North Carolina",726,33
+"North Carolina.4598",2020-05-21,"North Carolina",728,2
+"North Dakota.4664",2020-03-27,"North Dakota",1,1
+"North Dakota.4665",2020-03-28,"North Dakota",1,0
+"North Dakota.4666",2020-03-29,"North Dakota",1,0
+"North Dakota.4667",2020-03-30,"North Dakota",2,1
+"North Dakota.4668",2020-03-31,"North Dakota",3,1
+"North Dakota.4669",2020-04-01,"North Dakota",3,0
+"North Dakota.4670",2020-04-02,"North Dakota",3,0
+"North Dakota.4671",2020-04-03,"North Dakota",3,0
+"North Dakota.4672",2020-04-04,"North Dakota",3,0
+"North Dakota.4673",2020-04-05,"North Dakota",3,0
+"North Dakota.4674",2020-04-06,"North Dakota",3,0
+"North Dakota.4675",2020-04-07,"North Dakota",4,1
+"North Dakota.4676",2020-04-08,"North Dakota",4,0
+"North Dakota.4677",2020-04-09,"North Dakota",5,1
+"North Dakota.4678",2020-04-10,"North Dakota",6,1
+"North Dakota.4679",2020-04-11,"North Dakota",7,1
+"North Dakota.4680",2020-04-12,"North Dakota",7,0
+"North Dakota.4681",2020-04-13,"North Dakota",8,1
+"North Dakota.4682",2020-04-14,"North Dakota",8,0
+"North Dakota.4683",2020-04-15,"North Dakota",9,1
+"North Dakota.4684",2020-04-16,"North Dakota",9,0
+"North Dakota.4685",2020-04-17,"North Dakota",9,0
+"North Dakota.4686",2020-04-18,"North Dakota",9,0
+"North Dakota.4687",2020-04-19,"North Dakota",9,0
+"North Dakota.4688",2020-04-20,"North Dakota",9,0
+"North Dakota.4689",2020-04-21,"North Dakota",13,4
+"North Dakota.4690",2020-04-22,"North Dakota",14,1
+"North Dakota.4691",2020-04-23,"North Dakota",15,1
+"North Dakota.4692",2020-04-24,"North Dakota",15,0
+"North Dakota.4693",2020-04-25,"North Dakota",16,1
+"North Dakota.4694",2020-04-26,"North Dakota",17,1
+"North Dakota.4695",2020-04-27,"North Dakota",19,2
+"North Dakota.4696",2020-04-28,"North Dakota",19,0
+"North Dakota.4697",2020-04-29,"North Dakota",19,0
+"North Dakota.4698",2020-04-30,"North Dakota",19,0
+"North Dakota.4699",2020-05-01,"North Dakota",23,4
+"North Dakota.4700",2020-05-02,"North Dakota",24,1
+"North Dakota.4701",2020-05-03,"North Dakota",25,1
+"North Dakota.4702",2020-05-04,"North Dakota",25,0
+"North Dakota.4703",2020-05-05,"North Dakota",25,0
+"North Dakota.4704",2020-05-06,"North Dakota",31,6
+"North Dakota.4705",2020-05-07,"North Dakota",31,0
+"North Dakota.4706",2020-05-08,"North Dakota",33,2
+"North Dakota.4707",2020-05-09,"North Dakota",35,2
+"North Dakota.4708",2020-05-10,"North Dakota",35,0
+"North Dakota.4709",2020-05-11,"North Dakota",36,1
+"North Dakota.4710",2020-05-12,"North Dakota",38,2
+"North Dakota.4711",2020-05-13,"North Dakota",40,2
+"North Dakota.4712",2020-05-14,"North Dakota",40,0
+"North Dakota.4713",2020-05-15,"North Dakota",42,2
+"North Dakota.4714",2020-05-16,"North Dakota",42,0
+"North Dakota.4715",2020-05-17,"North Dakota",43,1
+"North Dakota.4716",2020-05-18,"North Dakota",44,1
+"North Dakota.4717",2020-05-19,"North Dakota",45,1
+"North Dakota.4718",2020-05-20,"North Dakota",49,4
+"North Dakota.4719",2020-05-21,"North Dakota",51,2
+"Northern Mariana Islands.4790",2020-04-01,"Northern Mariana Islands",1,1
+"Northern Mariana Islands.4791",2020-04-02,"Northern Mariana Islands",1,0
+"Northern Mariana Islands.4792",2020-04-03,"Northern Mariana Islands",1,0
+"Northern Mariana Islands.4793",2020-04-04,"Northern Mariana Islands",1,0
+"Northern Mariana Islands.4794",2020-04-05,"Northern Mariana Islands",1,0
+"Northern Mariana Islands.4795",2020-04-06,"Northern Mariana Islands",1,0
+"Northern Mariana Islands.4796",2020-04-07,"Northern Mariana Islands",2,1
+"Northern Mariana Islands.4797",2020-04-08,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4798",2020-04-09,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4799",2020-04-10,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4800",2020-04-11,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4801",2020-04-12,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4802",2020-04-13,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4803",2020-04-14,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4804",2020-04-15,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4805",2020-04-16,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4806",2020-04-17,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4807",2020-04-18,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4808",2020-04-19,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4809",2020-04-20,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4810",2020-04-21,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4811",2020-04-22,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4812",2020-04-23,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4813",2020-04-24,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4814",2020-04-25,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4815",2020-04-26,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4816",2020-04-27,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4817",2020-04-28,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4818",2020-04-29,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4819",2020-04-30,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4820",2020-05-01,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4821",2020-05-02,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4822",2020-05-03,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4823",2020-05-04,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4824",2020-05-05,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4825",2020-05-06,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4826",2020-05-07,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4827",2020-05-08,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4828",2020-05-09,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4829",2020-05-10,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4830",2020-05-11,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4831",2020-05-12,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4832",2020-05-13,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4833",2020-05-14,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4834",2020-05-15,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4835",2020-05-16,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4836",2020-05-17,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4837",2020-05-18,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4838",2020-05-19,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4839",2020-05-20,"Northern Mariana Islands",2,0
+"Northern Mariana Islands.4840",2020-05-21,"Northern Mariana Islands",2,0
+"Ohio.4899",2020-03-20,"Ohio",3,3
+"Ohio.4900",2020-03-21,"Ohio",3,0
+"Ohio.4901",2020-03-22,"Ohio",3,0
+"Ohio.4902",2020-03-23,"Ohio",6,3
+"Ohio.4903",2020-03-24,"Ohio",8,2
+"Ohio.4904",2020-03-25,"Ohio",11,3
+"Ohio.4905",2020-03-26,"Ohio",15,4
+"Ohio.4906",2020-03-27,"Ohio",19,4
+"Ohio.4907",2020-03-28,"Ohio",25,6
+"Ohio.4908",2020-03-29,"Ohio",29,4
+"Ohio.4909",2020-03-30,"Ohio",40,11
+"Ohio.4910",2020-03-31,"Ohio",55,15
+"Ohio.4911",2020-04-01,"Ohio",65,10
+"Ohio.4912",2020-04-02,"Ohio",81,16
+"Ohio.4913",2020-04-03,"Ohio",91,10
+"Ohio.4914",2020-04-04,"Ohio",102,11
+"Ohio.4915",2020-04-05,"Ohio",119,17
+"Ohio.4916",2020-04-06,"Ohio",142,23
+"Ohio.4917",2020-04-07,"Ohio",167,25
+"Ohio.4918",2020-04-08,"Ohio",193,26
+"Ohio.4919",2020-04-09,"Ohio",213,20
+"Ohio.4920",2020-04-10,"Ohio",231,18
+"Ohio.4921",2020-04-11,"Ohio",247,16
+"Ohio.4922",2020-04-12,"Ohio",253,6
+"Ohio.4923",2020-04-13,"Ohio",274,21
+"Ohio.4924",2020-04-14,"Ohio",324,50
+"Ohio.4925",2020-04-15,"Ohio",362,38
+"Ohio.4926",2020-04-16,"Ohio",407,45
+"Ohio.4927",2020-04-17,"Ohio",418,11
+"Ohio.4928",2020-04-18,"Ohio",451,33
+"Ohio.4929",2020-04-19,"Ohio",471,20
+"Ohio.4930",2020-04-20,"Ohio",509,38
+"Ohio.4931",2020-04-21,"Ohio",557,48
+"Ohio.4932",2020-04-22,"Ohio",610,53
+"Ohio.4933",2020-04-23,"Ohio",656,46
+"Ohio.4934",2020-04-24,"Ohio",690,34
+"Ohio.4935",2020-04-25,"Ohio",711,21
+"Ohio.4936",2020-04-26,"Ohio",728,17
+"Ohio.4937",2020-04-27,"Ohio",753,25
+"Ohio.4938",2020-04-28,"Ohio",799,46
+"Ohio.4939",2020-04-29,"Ohio",937,138
+"Ohio.4940",2020-04-30,"Ohio",976,39
+"Ohio.4941",2020-05-01,"Ohio",1003,27
+"Ohio.4942",2020-05-02,"Ohio",1022,19
+"Ohio.4943",2020-05-03,"Ohio",1039,17
+"Ohio.4944",2020-05-04,"Ohio",1057,18
+"Ohio.4945",2020-05-05,"Ohio",1135,78
+"Ohio.4946",2020-05-06,"Ohio",1225,90
+"Ohio.4947",2020-05-07,"Ohio",1271,46
+"Ohio.4948",2020-05-08,"Ohio",1306,35
+"Ohio.4949",2020-05-09,"Ohio",1331,25
+"Ohio.4950",2020-05-10,"Ohio",1341,10
+"Ohio.4951",2020-05-11,"Ohio",1357,16
+"Ohio.4952",2020-05-12,"Ohio",1436,79
+"Ohio.4953",2020-05-13,"Ohio",1483,47
+"Ohio.4954",2020-05-14,"Ohio",1534,51
+"Ohio.4955",2020-05-15,"Ohio",1581,47
+"Ohio.4956",2020-05-16,"Ohio",1610,29
+"Ohio.4957",2020-05-17,"Ohio",1625,15
+"Ohio.4958",2020-05-18,"Ohio",1657,32
+"Ohio.4959",2020-05-19,"Ohio",1720,63
+"Ohio.4960",2020-05-20,"Ohio",1781,61
+"Ohio.4961",2020-05-21,"Ohio",1837,56
+"Oklahoma.5019",2020-03-19,"Oklahoma",1,1
+"Oklahoma.5020",2020-03-20,"Oklahoma",1,0
+"Oklahoma.5021",2020-03-21,"Oklahoma",1,0
+"Oklahoma.5022",2020-03-22,"Oklahoma",2,1
+"Oklahoma.5023",2020-03-23,"Oklahoma",2,0
+"Oklahoma.5024",2020-03-24,"Oklahoma",3,1
+"Oklahoma.5025",2020-03-25,"Oklahoma",5,2
+"Oklahoma.5026",2020-03-26,"Oklahoma",7,2
+"Oklahoma.5027",2020-03-27,"Oklahoma",8,1
+"Oklahoma.5028",2020-03-28,"Oklahoma",15,7
+"Oklahoma.5029",2020-03-29,"Oklahoma",16,1
+"Oklahoma.5030",2020-03-30,"Oklahoma",16,0
+"Oklahoma.5031",2020-03-31,"Oklahoma",23,7
+"Oklahoma.5032",2020-04-01,"Oklahoma",30,7
+"Oklahoma.5033",2020-04-02,"Oklahoma",34,4
+"Oklahoma.5034",2020-04-03,"Oklahoma",38,4
+"Oklahoma.5035",2020-04-04,"Oklahoma",42,4
+"Oklahoma.5036",2020-04-05,"Oklahoma",46,4
+"Oklahoma.5037",2020-04-06,"Oklahoma",51,5
+"Oklahoma.5038",2020-04-07,"Oklahoma",67,16
+"Oklahoma.5039",2020-04-08,"Oklahoma",79,12
+"Oklahoma.5040",2020-04-09,"Oklahoma",80,1
+"Oklahoma.5041",2020-04-10,"Oklahoma",88,8
+"Oklahoma.5042",2020-04-11,"Oklahoma",94,6
+"Oklahoma.5043",2020-04-12,"Oklahoma",96,2
+"Oklahoma.5044",2020-04-13,"Oklahoma",99,3
+"Oklahoma.5045",2020-04-14,"Oklahoma",108,9
+"Oklahoma.5046",2020-04-15,"Oklahoma",123,15
+"Oklahoma.5047",2020-04-16,"Oklahoma",131,8
+"Oklahoma.5048",2020-04-17,"Oklahoma",136,5
+"Oklahoma.5049",2020-04-18,"Oklahoma",136,0
+"Oklahoma.5050",2020-04-19,"Oklahoma",140,4
+"Oklahoma.5051",2020-04-20,"Oklahoma",143,3
+"Oklahoma.5052",2020-04-21,"Oklahoma",164,21
+"Oklahoma.5053",2020-04-22,"Oklahoma",170,6
+"Oklahoma.5054",2020-04-23,"Oklahoma",179,9
+"Oklahoma.5055",2020-04-24,"Oklahoma",188,9
+"Oklahoma.5056",2020-04-25,"Oklahoma",194,6
+"Oklahoma.5057",2020-04-26,"Oklahoma",195,1
+"Oklahoma.5058",2020-04-27,"Oklahoma",197,2
+"Oklahoma.5059",2020-04-28,"Oklahoma",207,10
+"Oklahoma.5060",2020-04-29,"Oklahoma",214,7
+"Oklahoma.5061",2020-04-30,"Oklahoma",222,8
+"Oklahoma.5062",2020-05-01,"Oklahoma",230,8
+"Oklahoma.5063",2020-05-02,"Oklahoma",238,8
+"Oklahoma.5064",2020-05-03,"Oklahoma",238,0
+"Oklahoma.5065",2020-05-04,"Oklahoma",238,0
+"Oklahoma.5066",2020-05-05,"Oklahoma",247,9
+"Oklahoma.5067",2020-05-06,"Oklahoma",253,6
+"Oklahoma.5068",2020-05-07,"Oklahoma",260,7
+"Oklahoma.5069",2020-05-08,"Oklahoma",266,6
+"Oklahoma.5070",2020-05-09,"Oklahoma",270,4
+"Oklahoma.5071",2020-05-10,"Oklahoma",272,2
+"Oklahoma.5072",2020-05-11,"Oklahoma",274,2
+"Oklahoma.5073",2020-05-12,"Oklahoma",278,4
+"Oklahoma.5074",2020-05-13,"Oklahoma",278,0
+"Oklahoma.5075",2020-05-14,"Oklahoma",284,6
+"Oklahoma.5076",2020-05-15,"Oklahoma",285,1
+"Oklahoma.5077",2020-05-16,"Oklahoma",288,3
+"Oklahoma.5078",2020-05-17,"Oklahoma",288,0
+"Oklahoma.5079",2020-05-18,"Oklahoma",288,0
+"Oklahoma.5080",2020-05-19,"Oklahoma",293,5
+"Oklahoma.5081",2020-05-20,"Oklahoma",299,6
+"Oklahoma.5082",2020-05-21,"Oklahoma",304,5
+"Oregon.5136",2020-03-15,"Oregon",1,1
+"Oregon.5137",2020-03-16,"Oregon",1,0
+"Oregon.5138",2020-03-17,"Oregon",1,0
+"Oregon.5139",2020-03-18,"Oregon",3,2
+"Oregon.5140",2020-03-19,"Oregon",3,0
+"Oregon.5141",2020-03-20,"Oregon",3,0
+"Oregon.5142",2020-03-21,"Oregon",4,1
+"Oregon.5143",2020-03-22,"Oregon",5,1
+"Oregon.5144",2020-03-23,"Oregon",5,0
+"Oregon.5145",2020-03-24,"Oregon",8,3
+"Oregon.5146",2020-03-25,"Oregon",10,2
+"Oregon.5147",2020-03-26,"Oregon",11,1
+"Oregon.5148",2020-03-27,"Oregon",12,1
+"Oregon.5149",2020-03-28,"Oregon",13,1
+"Oregon.5150",2020-03-29,"Oregon",13,0
+"Oregon.5151",2020-03-30,"Oregon",16,3
+"Oregon.5152",2020-03-31,"Oregon",18,2
+"Oregon.5153",2020-04-01,"Oregon",19,1
+"Oregon.5154",2020-04-02,"Oregon",21,2
+"Oregon.5155",2020-04-03,"Oregon",22,1
+"Oregon.5156",2020-04-04,"Oregon",22,0
+"Oregon.5157",2020-04-05,"Oregon",27,5
+"Oregon.5158",2020-04-06,"Oregon",27,0
+"Oregon.5159",2020-04-07,"Oregon",29,2
+"Oregon.5160",2020-04-08,"Oregon",33,4
+"Oregon.5161",2020-04-09,"Oregon",44,11
+"Oregon.5162",2020-04-10,"Oregon",44,0
+"Oregon.5163",2020-04-11,"Oregon",48,4
+"Oregon.5164",2020-04-12,"Oregon",52,4
+"Oregon.5165",2020-04-13,"Oregon",53,1
+"Oregon.5166",2020-04-14,"Oregon",55,2
+"Oregon.5167",2020-04-15,"Oregon",58,3
+"Oregon.5168",2020-04-16,"Oregon",64,6
+"Oregon.5169",2020-04-17,"Oregon",70,6
+"Oregon.5170",2020-04-18,"Oregon",72,2
+"Oregon.5171",2020-04-19,"Oregon",74,2
+"Oregon.5172",2020-04-20,"Oregon",75,1
+"Oregon.5173",2020-04-21,"Oregon",78,3
+"Oregon.5174",2020-04-22,"Oregon",78,0
+"Oregon.5175",2020-04-23,"Oregon",83,5
+"Oregon.5176",2020-04-24,"Oregon",86,3
+"Oregon.5177",2020-04-25,"Oregon",87,1
+"Oregon.5178",2020-04-26,"Oregon",92,5
+"Oregon.5179",2020-04-27,"Oregon",92,0
+"Oregon.5180",2020-04-28,"Oregon",99,7
+"Oregon.5181",2020-04-29,"Oregon",101,2
+"Oregon.5182",2020-04-30,"Oregon",103,2
+"Oregon.5183",2020-05-01,"Oregon",104,1
+"Oregon.5184",2020-05-02,"Oregon",109,5
+"Oregon.5185",2020-05-03,"Oregon",109,0
+"Oregon.5186",2020-05-04,"Oregon",109,0
+"Oregon.5187",2020-05-05,"Oregon",113,4
+"Oregon.5188",2020-05-06,"Oregon",115,2
+"Oregon.5189",2020-05-07,"Oregon",121,6
+"Oregon.5190",2020-05-08,"Oregon",124,3
+"Oregon.5191",2020-05-09,"Oregon",127,3
+"Oregon.5192",2020-05-10,"Oregon",127,0
+"Oregon.5193",2020-05-11,"Oregon",130,3
+"Oregon.5194",2020-05-12,"Oregon",130,0
+"Oregon.5195",2020-05-13,"Oregon",134,4
+"Oregon.5196",2020-05-14,"Oregon",137,3
+"Oregon.5197",2020-05-15,"Oregon",137,0
+"Oregon.5198",2020-05-16,"Oregon",137,0
+"Oregon.5199",2020-05-17,"Oregon",137,0
+"Oregon.5200",2020-05-18,"Oregon",138,1
+"Oregon.5201",2020-05-19,"Oregon",140,2
+"Oregon.5202",2020-05-20,"Oregon",144,4
+"Oregon.5203",2020-05-21,"Oregon",145,1
+"Pennsylvania.5260",2020-03-18,"Pennsylvania",1,1
+"Pennsylvania.5261",2020-03-19,"Pennsylvania",1,0
+"Pennsylvania.5262",2020-03-20,"Pennsylvania",1,0
+"Pennsylvania.5263",2020-03-21,"Pennsylvania",2,1
+"Pennsylvania.5264",2020-03-22,"Pennsylvania",4,2
+"Pennsylvania.5265",2020-03-23,"Pennsylvania",6,2
+"Pennsylvania.5266",2020-03-24,"Pennsylvania",8,2
+"Pennsylvania.5267",2020-03-25,"Pennsylvania",15,7
+"Pennsylvania.5268",2020-03-26,"Pennsylvania",18,3
+"Pennsylvania.5269",2020-03-27,"Pennsylvania",22,4
+"Pennsylvania.5270",2020-03-28,"Pennsylvania",34,12
+"Pennsylvania.5271",2020-03-29,"Pennsylvania",41,7
+"Pennsylvania.5272",2020-03-30,"Pennsylvania",50,9
+"Pennsylvania.5273",2020-03-31,"Pennsylvania",63,13
+"Pennsylvania.5274",2020-04-01,"Pennsylvania",74,11
+"Pennsylvania.5275",2020-04-02,"Pennsylvania",90,16
+"Pennsylvania.5276",2020-04-03,"Pennsylvania",102,12
+"Pennsylvania.5277",2020-04-04,"Pennsylvania",136,34
+"Pennsylvania.5278",2020-04-05,"Pennsylvania",151,15
+"Pennsylvania.5279",2020-04-06,"Pennsylvania",179,28
+"Pennsylvania.5280",2020-04-07,"Pennsylvania",247,68
+"Pennsylvania.5281",2020-04-08,"Pennsylvania",318,71
+"Pennsylvania.5282",2020-04-09,"Pennsylvania",345,27
+"Pennsylvania.5283",2020-04-10,"Pennsylvania",418,73
+"Pennsylvania.5284",2020-04-11,"Pennsylvania",503,85
+"Pennsylvania.5285",2020-04-12,"Pennsylvania",557,54
+"Pennsylvania.5286",2020-04-13,"Pennsylvania",589,32
+"Pennsylvania.5287",2020-04-14,"Pennsylvania",691,102
+"Pennsylvania.5288",2020-04-15,"Pennsylvania",779,88
+"Pennsylvania.5289",2020-04-16,"Pennsylvania",841,62
+"Pennsylvania.5290",2020-04-17,"Pennsylvania",921,80
+"Pennsylvania.5291",2020-04-18,"Pennsylvania",1042,121
+"Pennsylvania.5292",2020-04-19,"Pennsylvania",1276,234
+"Pennsylvania.5293",2020-04-20,"Pennsylvania",1348,72
+"Pennsylvania.5294",2020-04-21,"Pennsylvania",1614,266
+"Pennsylvania.5295",2020-04-22,"Pennsylvania",1673,59
+"Pennsylvania.5296",2020-04-23,"Pennsylvania",1724,51
+"Pennsylvania.5297",2020-04-24,"Pennsylvania",1747,23
+"Pennsylvania.5298",2020-04-25,"Pennsylvania",1793,46
+"Pennsylvania.5299",2020-04-26,"Pennsylvania",1816,23
+"Pennsylvania.5300",2020-04-27,"Pennsylvania",1886,70
+"Pennsylvania.5301",2020-04-28,"Pennsylvania",2046,160
+"Pennsylvania.5302",2020-04-29,"Pennsylvania",2373,327
+"Pennsylvania.5303",2020-04-30,"Pennsylvania",2475,102
+"Pennsylvania.5304",2020-05-01,"Pennsylvania",2635,160
+"Pennsylvania.5305",2020-05-02,"Pennsylvania",2695,60
+"Pennsylvania.5306",2020-05-03,"Pennsylvania",2720,25
+"Pennsylvania.5307",2020-05-04,"Pennsylvania",2838,118
+"Pennsylvania.5308",2020-05-05,"Pennsylvania",3179,341
+"Pennsylvania.5309",2020-05-06,"Pennsylvania",3345,166
+"Pennsylvania.5310",2020-05-07,"Pennsylvania",3589,244
+"Pennsylvania.5311",2020-05-08,"Pennsylvania",3715,126
+"Pennsylvania.5312",2020-05-09,"Pennsylvania",3779,64
+"Pennsylvania.5313",2020-05-10,"Pennsylvania",3806,27
+"Pennsylvania.5314",2020-05-11,"Pennsylvania",3832,26
+"Pennsylvania.5315",2020-05-12,"Pennsylvania",3914,82
+"Pennsylvania.5316",2020-05-13,"Pennsylvania",4094,180
+"Pennsylvania.5317",2020-05-14,"Pennsylvania",4288,194
+"Pennsylvania.5318",2020-05-15,"Pennsylvania",4422,134
+"Pennsylvania.5319",2020-05-16,"Pennsylvania",4480,58
+"Pennsylvania.5320",2020-05-17,"Pennsylvania",4495,15
+"Pennsylvania.5321",2020-05-18,"Pennsylvania",4515,20
+"Pennsylvania.5322",2020-05-19,"Pennsylvania",4628,113
+"Pennsylvania.5323",2020-05-20,"Pennsylvania",4770,142
+"Pennsylvania.5324",2020-05-21,"Pennsylvania",4869,99
+"Puerto Rico.5384",2020-03-21,"Puerto Rico",1,1
+"Puerto Rico.5385",2020-03-22,"Puerto Rico",1,0
+"Puerto Rico.5386",2020-03-23,"Puerto Rico",2,1
+"Puerto Rico.5387",2020-03-24,"Puerto Rico",2,0
+"Puerto Rico.5388",2020-03-25,"Puerto Rico",2,0
+"Puerto Rico.5389",2020-03-26,"Puerto Rico",2,0
+"Puerto Rico.5390",2020-03-27,"Puerto Rico",3,1
+"Puerto Rico.5391",2020-03-28,"Puerto Rico",3,0
+"Puerto Rico.5392",2020-03-29,"Puerto Rico",3,0
+"Puerto Rico.5393",2020-03-30,"Puerto Rico",6,3
+"Puerto Rico.5394",2020-03-31,"Puerto Rico",8,2
+"Puerto Rico.5395",2020-04-01,"Puerto Rico",11,3
+"Puerto Rico.5396",2020-04-02,"Puerto Rico",12,1
+"Puerto Rico.5397",2020-04-03,"Puerto Rico",15,3
+"Puerto Rico.5398",2020-04-04,"Puerto Rico",18,3
+"Puerto Rico.5399",2020-04-05,"Puerto Rico",20,2
+"Puerto Rico.5400",2020-04-06,"Puerto Rico",21,1
+"Puerto Rico.5401",2020-04-07,"Puerto Rico",23,2
+"Puerto Rico.5402",2020-04-08,"Puerto Rico",24,1
+"Puerto Rico.5403",2020-04-09,"Puerto Rico",33,9
+"Puerto Rico.5404",2020-04-10,"Puerto Rico",39,6
+"Puerto Rico.5405",2020-04-11,"Puerto Rico",42,3
+"Puerto Rico.5406",2020-04-12,"Puerto Rico",44,2
+"Puerto Rico.5407",2020-04-13,"Puerto Rico",45,1
+"Puerto Rico.5408",2020-04-14,"Puerto Rico",45,0
+"Puerto Rico.5409",2020-04-15,"Puerto Rico",51,6
+"Puerto Rico.5410",2020-04-16,"Puerto Rico",56,5
+"Puerto Rico.5411",2020-04-17,"Puerto Rico",58,2
+"Puerto Rico.5412",2020-04-18,"Puerto Rico",60,2
+"Puerto Rico.5413",2020-04-19,"Puerto Rico",62,2
+"Puerto Rico.5414",2020-04-20,"Puerto Rico",63,1
+"Puerto Rico.5415",2020-04-21,"Puerto Rico",64,1
+"Puerto Rico.5416",2020-04-22,"Puerto Rico",63,-1
+"Puerto Rico.5417",2020-04-23,"Puerto Rico",69,6
+"Puerto Rico.5418",2020-04-24,"Puerto Rico",77,8
+"Puerto Rico.5419",2020-04-25,"Puerto Rico",83,6
+"Puerto Rico.5420",2020-04-26,"Puerto Rico",84,1
+"Puerto Rico.5421",2020-04-27,"Puerto Rico",84,0
+"Puerto Rico.5422",2020-04-28,"Puerto Rico",86,2
+"Puerto Rico.5423",2020-04-29,"Puerto Rico",86,0
+"Puerto Rico.5424",2020-04-30,"Puerto Rico",92,6
+"Puerto Rico.5425",2020-05-01,"Puerto Rico",94,2
+"Puerto Rico.5426",2020-05-02,"Puerto Rico",95,1
+"Puerto Rico.5427",2020-05-03,"Puerto Rico",97,2
+"Puerto Rico.5428",2020-05-04,"Puerto Rico",97,0
+"Puerto Rico.5429",2020-05-05,"Puerto Rico",99,2
+"Puerto Rico.5430",2020-05-06,"Puerto Rico",99,0
+"Puerto Rico.5431",2020-05-07,"Puerto Rico",102,3
+"Puerto Rico.5432",2020-05-08,"Puerto Rico",107,5
+"Puerto Rico.5433",2020-05-09,"Puerto Rico",108,1
+"Puerto Rico.5434",2020-05-10,"Puerto Rico",111,3
+"Puerto Rico.5435",2020-05-11,"Puerto Rico",113,2
+"Puerto Rico.5436",2020-05-12,"Puerto Rico",114,1
+"Puerto Rico.5437",2020-05-13,"Puerto Rico",115,1
+"Puerto Rico.5438",2020-05-14,"Puerto Rico",117,2
+"Puerto Rico.5439",2020-05-15,"Puerto Rico",122,5
+"Puerto Rico.5440",2020-05-16,"Puerto Rico",122,0
+"Puerto Rico.5441",2020-05-17,"Puerto Rico",123,1
+"Puerto Rico.5442",2020-05-18,"Puerto Rico",124,1
+"Puerto Rico.5443",2020-05-19,"Puerto Rico",124,0
+"Puerto Rico.5444",2020-05-20,"Puerto Rico",125,1
+"Puerto Rico.5445",2020-05-21,"Puerto Rico",126,1
+"Rhode Island.5512",2020-03-28,"Rhode Island",2,2
+"Rhode Island.5513",2020-03-29,"Rhode Island",3,1
+"Rhode Island.5514",2020-03-30,"Rhode Island",4,1
+"Rhode Island.5515",2020-03-31,"Rhode Island",8,4
+"Rhode Island.5516",2020-04-01,"Rhode Island",10,2
+"Rhode Island.5517",2020-04-02,"Rhode Island",12,2
+"Rhode Island.5518",2020-04-03,"Rhode Island",14,2
+"Rhode Island.5519",2020-04-04,"Rhode Island",17,3
+"Rhode Island.5520",2020-04-05,"Rhode Island",25,8
+"Rhode Island.5521",2020-04-06,"Rhode Island",27,2
+"Rhode Island.5522",2020-04-07,"Rhode Island",30,3
+"Rhode Island.5523",2020-04-08,"Rhode Island",35,5
+"Rhode Island.5524",2020-04-09,"Rhode Island",43,8
+"Rhode Island.5525",2020-04-10,"Rhode Island",43,0
+"Rhode Island.5526",2020-04-11,"Rhode Island",56,13
+"Rhode Island.5527",2020-04-12,"Rhode Island",63,7
+"Rhode Island.5528",2020-04-13,"Rhode Island",63,0
+"Rhode Island.5529",2020-04-14,"Rhode Island",80,17
+"Rhode Island.5530",2020-04-15,"Rhode Island",80,0
+"Rhode Island.5531",2020-04-16,"Rhode Island",87,7
+"Rhode Island.5532",2020-04-17,"Rhode Island",118,31
+"Rhode Island.5533",2020-04-18,"Rhode Island",137,19
+"Rhode Island.5534",2020-04-19,"Rhode Island",150,13
+"Rhode Island.5535",2020-04-20,"Rhode Island",155,5
+"Rhode Island.5536",2020-04-21,"Rhode Island",171,16
+"Rhode Island.5537",2020-04-22,"Rhode Island",181,10
+"Rhode Island.5538",2020-04-23,"Rhode Island",189,8
+"Rhode Island.5539",2020-04-24,"Rhode Island",202,13
+"Rhode Island.5540",2020-04-25,"Rhode Island",215,13
+"Rhode Island.5541",2020-04-26,"Rhode Island",226,11
+"Rhode Island.5542",2020-04-27,"Rhode Island",233,7
+"Rhode Island.5543",2020-04-28,"Rhode Island",239,6
+"Rhode Island.5544",2020-04-29,"Rhode Island",251,12
+"Rhode Island.5545",2020-04-30,"Rhode Island",266,15
+"Rhode Island.5546",2020-05-01,"Rhode Island",279,13
+"Rhode Island.5547",2020-05-02,"Rhode Island",296,17
+"Rhode Island.5548",2020-05-03,"Rhode Island",320,24
+"Rhode Island.5549",2020-05-04,"Rhode Island",341,21
+"Rhode Island.5550",2020-05-05,"Rhode Island",355,14
+"Rhode Island.5551",2020-05-06,"Rhode Island",370,15
+"Rhode Island.5552",2020-05-07,"Rhode Island",388,18
+"Rhode Island.5553",2020-05-08,"Rhode Island",399,11
+"Rhode Island.5554",2020-05-09,"Rhode Island",418,19
+"Rhode Island.5555",2020-05-10,"Rhode Island",422,4
+"Rhode Island.5556",2020-05-11,"Rhode Island",430,8
+"Rhode Island.5557",2020-05-12,"Rhode Island",444,14
+"Rhode Island.5558",2020-05-13,"Rhode Island",462,18
+"Rhode Island.5559",2020-05-14,"Rhode Island",468,6
+"Rhode Island.5560",2020-05-15,"Rhode Island",479,11
+"Rhode Island.5561",2020-05-16,"Rhode Island",489,10
+"Rhode Island.5562",2020-05-17,"Rhode Island",499,10
+"Rhode Island.5563",2020-05-18,"Rhode Island",506,7
+"Rhode Island.5564",2020-05-19,"Rhode Island",532,26
+"Rhode Island.5565",2020-05-20,"Rhode Island",538,6
+"Rhode Island.5566",2020-05-21,"Rhode Island",556,18
+"South Carolina.5621",2020-03-16,"South Carolina",1,1
+"South Carolina.5622",2020-03-17,"South Carolina",1,0
+"South Carolina.5623",2020-03-18,"South Carolina",1,0
+"South Carolina.5624",2020-03-19,"South Carolina",1,0
+"South Carolina.5625",2020-03-20,"South Carolina",3,2
+"South Carolina.5626",2020-03-21,"South Carolina",3,0
+"South Carolina.5627",2020-03-22,"South Carolina",3,0
+"South Carolina.5628",2020-03-23,"South Carolina",5,2
+"South Carolina.5629",2020-03-24,"South Carolina",5,0
+"South Carolina.5630",2020-03-25,"South Carolina",7,2
+"South Carolina.5631",2020-03-26,"South Carolina",9,2
+"South Carolina.5632",2020-03-27,"South Carolina",13,4
+"South Carolina.5633",2020-03-28,"South Carolina",15,2
+"South Carolina.5634",2020-03-29,"South Carolina",16,1
+"South Carolina.5635",2020-03-30,"South Carolina",18,2
+"South Carolina.5636",2020-03-31,"South Carolina",22,4
+"South Carolina.5637",2020-04-01,"South Carolina",26,4
+"South Carolina.5638",2020-04-02,"South Carolina",31,5
+"South Carolina.5639",2020-04-03,"South Carolina",34,3
+"South Carolina.5640",2020-04-04,"South Carolina",40,6
+"South Carolina.5641",2020-04-05,"South Carolina",44,4
+"South Carolina.5642",2020-04-06,"South Carolina",48,4
+"South Carolina.5643",2020-04-07,"South Carolina",51,3
+"South Carolina.5644",2020-04-08,"South Carolina",51,0
+"South Carolina.5645",2020-04-09,"South Carolina",67,16
+"South Carolina.5646",2020-04-10,"South Carolina",72,5
+"South Carolina.5647",2020-04-11,"South Carolina",80,8
+"South Carolina.5648",2020-04-12,"South Carolina",82,2
+"South Carolina.5649",2020-04-13,"South Carolina",82,0
+"South Carolina.5650",2020-04-14,"South Carolina",97,15
+"South Carolina.5651",2020-04-15,"South Carolina",106,9
+"South Carolina.5652",2020-04-16,"South Carolina",111,5
+"South Carolina.5653",2020-04-17,"South Carolina",116,5
+"South Carolina.5654",2020-04-18,"South Carolina",119,3
+"South Carolina.5655",2020-04-19,"South Carolina",120,1
+"South Carolina.5656",2020-04-20,"South Carolina",123,3
+"South Carolina.5657",2020-04-21,"South Carolina",124,1
+"South Carolina.5658",2020-04-22,"South Carolina",140,16
+"South Carolina.5659",2020-04-23,"South Carolina",150,10
+"South Carolina.5660",2020-04-24,"South Carolina",157,7
+"South Carolina.5661",2020-04-25,"South Carolina",166,9
+"South Carolina.5662",2020-04-26,"South Carolina",174,8
+"South Carolina.5663",2020-04-27,"South Carolina",177,3
+"South Carolina.5664",2020-04-28,"South Carolina",192,15
+"South Carolina.5665",2020-04-29,"South Carolina",231,39
+"South Carolina.5666",2020-04-30,"South Carolina",244,13
+"South Carolina.5667",2020-05-01,"South Carolina",256,12
+"South Carolina.5668",2020-05-02,"South Carolina",267,11
+"South Carolina.5669",2020-05-03,"South Carolina",275,8
+"South Carolina.5670",2020-05-04,"South Carolina",283,8
+"South Carolina.5671",2020-05-05,"South Carolina",296,13
+"South Carolina.5672",2020-05-06,"South Carolina",305,9
+"South Carolina.5673",2020-05-07,"South Carolina",316,11
+"South Carolina.5674",2020-05-08,"South Carolina",320,4
+"South Carolina.5675",2020-05-09,"South Carolina",330,10
+"South Carolina.5676",2020-05-10,"South Carolina",331,1
+"South Carolina.5677",2020-05-11,"South Carolina",346,15
+"South Carolina.5678",2020-05-12,"South Carolina",355,9
+"South Carolina.5679",2020-05-13,"South Carolina",362,7
+"South Carolina.5680",2020-05-14,"South Carolina",371,9
+"South Carolina.5681",2020-05-15,"South Carolina",380,9
+"South Carolina.5682",2020-05-16,"South Carolina",380,0
+"South Carolina.5683",2020-05-17,"South Carolina",385,5
+"South Carolina.5684",2020-05-18,"South Carolina",391,6
+"South Carolina.5685",2020-05-19,"South Carolina",399,8
+"South Carolina.5686",2020-05-20,"South Carolina",407,8
+"South Carolina.5687",2020-05-21,"South Carolina",416,9
+"South Dakota.5737",2020-03-11,"South Dakota",1,1
+"South Dakota.5738",2020-03-12,"South Dakota",1,0
+"South Dakota.5739",2020-03-13,"South Dakota",1,0
+"South Dakota.5740",2020-03-14,"South Dakota",1,0
+"South Dakota.5741",2020-03-15,"South Dakota",1,0
+"South Dakota.5742",2020-03-16,"South Dakota",1,0
+"South Dakota.5743",2020-03-17,"South Dakota",1,0
+"South Dakota.5744",2020-03-18,"South Dakota",1,0
+"South Dakota.5745",2020-03-19,"South Dakota",1,0
+"South Dakota.5746",2020-03-20,"South Dakota",1,0
+"South Dakota.5747",2020-03-21,"South Dakota",1,0
+"South Dakota.5748",2020-03-22,"South Dakota",1,0
+"South Dakota.5749",2020-03-23,"South Dakota",1,0
+"South Dakota.5750",2020-03-24,"South Dakota",1,0
+"South Dakota.5751",2020-03-25,"South Dakota",1,0
+"South Dakota.5752",2020-03-26,"South Dakota",1,0
+"South Dakota.5753",2020-03-27,"South Dakota",1,0
+"South Dakota.5754",2020-03-28,"South Dakota",1,0
+"South Dakota.5755",2020-03-29,"South Dakota",1,0
+"South Dakota.5756",2020-03-30,"South Dakota",1,0
+"South Dakota.5757",2020-03-31,"South Dakota",1,0
+"South Dakota.5758",2020-04-01,"South Dakota",2,1
+"South Dakota.5759",2020-04-02,"South Dakota",2,0
+"South Dakota.5760",2020-04-03,"South Dakota",2,0
+"South Dakota.5761",2020-04-04,"South Dakota",2,0
+"South Dakota.5762",2020-04-05,"South Dakota",2,0
+"South Dakota.5763",2020-04-06,"South Dakota",4,2
+"South Dakota.5764",2020-04-07,"South Dakota",6,2
+"South Dakota.5765",2020-04-08,"South Dakota",6,0
+"South Dakota.5766",2020-04-09,"South Dakota",6,0
+"South Dakota.5767",2020-04-10,"South Dakota",6,0
+"South Dakota.5768",2020-04-11,"South Dakota",6,0
+"South Dakota.5769",2020-04-12,"South Dakota",6,0
+"South Dakota.5770",2020-04-13,"South Dakota",6,0
+"South Dakota.5771",2020-04-14,"South Dakota",6,0
+"South Dakota.5772",2020-04-15,"South Dakota",6,0
+"South Dakota.5773",2020-04-16,"South Dakota",7,1
+"South Dakota.5774",2020-04-17,"South Dakota",7,0
+"South Dakota.5775",2020-04-18,"South Dakota",7,0
+"South Dakota.5776",2020-04-19,"South Dakota",7,0
+"South Dakota.5777",2020-04-20,"South Dakota",7,0
+"South Dakota.5778",2020-04-21,"South Dakota",8,1
+"South Dakota.5779",2020-04-22,"South Dakota",9,1
+"South Dakota.5780",2020-04-23,"South Dakota",9,0
+"South Dakota.5781",2020-04-24,"South Dakota",10,1
+"South Dakota.5782",2020-04-25,"South Dakota",10,0
+"South Dakota.5783",2020-04-26,"South Dakota",11,1
+"South Dakota.5784",2020-04-27,"South Dakota",11,0
+"South Dakota.5785",2020-04-28,"South Dakota",11,0
+"South Dakota.5786",2020-04-29,"South Dakota",13,2
+"South Dakota.5787",2020-04-30,"South Dakota",17,4
+"South Dakota.5788",2020-05-01,"South Dakota",21,4
+"South Dakota.5789",2020-05-02,"South Dakota",21,0
+"South Dakota.5790",2020-05-03,"South Dakota",21,0
+"South Dakota.5791",2020-05-04,"South Dakota",21,0
+"South Dakota.5792",2020-05-05,"South Dakota",24,3
+"South Dakota.5793",2020-05-06,"South Dakota",29,5
+"South Dakota.5794",2020-05-07,"South Dakota",31,2
+"South Dakota.5795",2020-05-08,"South Dakota",31,0
+"South Dakota.5796",2020-05-09,"South Dakota",34,3
+"South Dakota.5797",2020-05-10,"South Dakota",34,0
+"South Dakota.5798",2020-05-11,"South Dakota",34,0
+"South Dakota.5799",2020-05-12,"South Dakota",39,5
+"South Dakota.5800",2020-05-13,"South Dakota",39,0
+"South Dakota.5801",2020-05-14,"South Dakota",43,4
+"South Dakota.5802",2020-05-15,"South Dakota",44,1
+"South Dakota.5803",2020-05-16,"South Dakota",44,0
+"South Dakota.5804",2020-05-17,"South Dakota",44,0
+"South Dakota.5805",2020-05-18,"South Dakota",44,0
+"South Dakota.5806",2020-05-19,"South Dakota",46,2
+"South Dakota.5807",2020-05-20,"South Dakota",46,0
+"South Dakota.5808",2020-05-21,"South Dakota",48,2
+"Tennessee.5867",2020-03-20,"Tennessee",1,1
+"Tennessee.5868",2020-03-21,"Tennessee",1,0
+"Tennessee.5869",2020-03-22,"Tennessee",2,1
+"Tennessee.5870",2020-03-23,"Tennessee",2,0
+"Tennessee.5871",2020-03-24,"Tennessee",2,0
+"Tennessee.5872",2020-03-25,"Tennessee",3,1
+"Tennessee.5873",2020-03-26,"Tennessee",3,0
+"Tennessee.5874",2020-03-27,"Tennessee",6,3
+"Tennessee.5875",2020-03-28,"Tennessee",7,1
+"Tennessee.5876",2020-03-29,"Tennessee",8,1
+"Tennessee.5877",2020-03-30,"Tennessee",14,6
+"Tennessee.5878",2020-03-31,"Tennessee",23,9
+"Tennessee.5879",2020-04-01,"Tennessee",24,1
+"Tennessee.5880",2020-04-02,"Tennessee",36,12
+"Tennessee.5881",2020-04-03,"Tennessee",41,5
+"Tennessee.5882",2020-04-04,"Tennessee",50,9
+"Tennessee.5883",2020-04-05,"Tennessee",53,3
+"Tennessee.5884",2020-04-06,"Tennessee",65,12
+"Tennessee.5885",2020-04-07,"Tennessee",72,7
+"Tennessee.5886",2020-04-08,"Tennessee",80,8
+"Tennessee.5887",2020-04-09,"Tennessee",94,14
+"Tennessee.5888",2020-04-10,"Tennessee",98,4
+"Tennessee.5889",2020-04-11,"Tennessee",106,8
+"Tennessee.5890",2020-04-12,"Tennessee",106,0
+"Tennessee.5891",2020-04-13,"Tennessee",109,3
+"Tennessee.5892",2020-04-14,"Tennessee",124,15
+"Tennessee.5893",2020-04-15,"Tennessee",124,0
+"Tennessee.5894",2020-04-16,"Tennessee",136,12
+"Tennessee.5895",2020-04-17,"Tennessee",141,5
+"Tennessee.5896",2020-04-18,"Tennessee",142,1
+"Tennessee.5897",2020-04-19,"Tennessee",148,6
+"Tennessee.5898",2020-04-20,"Tennessee",152,4
+"Tennessee.5899",2020-04-21,"Tennessee",157,5
+"Tennessee.5900",2020-04-22,"Tennessee",157,0
+"Tennessee.5901",2020-04-23,"Tennessee",171,14
+"Tennessee.5902",2020-04-24,"Tennessee",169,-2
+"Tennessee.5903",2020-04-25,"Tennessee",177,8
+"Tennessee.5904",2020-04-26,"Tennessee",181,4
+"Tennessee.5905",2020-04-27,"Tennessee",184,3
+"Tennessee.5906",2020-04-28,"Tennessee",188,4
+"Tennessee.5907",2020-04-29,"Tennessee",195,7
+"Tennessee.5908",2020-04-30,"Tennessee",199,4
+"Tennessee.5909",2020-05-01,"Tennessee",204,5
+"Tennessee.5910",2020-05-02,"Tennessee",209,5
+"Tennessee.5911",2020-05-03,"Tennessee",210,1
+"Tennessee.5912",2020-05-04,"Tennessee",219,9
+"Tennessee.5913",2020-05-05,"Tennessee",226,7
+"Tennessee.5914",2020-05-06,"Tennessee",239,13
+"Tennessee.5915",2020-05-07,"Tennessee",238,-1
+"Tennessee.5916",2020-05-08,"Tennessee",242,4
+"Tennessee.5917",2020-05-09,"Tennessee",242,0
+"Tennessee.5918",2020-05-10,"Tennessee",243,1
+"Tennessee.5919",2020-05-11,"Tennessee",251,8
+"Tennessee.5920",2020-05-12,"Tennessee",266,15
+"Tennessee.5921",2020-05-13,"Tennessee",273,7
+"Tennessee.5922",2020-05-14,"Tennessee",287,14
+"Tennessee.5923",2020-05-15,"Tennessee",290,3
+"Tennessee.5924",2020-05-16,"Tennessee",295,5
+"Tennessee.5925",2020-05-17,"Tennessee",298,3
+"Tennessee.5926",2020-05-18,"Tennessee",301,3
+"Tennessee.5927",2020-05-19,"Tennessee",305,4
+"Tennessee.5928",2020-05-20,"Tennessee",305,0
+"Tennessee.5929",2020-05-21,"Tennessee",313,8
+"Texas.5985",2020-03-17,"Texas",1,1
+"Texas.5986",2020-03-18,"Texas",3,2
+"Texas.5987",2020-03-19,"Texas",5,2
+"Texas.5988",2020-03-20,"Texas",4,-1
+"Texas.5989",2020-03-21,"Texas",5,1
+"Texas.5990",2020-03-22,"Texas",7,2
+"Texas.5991",2020-03-23,"Texas",9,2
+"Texas.5992",2020-03-24,"Texas",12,3
+"Texas.5993",2020-03-25,"Texas",15,3
+"Texas.5994",2020-03-26,"Texas",21,6
+"Texas.5995",2020-03-27,"Texas",26,5
+"Texas.5996",2020-03-28,"Texas",30,4
+"Texas.5997",2020-03-29,"Texas",37,7
+"Texas.5998",2020-03-30,"Texas",45,8
+"Texas.5999",2020-03-31,"Texas",54,9
+"Texas.6000",2020-04-01,"Texas",66,12
+"Texas.6001",2020-04-02,"Texas",77,11
+"Texas.6002",2020-04-03,"Texas",100,23
+"Texas.6003",2020-04-04,"Texas",116,16
+"Texas.6004",2020-04-05,"Texas",136,20
+"Texas.6005",2020-04-06,"Texas",150,14
+"Texas.6006",2020-04-07,"Texas",160,10
+"Texas.6007",2020-04-08,"Texas",189,29
+"Texas.6008",2020-04-09,"Texas",210,21
+"Texas.6009",2020-04-10,"Texas",238,28
+"Texas.6010",2020-04-11,"Texas",266,28
+"Texas.6011",2020-04-12,"Texas",283,17
+"Texas.6012",2020-04-13,"Texas",305,22
+"Texas.6013",2020-04-14,"Texas",342,37
+"Texas.6014",2020-04-15,"Texas",375,33
+"Texas.6015",2020-04-16,"Texas",414,39
+"Texas.6016",2020-04-17,"Texas",451,37
+"Texas.6017",2020-04-18,"Texas",476,25
+"Texas.6018",2020-04-19,"Texas",490,14
+"Texas.6019",2020-04-20,"Texas",507,17
+"Texas.6020",2020-04-21,"Texas",533,26
+"Texas.6021",2020-04-22,"Texas",556,23
+"Texas.6022",2020-04-23,"Texas",604,48
+"Texas.6023",2020-04-24,"Texas",624,20
+"Texas.6024",2020-04-25,"Texas",638,14
+"Texas.6025",2020-04-26,"Texas",651,13
+"Texas.6026",2020-04-27,"Texas",666,15
+"Texas.6027",2020-04-28,"Texas",719,53
+"Texas.6028",2020-04-29,"Texas",754,35
+"Texas.6029",2020-04-30,"Texas",812,58
+"Texas.6030",2020-05-01,"Texas",840,28
+"Texas.6031",2020-05-02,"Texas",863,23
+"Texas.6032",2020-05-03,"Texas",878,15
+"Texas.6033",2020-05-04,"Texas",901,23
+"Texas.6034",2020-05-05,"Texas",925,24
+"Texas.6035",2020-05-06,"Texas",954,29
+"Texas.6036",2020-05-07,"Texas",985,31
+"Texas.6037",2020-05-08,"Texas",1025,40
+"Texas.6038",2020-05-09,"Texas",1066,41
+"Texas.6039",2020-05-10,"Texas",1094,28
+"Texas.6040",2020-05-11,"Texas",1117,23
+"Texas.6041",2020-05-12,"Texas",1146,29
+"Texas.6042",2020-05-13,"Texas",1172,26
+"Texas.6043",2020-05-14,"Texas",1235,63
+"Texas.6044",2020-05-15,"Texas",1280,45
+"Texas.6045",2020-05-16,"Texas",1318,38
+"Texas.6046",2020-05-17,"Texas",1343,25
+"Texas.6047",2020-05-18,"Texas",1350,7
+"Texas.6048",2020-05-19,"Texas",1388,38
+"Texas.6049",2020-05-20,"Texas",1426,38
+"Texas.6050",2020-05-21,"Texas",1460,34
+"Utah.6111",2020-03-22,"Utah",1,1
+"Utah.6112",2020-03-23,"Utah",1,0
+"Utah.6113",2020-03-24,"Utah",1,0
+"Utah.6114",2020-03-25,"Utah",1,0
+"Utah.6115",2020-03-26,"Utah",1,0
+"Utah.6116",2020-03-27,"Utah",1,0
+"Utah.6117",2020-03-28,"Utah",1,0
+"Utah.6118",2020-03-29,"Utah",2,1
+"Utah.6119",2020-03-30,"Utah",4,2
+"Utah.6120",2020-03-31,"Utah",5,1
+"Utah.6121",2020-04-01,"Utah",5,0
+"Utah.6122",2020-04-02,"Utah",7,2
+"Utah.6123",2020-04-03,"Utah",7,0
+"Utah.6124",2020-04-04,"Utah",8,1
+"Utah.6125",2020-04-05,"Utah",8,0
+"Utah.6126",2020-04-06,"Utah",13,5
+"Utah.6127",2020-04-07,"Utah",13,0
+"Utah.6128",2020-04-08,"Utah",13,0
+"Utah.6129",2020-04-09,"Utah",13,0
+"Utah.6130",2020-04-10,"Utah",17,4
+"Utah.6131",2020-04-11,"Utah",18,1
+"Utah.6132",2020-04-12,"Utah",18,0
+"Utah.6133",2020-04-13,"Utah",13,-5
+"Utah.6134",2020-04-14,"Utah",18,5
+"Utah.6135",2020-04-15,"Utah",20,2
+"Utah.6136",2020-04-16,"Utah",20,0
+"Utah.6137",2020-04-17,"Utah",23,3
+"Utah.6138",2020-04-18,"Utah",25,2
+"Utah.6139",2020-04-19,"Utah",27,2
+"Utah.6140",2020-04-20,"Utah",28,1
+"Utah.6141",2020-04-21,"Utah",32,4
+"Utah.6142",2020-04-22,"Utah",32,0
+"Utah.6143",2020-04-23,"Utah",35,3
+"Utah.6144",2020-04-24,"Utah",39,4
+"Utah.6145",2020-04-25,"Utah",41,2
+"Utah.6146",2020-04-26,"Utah",41,0
+"Utah.6147",2020-04-27,"Utah",41,0
+"Utah.6148",2020-04-28,"Utah",41,0
+"Utah.6149",2020-04-29,"Utah",45,4
+"Utah.6150",2020-04-30,"Utah",46,1
+"Utah.6151",2020-05-01,"Utah",46,0
+"Utah.6152",2020-05-02,"Utah",49,3
+"Utah.6153",2020-05-03,"Utah",50,1
+"Utah.6154",2020-05-04,"Utah",50,0
+"Utah.6155",2020-05-05,"Utah",56,6
+"Utah.6156",2020-05-06,"Utah",58,2
+"Utah.6157",2020-05-07,"Utah",61,3
+"Utah.6158",2020-05-08,"Utah",61,0
+"Utah.6159",2020-05-09,"Utah",66,5
+"Utah.6160",2020-05-10,"Utah",67,1
+"Utah.6161",2020-05-11,"Utah",68,1
+"Utah.6162",2020-05-12,"Utah",73,5
+"Utah.6163",2020-05-13,"Utah",75,2
+"Utah.6164",2020-05-14,"Utah",75,0
+"Utah.6165",2020-05-15,"Utah",77,2
+"Utah.6166",2020-05-16,"Utah",78,1
+"Utah.6167",2020-05-17,"Utah",80,2
+"Utah.6168",2020-05-18,"Utah",80,0
+"Utah.6169",2020-05-19,"Utah",88,8
+"Utah.6170",2020-05-20,"Utah",90,2
+"Utah.6171",2020-05-21,"Utah",92,2
+"Vermont.6229",2020-03-19,"Vermont",2,2
+"Vermont.6230",2020-03-20,"Vermont",2,0
+"Vermont.6231",2020-03-21,"Vermont",2,0
+"Vermont.6232",2020-03-22,"Vermont",2,0
+"Vermont.6233",2020-03-23,"Vermont",5,3
+"Vermont.6234",2020-03-24,"Vermont",7,2
+"Vermont.6235",2020-03-25,"Vermont",8,1
+"Vermont.6236",2020-03-26,"Vermont",9,1
+"Vermont.6237",2020-03-27,"Vermont",10,1
+"Vermont.6238",2020-03-28,"Vermont",12,2
+"Vermont.6239",2020-03-29,"Vermont",12,0
+"Vermont.6240",2020-03-30,"Vermont",12,0
+"Vermont.6241",2020-03-31,"Vermont",13,1
+"Vermont.6242",2020-04-01,"Vermont",16,3
+"Vermont.6243",2020-04-02,"Vermont",17,1
+"Vermont.6244",2020-04-03,"Vermont",17,0
+"Vermont.6245",2020-04-04,"Vermont",20,3
+"Vermont.6246",2020-04-05,"Vermont",22,2
+"Vermont.6247",2020-04-06,"Vermont",23,1
+"Vermont.6248",2020-04-07,"Vermont",23,0
+"Vermont.6249",2020-04-08,"Vermont",23,0
+"Vermont.6250",2020-04-09,"Vermont",23,0
+"Vermont.6251",2020-04-10,"Vermont",24,1
+"Vermont.6252",2020-04-11,"Vermont",25,1
+"Vermont.6253",2020-04-12,"Vermont",27,2
+"Vermont.6254",2020-04-13,"Vermont",28,1
+"Vermont.6255",2020-04-14,"Vermont",29,1
+"Vermont.6256",2020-04-15,"Vermont",29,0
+"Vermont.6257",2020-04-16,"Vermont",33,4
+"Vermont.6258",2020-04-17,"Vermont",35,2
+"Vermont.6259",2020-04-18,"Vermont",38,3
+"Vermont.6260",2020-04-19,"Vermont",38,0
+"Vermont.6261",2020-04-20,"Vermont",38,0
+"Vermont.6262",2020-04-21,"Vermont",40,2
+"Vermont.6263",2020-04-22,"Vermont",40,0
+"Vermont.6264",2020-04-23,"Vermont",43,3
+"Vermont.6265",2020-04-24,"Vermont",44,1
+"Vermont.6266",2020-04-25,"Vermont",46,2
+"Vermont.6267",2020-04-26,"Vermont",46,0
+"Vermont.6268",2020-04-27,"Vermont",47,1
+"Vermont.6269",2020-04-28,"Vermont",47,0
+"Vermont.6270",2020-04-29,"Vermont",47,0
+"Vermont.6271",2020-04-30,"Vermont",49,2
+"Vermont.6272",2020-05-01,"Vermont",50,1
+"Vermont.6273",2020-05-02,"Vermont",51,1
+"Vermont.6274",2020-05-03,"Vermont",53,2
+"Vermont.6275",2020-05-04,"Vermont",52,-1
+"Vermont.6276",2020-05-05,"Vermont",52,0
+"Vermont.6277",2020-05-06,"Vermont",52,0
+"Vermont.6278",2020-05-07,"Vermont",53,1
+"Vermont.6279",2020-05-08,"Vermont",53,0
+"Vermont.6280",2020-05-09,"Vermont",53,0
+"Vermont.6281",2020-05-10,"Vermont",53,0
+"Vermont.6282",2020-05-11,"Vermont",53,0
+"Vermont.6283",2020-05-12,"Vermont",53,0
+"Vermont.6284",2020-05-13,"Vermont",53,0
+"Vermont.6285",2020-05-14,"Vermont",53,0
+"Vermont.6286",2020-05-15,"Vermont",53,0
+"Vermont.6287",2020-05-16,"Vermont",53,0
+"Vermont.6288",2020-05-17,"Vermont",54,1
+"Vermont.6289",2020-05-18,"Vermont",54,0
+"Vermont.6290",2020-05-19,"Vermont",54,0
+"Vermont.6291",2020-05-20,"Vermont",54,0
+"Vermont.6292",2020-05-21,"Vermont",54,0
+"Virgin Islands.6367",2020-04-05,"Virgin Islands",1,1
+"Virgin Islands.6368",2020-04-06,"Virgin Islands",1,0
+"Virgin Islands.6369",2020-04-07,"Virgin Islands",1,0
+"Virgin Islands.6370",2020-04-08,"Virgin Islands",1,0
+"Virgin Islands.6371",2020-04-09,"Virgin Islands",1,0
+"Virgin Islands.6372",2020-04-10,"Virgin Islands",1,0
+"Virgin Islands.6373",2020-04-11,"Virgin Islands",1,0
+"Virgin Islands.6374",2020-04-12,"Virgin Islands",1,0
+"Virgin Islands.6375",2020-04-13,"Virgin Islands",1,0
+"Virgin Islands.6376",2020-04-14,"Virgin Islands",1,0
+"Virgin Islands.6377",2020-04-15,"Virgin Islands",1,0
+"Virgin Islands.6378",2020-04-16,"Virgin Islands",1,0
+"Virgin Islands.6379",2020-04-17,"Virgin Islands",2,1
+"Virgin Islands.6380",2020-04-18,"Virgin Islands",3,1
+"Virgin Islands.6381",2020-04-19,"Virgin Islands",3,0
+"Virgin Islands.6382",2020-04-20,"Virgin Islands",3,0
+"Virgin Islands.6383",2020-04-21,"Virgin Islands",3,0
+"Virgin Islands.6384",2020-04-22,"Virgin Islands",3,0
+"Virgin Islands.6385",2020-04-23,"Virgin Islands",3,0
+"Virgin Islands.6386",2020-04-24,"Virgin Islands",3,0
+"Virgin Islands.6387",2020-04-25,"Virgin Islands",3,0
+"Virgin Islands.6388",2020-04-26,"Virgin Islands",4,1
+"Virgin Islands.6389",2020-04-27,"Virgin Islands",4,0
+"Virgin Islands.6390",2020-04-28,"Virgin Islands",4,0
+"Virgin Islands.6391",2020-04-29,"Virgin Islands",4,0
+"Virgin Islands.6392",2020-04-30,"Virgin Islands",4,0
+"Virgin Islands.6393",2020-05-01,"Virgin Islands",4,0
+"Virgin Islands.6394",2020-05-02,"Virgin Islands",4,0
+"Virgin Islands.6395",2020-05-03,"Virgin Islands",4,0
+"Virgin Islands.6396",2020-05-04,"Virgin Islands",4,0
+"Virgin Islands.6397",2020-05-05,"Virgin Islands",4,0
+"Virgin Islands.6398",2020-05-06,"Virgin Islands",4,0
+"Virgin Islands.6399",2020-05-07,"Virgin Islands",4,0
+"Virgin Islands.6400",2020-05-08,"Virgin Islands",4,0
+"Virgin Islands.6401",2020-05-09,"Virgin Islands",4,0
+"Virgin Islands.6402",2020-05-10,"Virgin Islands",4,0
+"Virgin Islands.6403",2020-05-11,"Virgin Islands",5,1
+"Virgin Islands.6404",2020-05-12,"Virgin Islands",6,1
+"Virgin Islands.6405",2020-05-13,"Virgin Islands",6,0
+"Virgin Islands.6406",2020-05-14,"Virgin Islands",6,0
+"Virgin Islands.6407",2020-05-15,"Virgin Islands",6,0
+"Virgin Islands.6408",2020-05-16,"Virgin Islands",6,0
+"Virgin Islands.6409",2020-05-17,"Virgin Islands",6,0
+"Virgin Islands.6410",2020-05-18,"Virgin Islands",6,0
+"Virgin Islands.6411",2020-05-19,"Virgin Islands",6,0
+"Virgin Islands.6412",2020-05-20,"Virgin Islands",6,0
+"Virgin Islands.6413",2020-05-21,"Virgin Islands",6,0
+"Virginia.6466",2020-03-14,"Virginia",1,1
+"Virginia.6467",2020-03-15,"Virginia",1,0
+"Virginia.6468",2020-03-16,"Virginia",2,1
+"Virginia.6469",2020-03-17,"Virginia",2,0
+"Virginia.6470",2020-03-18,"Virginia",2,0
+"Virginia.6471",2020-03-19,"Virginia",2,0
+"Virginia.6472",2020-03-20,"Virginia",2,0
+"Virginia.6473",2020-03-21,"Virginia",3,1
+"Virginia.6474",2020-03-22,"Virginia",6,3
+"Virginia.6475",2020-03-23,"Virginia",6,0
+"Virginia.6476",2020-03-24,"Virginia",9,3
+"Virginia.6477",2020-03-25,"Virginia",9,0
+"Virginia.6478",2020-03-26,"Virginia",10,1
+"Virginia.6479",2020-03-27,"Virginia",10,0
+"Virginia.6480",2020-03-28,"Virginia",13,3
+"Virginia.6481",2020-03-29,"Virginia",20,7
+"Virginia.6482",2020-03-30,"Virginia",15,-5
+"Virginia.6483",2020-03-31,"Virginia",27,12
+"Virginia.6484",2020-04-01,"Virginia",34,7
+"Virginia.6485",2020-04-02,"Virginia",41,7
+"Virginia.6486",2020-04-03,"Virginia",46,5
+"Virginia.6487",2020-04-04,"Virginia",52,6
+"Virginia.6488",2020-04-05,"Virginia",52,0
+"Virginia.6489",2020-04-06,"Virginia",66,14
+"Virginia.6490",2020-04-07,"Virginia",66,0
+"Virginia.6491",2020-04-08,"Virginia",66,0
+"Virginia.6492",2020-04-09,"Virginia",109,43
+"Virginia.6493",2020-04-10,"Virginia",121,12
+"Virginia.6494",2020-04-11,"Virginia",130,9
+"Virginia.6495",2020-04-12,"Virginia",141,11
+"Virginia.6496",2020-04-13,"Virginia",149,8
+"Virginia.6497",2020-04-14,"Virginia",154,5
+"Virginia.6498",2020-04-15,"Virginia",195,41
+"Virginia.6499",2020-04-16,"Virginia",208,13
+"Virginia.6500",2020-04-17,"Virginia",231,23
+"Virginia.6501",2020-04-18,"Virginia",258,27
+"Virginia.6502",2020-04-19,"Virginia",277,19
+"Virginia.6503",2020-04-20,"Virginia",300,23
+"Virginia.6504",2020-04-21,"Virginia",324,24
+"Virginia.6505",2020-04-22,"Virginia",349,25
+"Virginia.6506",2020-04-23,"Virginia",373,24
+"Virginia.6507",2020-04-24,"Virginia",411,38
+"Virginia.6508",2020-04-25,"Virginia",437,26
+"Virginia.6509",2020-04-26,"Virginia",449,12
+"Virginia.6510",2020-04-27,"Virginia",460,11
+"Virginia.6511",2020-04-28,"Virginia",492,32
+"Virginia.6512",2020-04-29,"Virginia",522,30
+"Virginia.6513",2020-04-30,"Virginia",552,30
+"Virginia.6514",2020-05-01,"Virginia",581,29
+"Virginia.6515",2020-05-02,"Virginia",617,36
+"Virginia.6516",2020-05-03,"Virginia",660,43
+"Virginia.6517",2020-05-04,"Virginia",684,24
+"Virginia.6518",2020-05-05,"Virginia",713,29
+"Virginia.6519",2020-05-06,"Virginia",737,24
+"Virginia.6520",2020-05-07,"Virginia",769,32
+"Virginia.6521",2020-05-08,"Virginia",812,43
+"Virginia.6522",2020-05-09,"Virginia",827,15
+"Virginia.6523",2020-05-10,"Virginia",839,12
+"Virginia.6524",2020-05-11,"Virginia",850,11
+"Virginia.6525",2020-05-12,"Virginia",892,42
+"Virginia.6526",2020-05-13,"Virginia",928,36
+"Virginia.6527",2020-05-14,"Virginia",956,28
+"Virginia.6528",2020-05-15,"Virginia",978,22
+"Virginia.6529",2020-05-16,"Virginia",1003,25
+"Virginia.6530",2020-05-17,"Virginia",1010,7
+"Virginia.6531",2020-05-18,"Virginia",1015,5
+"Virginia.6532",2020-05-19,"Virginia",1042,27
+"Virginia.6533",2020-05-20,"Virginia",1075,33
+"Virginia.6534",2020-05-21,"Virginia",1100,25
+"Washington.6573",2020-02-29,"Washington",1,1
+"Washington.6574",2020-03-01,"Washington",1,0
+"Washington.6575",2020-03-02,"Washington",6,5
+"Washington.6576",2020-03-03,"Washington",7,1
+"Washington.6577",2020-03-04,"Washington",10,3
+"Washington.6578",2020-03-05,"Washington",11,1
+"Washington.6579",2020-03-06,"Washington",13,2
+"Washington.6580",2020-03-07,"Washington",16,3
+"Washington.6581",2020-03-08,"Washington",18,2
+"Washington.6582",2020-03-09,"Washington",19,1
+"Washington.6583",2020-03-10,"Washington",23,4
+"Washington.6584",2020-03-11,"Washington",24,1
+"Washington.6585",2020-03-12,"Washington",31,7
+"Washington.6586",2020-03-13,"Washington",37,6
+"Washington.6587",2020-03-14,"Washington",39,2
+"Washington.6588",2020-03-15,"Washington",40,1
+"Washington.6589",2020-03-16,"Washington",48,8
+"Washington.6590",2020-03-17,"Washington",55,7
+"Washington.6591",2020-03-18,"Washington",67,12
+"Washington.6592",2020-03-19,"Washington",73,6
+"Washington.6593",2020-03-20,"Washington",83,10
+"Washington.6594",2020-03-21,"Washington",94,11
+"Washington.6595",2020-03-22,"Washington",97,3
+"Washington.6596",2020-03-23,"Washington",109,12
+"Washington.6597",2020-03-24,"Washington",116,7
+"Washington.6598",2020-03-25,"Washington",133,17
+"Washington.6599",2020-03-26,"Washington",150,17
+"Washington.6600",2020-03-27,"Washington",157,7
+"Washington.6601",2020-03-28,"Washington",188,31
+"Washington.6602",2020-03-29,"Washington",198,10
+"Washington.6603",2020-03-30,"Washington",205,7
+"Washington.6604",2020-03-31,"Washington",225,20
+"Washington.6605",2020-04-01,"Washington",234,9
+"Washington.6606",2020-04-02,"Washington",271,37
+"Washington.6607",2020-04-03,"Washington",291,20
+"Washington.6608",2020-04-04,"Washington",315,24
+"Washington.6609",2020-04-05,"Washington",336,21
+"Washington.6610",2020-04-06,"Washington",381,45
+"Washington.6611",2020-04-07,"Washington",400,19
+"Washington.6612",2020-04-08,"Washington",426,26
+"Washington.6613",2020-04-09,"Washington",456,30
+"Washington.6614",2020-04-10,"Washington",483,27
+"Washington.6615",2020-04-11,"Washington",495,12
+"Washington.6616",2020-04-12,"Washington",506,11
+"Washington.6617",2020-04-13,"Washington",513,7
+"Washington.6618",2020-04-14,"Washington",530,17
+"Washington.6619",2020-04-15,"Washington",552,22
+"Washington.6620",2020-04-16,"Washington",579,27
+"Washington.6621",2020-04-17,"Washington",603,24
+"Washington.6622",2020-04-18,"Washington",613,10
+"Washington.6623",2020-04-19,"Washington",636,23
+"Washington.6624",2020-04-20,"Washington",643,7
+"Washington.6625",2020-04-21,"Washington",664,21
+"Washington.6626",2020-04-22,"Washington",686,22
+"Washington.6627",2020-04-23,"Washington",711,25
+"Washington.6628",2020-04-24,"Washington",722,11
+"Washington.6629",2020-04-25,"Washington",737,15
+"Washington.6630",2020-04-26,"Washington",749,12
+"Washington.6631",2020-04-27,"Washington",764,15
+"Washington.6632",2020-04-28,"Washington",786,22
+"Washington.6633",2020-04-29,"Washington",801,15
+"Washington.6634",2020-04-30,"Washington",814,13
+"Washington.6635",2020-05-01,"Washington",824,10
+"Washington.6636",2020-05-02,"Washington",830,6
+"Washington.6637",2020-05-03,"Washington",834,4
+"Washington.6638",2020-05-04,"Washington",841,7
+"Washington.6639",2020-05-05,"Washington",862,21
+"Washington.6640",2020-05-06,"Washington",870,8
+"Washington.6641",2020-05-07,"Washington",891,21
+"Washington.6642",2020-05-08,"Washington",905,14
+"Washington.6643",2020-05-09,"Washington",921,16
+"Washington.6644",2020-05-10,"Washington",931,10
+"Washington.6645",2020-05-11,"Washington",945,14
+"Washington.6646",2020-05-12,"Washington",962,17
+"Washington.6647",2020-05-13,"Washington",974,12
+"Washington.6648",2020-05-14,"Washington",983,9
+"Washington.6649",2020-05-15,"Washington",991,8
+"Washington.6650",2020-05-16,"Washington",999,8
+"Washington.6651",2020-05-17,"Washington",1001,2
+"Washington.6652",2020-05-18,"Washington",1002,1
+"Washington.6653",2020-05-19,"Washington",1031,29
+"Washington.6654",2020-05-20,"Washington",1037,6
+"Washington.6655",2020-05-21,"Washington",1044,7
+"West Virginia.6724",2020-03-30,"West Virginia",1,1
+"West Virginia.6725",2020-03-31,"West Virginia",1,0
+"West Virginia.6726",2020-04-01,"West Virginia",1,0
+"West Virginia.6727",2020-04-02,"West Virginia",2,1
+"West Virginia.6728",2020-04-03,"West Virginia",2,0
+"West Virginia.6729",2020-04-04,"West Virginia",2,0
+"West Virginia.6730",2020-04-05,"West Virginia",3,1
+"West Virginia.6731",2020-04-06,"West Virginia",4,1
+"West Virginia.6732",2020-04-07,"West Virginia",4,0
+"West Virginia.6733",2020-04-08,"West Virginia",4,0
+"West Virginia.6734",2020-04-09,"West Virginia",5,1
+"West Virginia.6735",2020-04-10,"West Virginia",5,0
+"West Virginia.6736",2020-04-11,"West Virginia",5,0
+"West Virginia.6737",2020-04-12,"West Virginia",6,1
+"West Virginia.6738",2020-04-13,"West Virginia",8,2
+"West Virginia.6739",2020-04-14,"West Virginia",9,1
+"West Virginia.6740",2020-04-15,"West Virginia",10,1
+"West Virginia.6741",2020-04-16,"West Virginia",12,2
+"West Virginia.6742",2020-04-17,"West Virginia",16,4
+"West Virginia.6743",2020-04-18,"West Virginia",16,0
+"West Virginia.6744",2020-04-19,"West Virginia",18,2
+"West Virginia.6745",2020-04-20,"West Virginia",24,6
+"West Virginia.6746",2020-04-21,"West Virginia",26,2
+"West Virginia.6747",2020-04-22,"West Virginia",27,1
+"West Virginia.6748",2020-04-23,"West Virginia",31,4
+"West Virginia.6749",2020-04-24,"West Virginia",32,1
+"West Virginia.6750",2020-04-25,"West Virginia",32,0
+"West Virginia.6751",2020-04-26,"West Virginia",34,2
+"West Virginia.6752",2020-04-27,"West Virginia",34,0
+"West Virginia.6753",2020-04-28,"West Virginia",38,4
+"West Virginia.6754",2020-04-29,"West Virginia",38,0
+"West Virginia.6755",2020-04-30,"West Virginia",41,3
+"West Virginia.6756",2020-05-01,"West Virginia",46,5
+"West Virginia.6757",2020-05-02,"West Virginia",48,2
+"West Virginia.6758",2020-05-03,"West Virginia",48,0
+"West Virginia.6759",2020-05-04,"West Virginia",48,0
+"West Virginia.6760",2020-05-05,"West Virginia",48,0
+"West Virginia.6761",2020-05-06,"West Virginia",50,2
+"West Virginia.6762",2020-05-07,"West Virginia",51,1
+"West Virginia.6763",2020-05-08,"West Virginia",52,1
+"West Virginia.6764",2020-05-09,"West Virginia",52,0
+"West Virginia.6765",2020-05-10,"West Virginia",54,2
+"West Virginia.6766",2020-05-11,"West Virginia",54,0
+"West Virginia.6767",2020-05-12,"West Virginia",58,4
+"West Virginia.6768",2020-05-13,"West Virginia",58,0
+"West Virginia.6769",2020-05-14,"West Virginia",60,2
+"West Virginia.6770",2020-05-15,"West Virginia",64,4
+"West Virginia.6771",2020-05-16,"West Virginia",64,0
+"West Virginia.6772",2020-05-17,"West Virginia",67,3
+"West Virginia.6773",2020-05-18,"West Virginia",68,1
+"West Virginia.6774",2020-05-19,"West Virginia",68,0
+"West Virginia.6775",2020-05-20,"West Virginia",69,1
+"West Virginia.6776",2020-05-21,"West Virginia",70,1
+"Wisconsin.6834",2020-03-19,"Wisconsin",4,4
+"Wisconsin.6835",2020-03-20,"Wisconsin",3,-1
+"Wisconsin.6836",2020-03-21,"Wisconsin",4,1
+"Wisconsin.6837",2020-03-22,"Wisconsin",4,0
+"Wisconsin.6838",2020-03-23,"Wisconsin",5,1
+"Wisconsin.6839",2020-03-24,"Wisconsin",5,0
+"Wisconsin.6840",2020-03-25,"Wisconsin",7,2
+"Wisconsin.6841",2020-03-26,"Wisconsin",10,3
+"Wisconsin.6842",2020-03-27,"Wisconsin",14,4
+"Wisconsin.6843",2020-03-28,"Wisconsin",17,3
+"Wisconsin.6844",2020-03-29,"Wisconsin",18,1
+"Wisconsin.6845",2020-03-30,"Wisconsin",20,2
+"Wisconsin.6846",2020-03-31,"Wisconsin",25,5
+"Wisconsin.6847",2020-04-01,"Wisconsin",27,2
+"Wisconsin.6848",2020-04-02,"Wisconsin",38,11
+"Wisconsin.6849",2020-04-03,"Wisconsin",51,13
+"Wisconsin.6850",2020-04-04,"Wisconsin",54,3
+"Wisconsin.6851",2020-04-05,"Wisconsin",74,20
+"Wisconsin.6852",2020-04-06,"Wisconsin",78,4
+"Wisconsin.6853",2020-04-07,"Wisconsin",92,14
+"Wisconsin.6854",2020-04-08,"Wisconsin",100,8
+"Wisconsin.6855",2020-04-09,"Wisconsin",111,11
+"Wisconsin.6856",2020-04-10,"Wisconsin",128,17
+"Wisconsin.6857",2020-04-11,"Wisconsin",137,9
+"Wisconsin.6858",2020-04-12,"Wisconsin",144,7
+"Wisconsin.6859",2020-04-13,"Wisconsin",154,10
+"Wisconsin.6860",2020-04-14,"Wisconsin",170,16
+"Wisconsin.6861",2020-04-15,"Wisconsin",183,13
+"Wisconsin.6862",2020-04-16,"Wisconsin",197,14
+"Wisconsin.6863",2020-04-17,"Wisconsin",206,9
+"Wisconsin.6864",2020-04-18,"Wisconsin",212,6
+"Wisconsin.6865",2020-04-19,"Wisconsin",220,8
+"Wisconsin.6866",2020-04-20,"Wisconsin",230,10
+"Wisconsin.6867",2020-04-21,"Wisconsin",244,14
+"Wisconsin.6868",2020-04-22,"Wisconsin",248,4
+"Wisconsin.6869",2020-04-23,"Wisconsin",258,10
+"Wisconsin.6870",2020-04-24,"Wisconsin",263,5
+"Wisconsin.6871",2020-04-25,"Wisconsin",266,3
+"Wisconsin.6872",2020-04-26,"Wisconsin",272,6
+"Wisconsin.6873",2020-04-27,"Wisconsin",281,9
+"Wisconsin.6874",2020-04-28,"Wisconsin",300,19
+"Wisconsin.6875",2020-04-29,"Wisconsin",308,8
+"Wisconsin.6876",2020-04-30,"Wisconsin",316,8
+"Wisconsin.6877",2020-05-01,"Wisconsin",327,11
+"Wisconsin.6878",2020-05-02,"Wisconsin",334,7
+"Wisconsin.6879",2020-05-03,"Wisconsin",339,5
+"Wisconsin.6880",2020-05-04,"Wisconsin",340,1
+"Wisconsin.6881",2020-05-05,"Wisconsin",353,13
+"Wisconsin.6882",2020-05-06,"Wisconsin",362,9
+"Wisconsin.6883",2020-05-07,"Wisconsin",374,12
+"Wisconsin.6884",2020-05-08,"Wisconsin",384,10
+"Wisconsin.6885",2020-05-09,"Wisconsin",398,14
+"Wisconsin.6886",2020-05-10,"Wisconsin",400,2
+"Wisconsin.6887",2020-05-11,"Wisconsin",409,9
+"Wisconsin.6888",2020-05-12,"Wisconsin",418,9
+"Wisconsin.6889",2020-05-13,"Wisconsin",421,3
+"Wisconsin.6890",2020-05-14,"Wisconsin",434,13
+"Wisconsin.6891",2020-05-15,"Wisconsin",445,11
+"Wisconsin.6892",2020-05-16,"Wisconsin",453,8
+"Wisconsin.6893",2020-05-17,"Wisconsin",453,0
+"Wisconsin.6894",2020-05-18,"Wisconsin",459,6
+"Wisconsin.6895",2020-05-19,"Wisconsin",467,8
+"Wisconsin.6896",2020-05-20,"Wisconsin",481,14
+"Wisconsin.6897",2020-05-21,"Wisconsin",487,6
+"Wyoming.6980",2020-04-13,"Wyoming",1,1
+"Wyoming.6981",2020-04-14,"Wyoming",1,0
+"Wyoming.6982",2020-04-15,"Wyoming",1,0
+"Wyoming.6983",2020-04-16,"Wyoming",2,1
+"Wyoming.6984",2020-04-17,"Wyoming",2,0
+"Wyoming.6985",2020-04-18,"Wyoming",2,0
+"Wyoming.6986",2020-04-19,"Wyoming",2,0
+"Wyoming.6987",2020-04-20,"Wyoming",2,0
+"Wyoming.6988",2020-04-21,"Wyoming",2,0
+"Wyoming.6989",2020-04-22,"Wyoming",6,4
+"Wyoming.6990",2020-04-23,"Wyoming",7,1
+"Wyoming.6991",2020-04-24,"Wyoming",7,0
+"Wyoming.6992",2020-04-25,"Wyoming",7,0
+"Wyoming.6993",2020-04-26,"Wyoming",7,0
+"Wyoming.6994",2020-04-27,"Wyoming",7,0
+"Wyoming.6995",2020-04-28,"Wyoming",7,0
+"Wyoming.6996",2020-04-29,"Wyoming",7,0
+"Wyoming.6997",2020-04-30,"Wyoming",7,0
+"Wyoming.6998",2020-05-01,"Wyoming",7,0
+"Wyoming.6999",2020-05-02,"Wyoming",7,0
+"Wyoming.7000",2020-05-03,"Wyoming",7,0
+"Wyoming.7001",2020-05-04,"Wyoming",7,0
+"Wyoming.7002",2020-05-05,"Wyoming",7,0
+"Wyoming.7003",2020-05-06,"Wyoming",7,0
+"Wyoming.7004",2020-05-07,"Wyoming",7,0
+"Wyoming.7005",2020-05-08,"Wyoming",7,0
+"Wyoming.7006",2020-05-09,"Wyoming",7,0
+"Wyoming.7007",2020-05-10,"Wyoming",7,0
+"Wyoming.7008",2020-05-11,"Wyoming",7,0
+"Wyoming.7009",2020-05-12,"Wyoming",7,0
+"Wyoming.7010",2020-05-13,"Wyoming",7,0
+"Wyoming.7011",2020-05-14,"Wyoming",7,0
+"Wyoming.7012",2020-05-15,"Wyoming",7,0
+"Wyoming.7013",2020-05-16,"Wyoming",7,0
+"Wyoming.7014",2020-05-17,"Wyoming",8,1
+"Wyoming.7015",2020-05-18,"Wyoming",10,2
+"Wyoming.7016",2020-05-19,"Wyoming",10,0
+"Wyoming.7017",2020-05-20,"Wyoming",11,1
+"Wyoming.7018",2020-05-21,"Wyoming",12,1
