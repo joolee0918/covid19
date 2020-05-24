@@ -15,13 +15,13 @@ library(boot)
 library(table1)
 
 # Data import
-mydata <-  read.csv("Data/us_state_weekly_death_JHU.csv")[,-1]
+mydata <-  read.csv("/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/us_state_weekly_death_JHU.csv")[,-1]
 mydata$date <- as.Date(mydata$date)
-state_predic <-  read.csv("Data/us_state_predictors.csv")[,-1]
+state_predic <-  read.csv("/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/us_state_predictors.csv")[,-1]
 
-movement <- read.csv("Data/us_state_weekly_movement.csv")[,-1]
-testing <- read.csv("Data/weekly_testing.csv")[,-1]
-policy <-  read.csv("Data/state_weekly_policy.csv")[,-1]
+movement <- read.csv("/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/us_state_weekly_movement.csv")[,-1]
+testing <- read.csv("/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/weekly_testing.csv")[,-1]
+policy <-  read.csv("/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/state_weekly_policy.csv")[,-1]
 movement$date <- as.Date(movement$date)
 testing$date <- as.Date(testing$date)
 policy$date <- as.Date(policy$date)
@@ -71,7 +71,7 @@ qplot(date, residential, data=mydata0, geom="path", xlab="Date", ylab="Residenti
 
 
 # create lag for positive testing rate
-lagk <- 4
+lagk <- 3
 testing$rptest <- testing$pos_test/(testing$test)*100
 
 for (kk in (1:lagk)){
@@ -84,7 +84,7 @@ for (kk in (1:lagk)){
 }
 
 # create lag for resident
-lagk <- 4
+lagk <- 3
 
 for (kk in (1:lagk)){
   create = paste0("resident_weeks_ago",kk)
@@ -100,39 +100,39 @@ mydata2 <- merge(mydata, testing, by=c("state", "date"))
 mydata2 <- merge(mydata2, movement, by=c("state", "date"))
 
 policy2 <- policy[, !names(policy) %in% c("Start.Date", "End.Date")]
+policy2 <- policy2 %>% group_by(state) %>% mutate(shome_since_first = cumsum(stayathome))
+policy2 <- policy2 %>% group_by(state) %>% mutate(mask_since_first = cumsum(Mask))
 mydata2 <- merge(mydata2, policy2, by=c("state", "date"))
-
-# create # of weeks since stay-at-home policy (in our dataset)
-
-mydata2 <- mydata2 %>% group_by(state) %>% mutate(shome_since_first = cumsum(stayathome))
 mydata2 <- as.data.frame(mydata2)
 
 mydata2$rtest <- mydata2$test/(mydata2$population/1000)
 #mydata$test_weeks_ago1 <- mydata$test_weeks_ago1/(mydata$population/1000)
 #mydata$test_weeks_ago2 <- mydata$test_weeks_ago2/(mydata$population/1000)
 
-# create PCA for the movement data
-mydata2 <- mydata2[, !names(mydata) %in% c("Start.Date", "End.Date")]
+mydata2 <- mydata2[mydata2$cum_death>=50, ]
 mydata2 <- na.omit(mydata2)
 mydata2 <- mydata2[mydata2$state!="Maine",]  ## Maine update the negative test results weekly or biweekly
 # create # of weeks since first death (in our dataset)
 
-mydata2$weeks_since_first = 1 
+mydata2$weeks_since_first = 0
 for (i in 1:length(unique(mydata2$state))){
   for (k in 2:nrow(mydata2[which(mydata2$state==unique(mydata2$state)[i]),])){
   mydata2[which(mydata2$state==unique(mydata2$state)[i]),"weeks_since_first"][k]=
-    (mydata2[which(mydata2$state==unique(mydata2$state)[i]),"date"][k]-mydata2[which(mydata2$state==unique(mydata2$state)[i]),"date"][1])/7+1
+    (mydata2[which(mydata2$state==unique(mydata2$state)[i]),"date"][k]-mydata2[which(mydata2$state==unique(mydata2$state)[i]),"date"][1])/7
   }
 }
 ```
 
 # PCA 
 ```{r, echo=FALSE}
+# create PCA for the movement data
 pca_move <- prcomp(mydata2[,c("retail_rec", "grocery_pharmacy", "parks", "transit", "work", "residential")] # make sure col# correct
                    , center=TRUE, scale.=TRUE)
 pca_move
 summary(pca_move)
 mydata3 <- cbind(mydata2, pca_move$x)
+
+## truncate 
 ```
 
 # Model 1
@@ -193,9 +193,13 @@ plot(mod3$gam, trans=exp, ylab="Mortality Rate Ratios", xlab="Weeks since the fi
 
 ```
 
-(4) Weekly_death ~  s(days_since_first) + scaled independent variables + positive test ratio with 3 weeks lag + the PCA of movement + random intercept
+(4) Weekly_death ~  s(days_since_first) + scaled independent variables + positive test ratio with only 1-3 weeks lag without the current postive test ratio + the PCA of movement + the time since the mask policy with 3 levels + random intercept
 
 ```{r,echo=FALSE}
+
+mydata3$f_mask <- mydata3$mask_since_first
+mydata3$f_mask[mydata3$mask_since_first >=1 & mydata3$mask_since_first <=3 ] <- 1
+mydata3$f_mask[mydata3$mask_since_first >=4 & mydata3$mask_since_first <=6 ] <- 2
 
 mod4 = gamm4(weekly_death~ s(weeks_since_first, k=8, bs="cr") + factor(q_popdensity)
              + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
@@ -204,8 +208,9 @@ mod4 = gamm4(weekly_death~ s(weeks_since_first, k=8, bs="cr") + factor(q_popdens
              + scale(temp) + scale(perc)
              + scale(Bachelor_orhigher_perc) 
              + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
+             + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
              + PC1 + PC2 
+             + factor(f_mask)
              + offset(log(population)),
              random = ~(1|state), family=negbin(1), data = mydata3)
 
@@ -214,7 +219,7 @@ plot(mod4$gam, trans=exp, ylab="Mortality Rate Ratios", xlab="Weeks since the fi
 
 ```
 
-(5) Weekly_death ~  s(days_since_first) + scaled independent variables + positive test ratio with 3 weeks lag + the PCA of movement + Mask indicator + random intercept
+(5) Weekly_death ~  s(days_since_first) + scaled independent variables + positive test ratio with only 1-3 weeks lag without the current postive test ratio + the residential movement with 3 weeks lag + the time since the mask policy with 3 levels  + random intercept
 
 ```{r,echo=FALSE}
 
@@ -225,9 +230,9 @@ mod5 = gamm4(weekly_death~ s(weeks_since_first, k=8, bs="cr") + factor(q_popdens
              + scale(temp) + scale(perc)
              + scale(Bachelor_orhigher_perc) 
              + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
-             + PC1 + PC2 
-             + factor(Mask)
+             + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
+             + residential + resident_weeks_ago1 + resident_weeks_ago2 + resident_weeks_ago3 
+             + factor(f_mask)
              + offset(log(population)),
              random = ~(1|state), family=negbin(1), data = mydata3)
 
@@ -236,11 +241,11 @@ plot(mod5$gam, trans=exp, ylab="Mortality Rate Ratios", xlab="Weeks since the fi
 
 ```
 
-(6) Weekly_death ~  s(days_since_first) + scaled independent variables + positive test ratio with 3 weeks lag + the residential movement with 3 weeks lag + random intercept
+(6) Weekly_death ~   linear days_since_first + scaled independent variables + positive test ratio with 3 weeks lag + random intercept + random slope for days_since_first
 
 ```{r,echo=FALSE}
 
-mod6 = gamm4(weekly_death~ s(weeks_since_first, k=8, bs="cr") + factor(q_popdensity)
+mod6 = gamm4(weekly_death~ weeks_since_first + factor(q_popdensity)
              + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
              + scale(poverty_perc) 
              + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
@@ -248,130 +253,47 @@ mod6 = gamm4(weekly_death~ s(weeks_since_first, k=8, bs="cr") + factor(q_popdens
              + scale(Bachelor_orhigher_perc) 
              + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
              + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
-             + residential + resident_weeks_ago1 + resident_weeks_ago2 + resident_weeks_ago3 
              + offset(log(population)),
-             random = ~(1|state), family=negbin(1), data = mydata3)
+             random = ~(weeks_since_first|state), family=negbin(1), data = mydata3)
 
 summary(mod6$gam)
-plot(mod6$gam, trans=exp, ylab="Mortality Rate Ratios", xlab="Weeks since the first death incidence", select=1)
-
 ```
 
-(7) Weekly_death ~  s(days_since_first) + scaled independent variables + positive test ratio with 3 weeks lag + the residential movement with 3 weeks lag + Mask indicator + random intercept
+
+(7) Weekly_death ~ linear days_since_first  + scaled independent variables + positive test ratio with only 1-3 weeks lag without the current postive test ratio +  the PCA of movement + the time since the mask policy with 3 levels  +  random intercept + random slope for days_since_first
 
 ```{r,echo=FALSE}
 
-mod7 = gamm4(weekly_death~ s(weeks_since_first, k=8, bs="cr") + factor(q_popdensity)
+mod7 = gamm4(weekly_death~ weeks_since_first  + factor(q_popdensity)
              + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
              + scale(poverty_perc) 
              + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
              + scale(temp) + scale(perc)
              + scale(Bachelor_orhigher_perc) 
              + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
-             + residential + resident_weeks_ago1 + resident_weeks_ago2 + resident_weeks_ago3 
-             + factor(Mask)
-             + offset(log(population)),
-             random = ~(1|state), family=negbin(1), data = mydata3)
-
-summary(mod7$gam)
-plot(mod7$gam, trans=exp, ylab="Mortality Rate Ratios", xlab="Weeks since the first death incidence", select=1)
-
-```
-
-(8) Weekly_death ~   linear days_since_first + scaled independent variables + positive test ratio with 3 weeks lag + random intercept + random slope for days_since_first
-
-```{r,echo=FALSE}
-
-mod8 = gamm4(weekly_death~ weeks_since_first + factor(q_popdensity)
-             + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
-             + scale(poverty_perc) 
-             + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
-             + scale(temp) + scale(perc)
-             + scale(Bachelor_orhigher_perc) 
-             + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
+             + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
+             + PC1 + PC2
+             + factor(f_mask)
              + offset(log(population)),
              random = ~(weeks_since_first|state), family=negbin(1), data = mydata3)
+summary(mod7$gam)
+```
 
+(8) Weekly_death ~ linear days_since_first  + scaled independent variables + positive test ratio with only 1-3 weeks lag without the current postive test ratio +  the residential movement with 3 weeks lag + the time since the mask policy with 3 levels + random intercept + random slope for days_since_first
+
+```{r,echo=FALSE}
+
+mod8 = gamm4(weekly_death~ weeks_since_first  + factor(q_popdensity)
+             + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
+             + scale(poverty_perc) 
+             + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
+             + scale(temp) + scale(perc)
+             + scale(Bachelor_orhigher_perc) 
+             + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
+             + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
+             + residential + resident_weeks_ago1 + resident_weeks_ago2 + resident_weeks_ago3 
+             + factor(f_mask)
+             + offset(log(population)),
+             random = ~(weeks_since_first|state), family=negbin(1), data = mydata3)
 summary(mod8$gam)
 ```
-
-
-(9) Weekly_death ~ linear days_since_first  + scaled independent variables + positive test ratio with 3 weeks lag +  the PCA of movement +  random intercept + random slope for days_since_first
-
-```{r,echo=FALSE}
-
-mod9 = gamm4(weekly_death~ weeks_since_first  + factor(q_popdensity)
-             + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
-             + scale(poverty_perc) 
-             + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
-             + scale(temp) + scale(perc)
-             + scale(Bachelor_orhigher_perc) 
-             + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
-             + PC1 + PC2
-             + offset(log(population)),
-             random = ~(weeks_since_first|state), family=negbin(1), data = mydata3)
-summary(mod9$gam)
-```
-
-(10) Weekly_death ~ linear days_since_first  + scaled independent variables + positive test ratio with 3 weeks lag +  the PCA of movement +  Mask indicator + random intercept + random slope for days_since_first
-
-```{r,echo=FALSE}
-
-mod10 = gamm4(weekly_death~ weeks_since_first  + factor(q_popdensity)
-             + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
-             + scale(poverty_perc) 
-             + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
-             + scale(temp) + scale(perc)
-             + scale(Bachelor_orhigher_perc) 
-             + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
-             + PC1 + PC2
-             + factor(Mask)
-             + offset(log(population)),
-             random = ~(weeks_since_first|state), family=negbin(1), data = mydata3)
-summary(mod10$gam)
-```
-
-(11) Weekly_death ~   linear days_since_first + scaled independent variables + positive test ratio with 3 weeks lag + the residential movement with 3 weeks lag + random intercept + random slope for days_since_first
-
-```{r,echo=FALSE}
-
-mod11 = gamm4(weekly_death~ weeks_since_first + factor(q_popdensity)
-             + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
-             + scale(poverty_perc) 
-             + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
-             + scale(temp) + scale(perc)
-             + scale(Bachelor_orhigher_perc) 
-             + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
-             + residential + resident_weeks_ago1 + resident_weeks_ago2 + resident_weeks_ago3 
-             + offset(log(population)),
-             random = ~(weeks_since_first|state), family=negbin(1), data = mydata3)
-
-summary(mod11$gam)
-```
-
-(12) Weekly_death ~   linear days_since_first + scaled independent variables + positive test ratio with 3 weeks lag + the residential movement with 3 weeks lag + Mask indicator + random intercept + random slope for days_since_first
-
-```{r,echo=FALSE}
-
-mod12 = gamm4(weekly_death~ weeks_since_first + factor(q_popdensity)
-             + scale(Age_gp1) + scale(Age_gp3) + scale(Age_gp4) 
-             + scale(poverty_perc) 
-             + scale(Black.perc) + scale(Hispanic.or.Latino.perc)
-             + scale(temp) + scale(perc)
-             + scale(Bachelor_orhigher_perc) 
-             + scale(bed_rate)  + scale(smoke_perc) + scale(obese_perc)  
-             + rptest + ptest_weeks_ago1 + ptest_weeks_ago2 + ptest_weeks_ago3 
-             + residential + resident_weeks_ago1 + resident_weeks_ago2 + resident_weeks_ago3 
-             + factor(Mask)
-             + offset(log(population)),
-             random = ~(weeks_since_first|state), family=negbin(1), data = mydata3)
-
-summary(mod12$gam)
-```
-
-
