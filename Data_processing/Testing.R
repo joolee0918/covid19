@@ -33,7 +33,7 @@ write.csv(test,"/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/daily_testi
 write.csv(stateinfo,"/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/stateinfo.csv")
 
 
-## Weekly testing: start from Wednesday
+## Weekly testing: start from Tuesday
 
 test$date <- as.Date(test$date)
 #tmp <- test[, c("date", "state", "pos_test", "neg_test", "test")] %>% group_by(week = cut(date, "week"), state) 
