@@ -3,6 +3,7 @@
 #date: "5/11/2020"
 
 library(lubridate)
+library(tidyverse)
 
 testing <- read.csv("https://raw.githubusercontent.com/COVID19Tracking/covid-tracking-data/master/data/states_daily_4pm_et.csv")
 ### Stat-level
@@ -40,7 +41,7 @@ tmp <- test[, c("date", "state", "pos_test", "neg_test", "test")] %>% group_by(w
 
 state_weekly_test <- aggregate(.~week+ state , data=tmp, sum, na.rm=TRUE)
 state_weekly_test <- state_weekly_test[, -3]
-state_weekly_test$date <- ymd("2020-01-01" ) + weeks(state_weekly_test$week - 1 )
+state_weekly_test$date <- ymd("2020-01-01" ) + weeks(state_weekly_test$week - 1 ) -1
 state_weekly_test <- state_weekly_test[, c("week", "date", "state", "pos_test", "neg_test", "test")]
 state_weekly_test$state<- ifelse(state_weekly_test$state=="District Of Columbia", "District of Columbia", state_weekly_test$state)
 

@@ -19,7 +19,7 @@ tmp <- movement %>% group_by(week = week(date), state)
 
 movement_week <- aggregate(.~week+ state , data=tmp, mean, na.rm=TRUE)
 movement_week <- movement_week[, -3]
-movement_week$date <- ymd("2020-01-01" ) + weeks(movement_week$week - 1 )
+movement_week$date <- ymd("2020-01-01" ) + weeks(movement_week$week - 1 ) -1
 movement_week <- movement_week[, c("week", "date", "state", "residential", "work", "retail_rec", "grocery_pharmacy", "parks", "transit")]
 movement_week$date <- as.Date(movement_week$date)
 

@@ -37,7 +37,7 @@ tmp$stayathome <- as.numeric(tmp$stayathome)
 tmp <- tmp[, c(2, 7, 8)]
 tmp2 <- aggregate(.~week+ state, data=tmp, mean, na.rm=TRUE)
 
-tmp2$date <- ymd("2020-01-01" ) + weeks(tmp2$week - 1 )
+tmp2$date <- ymd("2020-01-01" ) + weeks(tmp2$week - 1 ) -1
 tmp2$stayathome <- ifelse(tmp2$stayathome>=0.5, 1, 0)
 tmp2 <- tmp2[, c("date", "state", "stayathome")]
 state_stayathome <- merge(tmp2, state_stayathome[, c("state", "Start.Date", "End.Date", "date")], by=c("state", "date"))
@@ -56,7 +56,7 @@ tmp$state <- as.factor(tmp$state)
 tmp$date <- as.Date(tmp$date)
 tmp2 <- aggregate(.~week+ state, data=tmp, mean, na.rm=TRUE)
 tmp2$Mask <- ifelse(tmp2$Mask>=0.5, 1, 0)
-tmp2$date <- ymd("2020-01-01" ) + weeks(tmp2$week - 1 )
+tmp2$date <- ymd("2020-01-01" ) + weeks(tmp2$week - 1 ) -1
 
 policy <- merge(state_stayathome, tmp2, by=c("state", "date"), all.x=T)
 policy <- policy[, c("state", "date", "stayathome", "Start.Date", "End.Date", "Mask")]

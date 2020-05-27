@@ -38,9 +38,7 @@ for(i in 1:length(mylist)){
 }
 
 state_case <- do.call(rbind, mylist)
-state_case <- state_case[state_case$case>0, ]
-## extract cum value greater than 11
-#state_case <- state_case[state_case$case>11,]
+
 write.csv(state_case, "/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/us_state_case_JHU.csv")
 
 ### state-level death
@@ -79,21 +77,19 @@ for(i in 1:length(mylist)){
 
 state_death <- do.call(rbind, mylist)
 names(state_death) <- c("date", "state", "cum_death", "daily_death")
-## extract cum value greater than 11
-state_daily_death <- state_death[state_death$cum_death>0,]
-write.csv(state_daily_death, "/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/us_state_daily_death_JHU.csv")
 
-## Weekly death: start from Wednesday
+write.csv(state_death, "/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/us_state_daily_death_JHU.csv")
+
+## Weekly death: start from Tuesday : R week function starts the week from Tuesday. 
 
 state_death$date <- as.Date(state_death$date)
 tmp <- state_death[, c("date", "state", "daily_death")] %>% group_by(week = week(date), state) 
 state_weekly_death <- aggregate(.~week+ state , data=tmp, sum, na.rm=TRUE)
 state_weekly_death <- state_weekly_death[, -3]
-state_weekly_death$date <- ymd("2020-01-01" ) + weeks(state_weekly_death$week - 1 )
+state_weekly_death$date <- ymd("2020-01-01" ) + weeks(state_weekly_death$week - 1 ) -1
 names(state_weekly_death) <- c("week", "state", "weekly_death", "date")
 state_weekly_death <- state_weekly_death[, c("week", "date", "state", "weekly_death")]
 
-## extract cum value greater than 11
 
 mylist <- split(state_weekly_death, state_weekly_death$state)
 for(i in 1:length(mylist)){
@@ -101,5 +97,4 @@ for(i in 1:length(mylist)){
 }
 
 state_weekly_death <- do.call(rbind, mylist)
-state_weekly_death <- state_weekly_death[state_weekly_death$cum_death>0, ]
 write.csv(state_weekly_death, "/Users/jooyounglee/Dropbox/2020_covid19/covid19/Data/us_state_weekly_death_JHU.csv")
